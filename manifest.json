@@ -1,0 +1,24 @@
+{
+  "name": "WPOM — Wrestling Program Optimization Model",
+  "short_name": "WPOM",
+  "description": "Recruiting intelligence for college and high school wrestling. Push alerts when athletes signal interest in your program.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D1B2A",
+  "theme_color": "#0D1B2A",
+  "icons": [
+    {
+      "src": "/wpom_logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/wpom_logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
