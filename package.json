@@ -1,0 +1,20 @@
+{
+  "name": "wpom-mwrestling",
+  "version": "1.0.0",
+  "description": "Wrestling Program Optimization Model - Transfer Portal & Recruiting Intelligence",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "lint": "echo 'No linter configured for vanilla HTML/JS project'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "keywords": [
+    "wrestling",
+    "analytics",
+    "recruiting"
+  ],
+  "author": "",
+  "license": "ISC"
+}
