@@ -1,0 +1,450 @@
+name,state,school,weight,classification,year,wins,losses,placement,final_record,seed,opponents_beaten
+Greyson Pettit,NJ,Delsea,132,OPEN,2026,5,0,1,5-0,21,Anthony DiAndrea|Sammy Spaulding|Richard DeLorenzo II|Colton Hagerty|Derek Sutphen
+Anthony DiAndrea,NJ,Watchung Hills,132,OPEN,2026,2,1,2,2-1,3,Salvatore Borrometi|Wyatt Tolson
+Gideon Gonzalez,NJ,Bergen Catholic,138,OPEN,2026,5,0,1,5-0,3,Brian Little|Chase Hansen|Isaias Hernandez|Jayce Cappello|Isa Kupa
+Brian Little,NJ,St. Joseph Montvale,138,OPEN,2026,3,1,2,3-1,1,Amari Vann|Nicholas Pallitto|Armani Maglione
+Robert Duffy,NJ,CBA,144,OPEN,2026,5,0,1,5-0,1,Ryan DeGeorge|Seach Hibler|Nate Keller|Justin Marcello|Luken Ramos
+Ryan DeGeorge,NJ,Delbarton,144,OPEN,2026,4,1,2,4-1,2,Sowzrawca Tsay|Armani McCann|Tyler Yildiz|Adrian Harris
+Sonny Amato,NJ,Rumson-Fair Haven,150,OPEN,2026,5,0,1,5-0,1,Nicholas Schwartz|Michael Craft|Owen Garriques|Colin Smyth|Muhammed Tafida
+Nicholas Schwartz,NJ,Delbarton,150,OPEN,2026,4,1,2,4-1,2,Jackson Weller|Anthony Borrometi|Ethan Delacruz|Bryan Dougherty
+Joey Canova,NJ,Bergen Catholic,157,OPEN,2026,5,0,1,5-0,9,Joey Monticello|Sean Love|Kage Jones|Joseph Ruiz|Jenier Soto Pastrana
+Joey Monticello,NJ,Hanover Park,157,OPEN,2026,3,1,2,3-1,3,Luke Scholz|Charlie Bacinsky|Reid Angermeier
+Jayden James,NJ,Delbarton,165,OPEN,2026,4,0,1,4-0,1,Ryan Gavrish|Manny Gusfa|Cameron Pote|Nicco Capaldo
+Ryan Gavrish,NJ,St. John Vianney,165,OPEN,2026,4,1,2,4-1,6,Reid Clausi|Jake Clayton|Raymond Miller|Hutch Rhyne
+Santino Rodriguez,NJ,Don Bosco,175,OPEN,2026,5,0,1,5-0,1,Gabe Logan|Cole Dunham|Ryan Engle|William Capizzi|Robert Fazzino
+Gabe Logan,NJ,Delbarton,175,OPEN,2026,4,1,2,4-1,3,Brock Oizerowitz|Anthony Verdi|Olivier Paul|Ryan Sklavounos
+Carl Betz,NJ,Delbarton,190,OPEN,2026,5,0,1,5-0,1,Nevin Mattessich|Alexander Reyes|Carmen Marano|True DiGuiseppe|Temiloluwa Odumbo
+Nevin Mattessich,NJ,Don Bosco,190,OPEN,2026,4,1,2,4-1,2,Jaden Simpson|Luke Dougherty|Frank DiMarzio|Parker Needham
+Tanner Hodgins,NJ,Howell,215,OPEN,2026,4,0,1,4-0,2,Nicolas Gonzalez|Andria Tatishvili|Grayson Abbruzzese|Cristian Garcia
+Nicolas Gonzalez,NJ,Mount Olive,215,OPEN,2026,4,1,2,4-1,5,Dante DeLuca|Salvatore Marchese|Wyatt Sisco|Michael Borgia
+Cristian Alvarez,NJ,St. Joseph Montvale,285,OPEN,2026,5,0,1,5-0,1,Mateo Vinciguerra|Jared Martini|Mohammad Targali|Jayson Fouche|Ahmad Fears
+Mateo Vinciguerra,NJ,Woodstown,285,OPEN,2026,4,1,2,4-1,2,Thomas Borgia|Trent Levash|Jonah Jordan|Slayton D'Amico
+Thomas Blewett,NJ,Middletown North,106,OPEN,2026,5,0,1,5-0,2,Will Cruz|Stephen Bagocius|Steven Vidal|Alex Spagnuolo|Luke Eberhard
+Will Cruz,NJ,Paulsboro,106,OPEN,2026,4,1,2,4-1,1,Forest Rose|John Anthony Fenuto|Daniel Berardi|Cole Ranley
+Killian Coluccio,NJ,Lacey,113,OPEN,2026,5,0,1,5-0,1,Charles Esposito|Julius Feliciano|Tristan Rosemeyer|Evan Villecco|Sayan Rao
+Charles Esposito,NJ,St. Joseph Montvale,113,OPEN,2026,4,1,2,4-1,2,Shiloh Joyce|Logan Forgatch|Iyon Townsend|Danny D'Arcy
+Cameron Sontz,NJ,Delbarton,120,OPEN,2026,5,0,1,5-0,1,JoJo Burke|Carmine Sipper|Eamon Fry|Jacob Richardson|Jaydon Sulca
+JoJo Burke,NJ,St. Joseph Montvale,120,OPEN,2026,4,1,2,4-1,2,Cade Collins|Robert Rodriguez|Joseph Rowinski|Tyler Northern
+Paul Kenny,NJ,CBA,126,OPEN,2026,5,0,1,5-0,1,Tommy Marchetti|Dalton Weber|Sean Elliott|Dante DePaul|Rohi Hubert
+Tommy Marchetti,NJ,Delbarton,126,OPEN,2026,3,1,2,3-1,3,Matthew Mulligan|Mikey Bautista|Yankee Mabee
+Forest Rose,NJ,Immaculata,106,OPEN,2026,3,2,5,3-2,5,Cayden Wadle|Ray Burdette|Frank Albright
+Stephen Bagocius,NJ,Camden Catholic,106,OPEN,2026,3,2,5,3-2,6,Finn Andersen|Justin Jani|Nicholas Nguyen
+Julius Feliciano,NJ,Toms River East,113,OPEN,2026,3,2,4,3-2,12,Ryan Blewett|Alex Rosciano|Peter Trezza
+Shiloh Joyce,NJ,CBA,113,OPEN,2026,5,1,3,5-1,11,Peter Trezza|Anthony Riotto|Chase Millan|Julius Feliciano|Anthony Riotto
+Carmine Sipper,NJ,Caldwell,120,OPEN,2026,4,2,4,4-2,5,Ethan Michaels|Julian Zargo|Casey Pekula|Robert Rodriguez
+Cade Collins,NJ,Southern,120,OPEN,2026,5,1,3,5-1,6,Michael Echeverri|Shane Maghan|Chase Wright|Carmine Sipper|Ethan Michaels
+Dalton Weber,NJ,Pope John,126,OPEN,2026,4,1,3,4-1,5,Aidan Flynn|Cole DeAngelo|Christian Ramirez|Mikey Bautista
+Matthew Mulligan,NJ,Bergen Catholic,126,OPEN,2026,3,3,6,3-3,7,Nicholas Campanelli|Nico DeRado|Christian Bastante
+Sammy Spaulding,NJ,Camden Catholic,126,OPEN,2026,4,2,4,4-2,1,Peter Terranova|Lucas Reeves|Cassen Correggio|Colton Hagerty
+Amari Vann,NJ,Delsea,138,OPEN,2026,2,3,6,2-3,4,Giovanni Schinina|Ryan Mckenna
+Chase Hansen,NJ,Lower Cape May,138,OPEN,2026,5,1,3,5-1,2,Solomon Soriente|Jack Abramson|Jaden Sanders|Nicholas Pallitto|Giovanni Schinina
+Seach Hibler,NJ,Paramus Catholic,144,OPEN,2026,3,2,5,3-2,4,Laudan Henry|Logan Zimmer|Sowzrawca Tsay
+Sowzrawca Tsay,NJ,Bergen Catholic,144,OPEN,2026,3,3,6,3-3,6,Anthony Depaul|Delvan Rotte|Thomas McDonald
+Michael Craft,NJ,Camden Catholic,150,OPEN,2026,4,2,4,4-2,4,William Sakoutis|Brady Little|Joshua Ortiz|Rhett Washleski
+Jackson Weller,NJ,Delran,150,OPEN,2026,5,1,3,5-1,3,Abraham Adu-Amoako|Nicholas Wall|Brady Tiernan|Michael Craft|Joseph Petriello
+Sean Love,NJ,Piscataway,157,OPEN,2026,5,1,3,5-1,5,Wyatt Fry|Harry Asatrian|Christian Ardiles|Wyatt Fry|Ryan Mitchell
+Reid Clausi,NJ,West Essex,165,OPEN,2026,4,2,4,4-2,2,Justin Bullock|Joseph Paretti|Cristian Rodriguez|Manny Gusfa
+Cole Dunham,NJ,Pope John,175,OPEN,2026,4,2,4,4-2,5,Tyler Whitford|John Saraiva|Nolan Monaghan|Anthony Verdi
+Brock Oizerowitz,NJ,CBA,175,OPEN,2026,3,3,6,3-3,2,Tyler Going|Benjamin Marques|Izael Moya
+Alexander Reyes,NJ,Holmdel,190,OPEN,2026,5,1,3,5-1,4,Tornick Kajaia|Timmy O'Rourke|Dominic Dorrman|Jaden Simpson|Luke Dougherty
+Jaden Simpson,NJ,Camden Catholic,190,OPEN,2026,4,2,4,4-2,3,Levi Foote|Greg Sawyer|Brian Garcia|Tornick Kajaia
+Dante DeLuca,NJ,Don Bosco,215,OPEN,2026,4,2,4,4-2,1,Daniel Francis|Brody Ismael|Madden Rosario|Rocco Salerno
+Jared Martini,NJ,Mount Olive,285,OPEN,2026,4,2,4,4-2,4,Nicholas Duarte|Kacper Trzeciak|Nolan Brewer|Trent Levash
+Thomas Borgia,NJ,West Morris,285,OPEN,2026,5,1,3,5-1,3,Raymir Brighton|Jarairya Jean|Kyheem Freeman|Jared Martini|Nicholas Duarte
+John Anthony Fenuto,NJ,West Deptford,106,OPEN,2026,2,2,9,2-2,24,Jake Appello|Alexander Viscido
+Cayden Wadle,NJ,North Hunterdon,106,OPEN,2026,2,3,8,2-3,4,Alex Holdfeld|Alex Spagnuolo
+Finn Andersen,NJ,Delbarton,106,OPEN,2026,4,2,7,4-2,14,Jonas Lusker|David Peoples|Cayden Wadle|Adam Froehlich
+Steven Vidal,NJ,Hackettstown,106,OPEN,2026,2,2,9,2-2,26,Kyle Capodanno|Rocco Caputo Jr.
+Tristan Rosemeyer,NJ,Lower Cape May,113,OPEN,2026,2,2,9,2-2,8,Joseph Formosa|Gabriel Roman
+Peter Trezza,NJ,Middletown South,113,OPEN,2026,4,2,5,4-2,3,Owen Fol|Steven Malfitano|Anthony Riotto|Logan Forgatch
+Logan Forgatch,NJ,Parsippany Hills,113,OPEN,2026,4,2,7,4-2,7,Omar Carrillo-Solano|Luke Manieri|Tanner Connelly|Michael Napolitano
+Eamon Fry,NJ,Rumson-Fair Haven,120,OPEN,2026,2,2,9,2-2,9,Michael Daly|Alec Murado
+Ethan Michaels,NJ,Colts Neck,120,OPEN,2026,4,2,5,4-2,4,Cole Rebels|Robert Rodriguez|Cole Rebels|Santino DiMatteo
+Michael Echeverri,NJ,Northern Highlands,120,OPEN,2026,2,2,9,2-2,19,Ryan McConaghy|Muhammad Abuhadba
+Robert Rodriguez,NJ,St. Peter's Prep,120,OPEN,2026,4,3,6,4-3,10,Santino DiMatteo|Micah Loudermilk|Michael Daly|Julian Zargo
+Sean Elliott,NJ,Howell,126,OPEN,2026,4,2,7,4-2,24,Matthew Gould|Reid Buzby|Terrance Fearon|Michael Lamb
+Mikey Bautista,NJ,St. Joseph Montvale,126,OPEN,2026,4,2,5,4-2,6,Andrew Bonita|Parker Humphrey|Matthew Mulligan|Terrance Fearon
+Nicholas Campanelli,NJ,St. Thomas Aquinas,126,OPEN,2026,2,2,9,2-2,31,Lazarus Joyce|Anthony Mason
+Peter Terranova,NJ,Delbarton,132,OPEN,2026,4,2,6,4-2,8,Jack Lorper|Davey Rhinehart|Richard DeLorenzo II|Andre Morero
+Richard DeLorenzo II,NJ,Toms River East,132,OPEN,2026,4,2,7,4-2,4,Teag Saito|Malik Abuharthieh|Salvatore Borrometi|Dmytro Bohdan
+Salvatore Borrometi,NJ,St. Peter's Prep,132,OPEN,2026,3,3,8,3-3,6,Eli Glover|Gage Grant|Lucas Reeves
+Johnathon McGinty,NJ,St. Joseph Montvale,132,OPEN,2026,4,0,3,4-0,2,Nick DiFrancescantonio|Steven Ham|Aidyn Herrera|Sammy Spaulding
+Nick DiFrancescantonio,NJ,Hanover Park,132,OPEN,2026,2,2,9,2-2,7,Joseph Rizzuto|Jayden Jardine
+Giovanni Schinina,NJ,St. Peter's Prep,138,OPEN,2026,4,2,5,4-2,5,Nicolas Marchetti|Nick Guastello|Amari Vann|Jayce Cappello
+Isaias Hernandez,NJ,DePaul,138,OPEN,2026,2,2,9,2-2,22,Dominic Volek|Jacob Inserra
+Solomon Soriente,NJ,Caldwell,138,OPEN,2026,3,2,8,3-2,10,Tyler Oden|Dominic Marino|Jacob Inserra
+Nate Keller,NJ,Immaculata,144,OPEN,2026,5,2,4,5-2,8,Eric Swanson|Dominic Lally|Sowzrawca Tsay|Laudan Henry|Delvan Rotte
+Laudan Henry,NJ,St. Peter's Prep,144,OPEN,2026,3,3,8,3-3,5,Attila Vigilante|Michael Mirassol|Ryan Yang
+Anthony Depaul,NJ,Delsea,144,OPEN,2026,6,1,3,6-1,3,Christian Reyes|Joseph Stanzione|Nate Keller|Seach Hibler|Armani McCann|Eric Swanson
+Armani McCann,NJ,Jackson Township,144,OPEN,2026,4,2,7,4-2,7,Ryan Yang|Jamal Kouzer|Laudan Henry|Attila Vigilante
+Owen Garriques,NJ,Phillipsburg,150,OPEN,2026,2,2,9,2-2,8,Anthony Russo|Anthony Molinaro
+William Sakoutis,NJ,CBA,150,OPEN,2026,2,1,17,2-1,12,Rhett Washleski|Owen Beneciuk
+Abraham Adu-Amoako,NJ,St. John Vianney,150,OPEN,2026,3,3,8,3-3,11,Nicholas Barone|Parker Quinn|Colin Smyth
+Anthony Borrometi,NJ,St. Peter's Prep,150,OPEN,2026,1,2,9,1-2,7,Joseph Petriello
+Kage Jones,NJ,Camden Catholic,157,OPEN,2026,2,2,9,2-2,1,Louis DellaVolpe|Youssef Elgarhi
+Wyatt Fry,NJ,Rumson-Fair Haven,157,OPEN,2026,4,2,4,4-2,4,Braydan Lombreglia|Jason Huss|James Jakub|Luke Stempkowski
+Luke Scholz,NJ,Cranford,157,OPEN,2026,3,3,8,3-3,6,James Jakub|Elijah Beatty|Joseph Ruiz
+Trevor Jones,NJ,Delbarton,157,OPEN,2026,3,1,6,3-1,2,Ryan Mitchell|Johnny Chirico|John Garcia
+Ryan Mitchell,NJ,St. Joseph Montvale,157,OPEN,2026,5,2,5,5-2,10,Luke Stempkowski|Jeremy Marsella|Trevor Jones|Luke Scholz|Braydan Lombreglia
+Manny Gusfa,NJ,Bergen Catholic,165,OPEN,2026,4,3,6,4-3,9,Chad McConnell|Ryder Vorndran|Brendan Boyer|Raymond Miller
+Jake Clayton,NJ,Point Pleasant Boro,165,OPEN,2026,4,2,5,4-2,3,Lukas Van Veen|Gage Dembowski|Manny Gusfa|Chad McConnell
+Justin Bullock,NJ,Mount Olive,165,OPEN,2026,2,2,9,2-2,10,Brendan Boyer|Clayton Tyson
+Ryan Engle,NJ,Ridge,175,OPEN,2026,4,2,7,4-2,9,AJ DiGiovanni|Nicholas Allen|Tyler Going|Daniel Benbrook
+Tyler Whitford,NJ,St. Joseph Metuchen,175,OPEN,2026,6,1,3,6-1,4,Michael Colon|Joey Acinapura|Cole Dunham|Brock Oizerowitz|Ryan Engle|Gavin Geleta
+Anthony Verdi,NJ,St. Peter's Prep,175,OPEN,2026,5,2,5,5-2,6,Daniel Benbrook|Shane Morrell|Brock Oizerowitz|Tyler Going|AJ DiGiovanni
+Tyler Going,NJ,Howell,175,OPEN,2026,3,3,8,3-3,10,Gavin Geleta|Zyeir Green|Michael Damerjian
+Carmen Marano,NJ,St. Peter's Prep,190,OPEN,2026,2,2,9,2-2,8,Guy Oelsner|Jarred O'Neill
+Tornick Kajaia,NJ,Long Branch,190,OPEN,2026,4,2,5,4-2,5,Chad Sadaka|Nicholas Bertolotti|Luke Dougherty|Dominic Dorrman
+Levi Foote,NJ,Southern,190,OPEN,2026,2,2,9,2-2,6,Adam Sepulvada|Ashton Wall
+Luke Dougherty,NJ,Rumson-Fair Haven,190,OPEN,2026,4,3,6,4-3,7,Joe Cutruzzula|Jake Mott|True DiGuiseppe|Chad Sadaka
+Daniel Francis,NJ,St. Augustine,215,OPEN,2026,2,2,9,2-2,24,Shawn Retta|Zachary Florio
+Salvatore Marchese,NJ,Delsea,215,OPEN,2026,5,1,3,5-1,4,Brett Rankin|Everett Bell|Dante DeLuca|Matthew Morrissey|Grayson Abbruzzese
+Tyler Palumbo,NJ,CBA,215,OPEN,2026,4,0,5,4-0,3,Rocco Salerno|Dante Benvenuti|Charles Schriver|Rocco Salerno
+Rocco Salerno,NJ,Seton Hall Prep,215,OPEN,2026,4,3,6,4-3,6,Matthew Morrissey|Nick Mignone|Andria Tatishvili|Brody Ismael
+Andria Tatishvili,NJ,Fair Lawn,215,OPEN,2026,3,3,8,3-3,10,Jackson Wheeler|Owen Dandeo|Wyatt Sisco
+Mohammad Targali,NJ,Matawan,285,OPEN,2026,3,3,8,3-3,8,Gabe Jang|Obreight Ingram|August Moser
+Nicholas Duarte,NJ,Hillsborough,285,OPEN,2026,5,2,5,5-2,5,Jason Gross|Max Georges|Trent Levash|Mohammad Targali|Jonah Jordan
+Raymir Brighton,NJ,Plainfield,285,OPEN,2026,2,2,9,2-2,11,August Moser|Lars Stegner
+Trent Levash,NJ,Bridgewater-Raritan,285,OPEN,2026,3,3,6,3-3,7,Gavin Mericle|Anthony DeSimone|Jason Gross
+Daniel Berardi,NJ,Westfield,106,OPEN,2026,1,2,9,1-2,17,Ronnie Rodriguez
+Jake Appello,NJ,Roselle Park,106,OPEN,2026,1,2,9,1-2,8,Michael Rankin
+Ray Burdette,NJ,St. Joseph Montvale,106,OPEN,2026,2,2,9,2-2,21,John Tarantino|Nicholas Nguyen
+Jonas Lusker,NJ,Southern,106,OPEN,2026,6,2,4,6-2,3,Vincent Rainey|Stephen Bagocius|Cayden Wadle|John Anthony Fenuto|John Tarantino|Chase Young
+Justin Jani,NJ,Howell,106,OPEN,2026,1,2,9,1-2,11,Dominick Malfitano
+Kyle Capodanno,NJ,Monroe,106,OPEN,2026,2,2,9,2-2,10,Alexander Dyki|Alexander Viscido
+Alex Spagnuolo,NJ,Hanover Park,106,OPEN,2026,3,2,9,3-2,18,Adam Froehlich|Kyle Capodanno|Ronnie Rodriguez
+Evan Villecco,NJ,Kingsway,113,OPEN,2026,1,2,9,1-2,17,Chase Dubuque
+Joseph Formosa,NJ,West Essex,113,OPEN,2026,2,2,9,2-2,24,Tanner Connelly|Luke Manieri
+Ryan Blewett,NJ,Middletown North,113,OPEN,2026,2,2,9,2-2,5,Andrew Adell|Chase Millan
+Owen Fol,NJ,North Hunterdon,113,OPEN,2026,2,2,9,2-2,14,Liam Kisby|Matthew Pagan
+Anthony Riotto,NJ,Bergen Catholic,113,OPEN,2026,5,3,6,5-3,6,Phillip Griffin|Tanner Connelly|Tristan Rosemeyer|Owen Fol|Andrew Adell
+Omar Carrillo-Solano,NJ,Wall,113,OPEN,2026,1,2,9,1-2,23,Frank Figel
+Iyon Townsend,NJ,Paul VI,113,OPEN,2026,1,2,9,1-2,15,Nick Banos
+Jacob Richardson,NJ,Watchung Hills,120,OPEN,2026,1,2,9,1-2,16,Jaeczar Evans
+Michael Daly,NJ,Cranford,120,OPEN,2026,4,3,8,4-3,8,Joseph Vezzosi|Michael Echeverri|David Vazquez|Micah Loudermilk
+Julian Zargo,NJ,St. John Vianney,120,OPEN,2026,3,2,9,3-2,12,Anthony Pettinelli|Muhammad Abuhadba|Chase Wright
+Ryan McConaghy,NJ,West Deptford,120,OPEN,2026,1,2,9,1-2,3,Liam Suydam
+Shane Maghan,NJ,Howell,120,OPEN,2026,2,2,9,2-2,22,Julian Arango|Anthony Pettinelli
+Santino DiMatteo,NJ,CBA,120,OPEN,2026,3,2,9,3-2,7,Owen Boyle|Joseph Rowinski|Alec Murado
+Joseph Rowinski,NJ,Hackettstown,120,OPEN,2026,2,2,9,2-2,15,David Vazquez|Jaeczar Evans
+Dante DePaul,NJ,Delsea,126,OPEN,2026,1,2,9,1-2,17,Jason Marasco
+Matthew Gould,NJ,St. John Vianney,126,OPEN,2026,2,2,9,2-2,8,Jarrett Rodriguez|Chace Severs
+Aidan Flynn,NJ,Lacey,126,OPEN,2026,1,2,9,1-2,21,Augie Szamreta
+Christian Ramirez,NJ,St. Peter's Prep,126,OPEN,2026,5,1,4,5-1,4,Christian Hoopes|Giovanni Gutierrez|Matthew Mulligan|Sean Elliott|Lazarus Joyce
+Christian Hoopes,NJ,Washington Township,126,OPEN,2026,2,2,9,2-2,13,Michael Lamb|Joseph Viola
+Andrew Bonita,NJ,Don Bosco,126,OPEN,2026,2,2,9,2-2,22,Terrance Fearon|Augie Szamreta
+Nico DeRado,NJ,St. Joseph Metuchen,126,OPEN,2026,1,2,9,1-2,10,Chace Severs
+Lazarus Joyce,NJ,Camden Catholic,126,OPEN,2026,3,2,9,3-2,15,Chase Sudano|Jarrett Rodriguez|Jason Marasco
+Lucas Reeves,NJ,Bergen Catholic,132,OPEN,2026,3,2,9,3-2,16,Dmytro Bohdan|Jayden Jardine|Adan Cedeno
+Jack Lorper,NJ,Hawthorne,132,OPEN,2026,1,2,9,1-2,9,Julian Bednar
+Colton Hagerty,NJ,Washington Township,132,OPEN,2026,6,2,5,6-2,5,River Hibler|Peter Terranova|Salvatore Borrometi|Nick DiFrancescantonio|Teag Saito|Aidan Yarussi
+Teag Saito,NJ,CBA,132,OPEN,2026,2,2,9,2-2,13,Dylan Hersh|Jeremy Negron
+Eli Glover,NJ,Lower Cape May,132,OPEN,2026,2,2,9,2-2,22,Aidan Yarussi|Derek Sutphen
+Joseph Rizzuto,NJ,DePaul,132,OPEN,2026,2,2,9,2-2,10,Owen Brackett|Davey Rhinehart
+Steven Ham,NJ,Lawrence,132,OPEN,2026,1,2,9,1-2,15,Adan Cedeno
+Nicholas Pallitto,NJ,Paramus Catholic,138,OPEN,2026,5,2,4,5-2,16,Landan Riddell|Amari Vann|Isaias Hernandez|Tucker Pazinko|Jordan Segal
+Joaquin Duque,NJ,Rumson-Fair Haven,138,OPEN,2026,2,1,9,2-1,9,Tucker Pazinko|Ryan Preziosi
+Tucker Pazinko,NJ,Jackson Township,138,OPEN,2026,2,2,9,2-2,8,Robbie Fritz|Dominic Marino
+Nicolas Marchetti,NJ,Delbarton,138,OPEN,2026,1,2,9,1-2,21,Brody Neill
+Jayce Cappello,NJ,Toms River East,138,OPEN,2026,5,2,7,5-2,14,Massimo Gonzalez|Solomon Soriente|Joaquin Duque|Dominic Volek|Dylan Placca
+Dominic Volek,NJ,Ocean Township,138,OPEN,2026,2,2,9,2-2,6,Tye Falkenstein|Nick Guastello
+Tyler Oden,NJ,Middletown North,138,OPEN,2026,2,2,9,2-2,26,Anthony Caponegro|Ryan Preziosi
+Jack Abramson,NJ,Pingry,138,OPEN,2026,1,2,9,1-2,18,Jordan Segal
+Justin Marcello,NJ,Northern Burlington,144,OPEN,2026,1,2,9,1-2,16,Anthony Barrett
+Eric Swanson,NJ,Camden Catholic,144,OPEN,2026,3,2,9,3-2,9,Dylan Biegel|Jackson Fearon|Jamal Kouzer
+Attila Vigilante,NJ,Southern,144,OPEN,2026,3,2,9,3-2,12,Michael Hasson|Adrian Arbelo|CJ Anzaldo
+Christian Reyes,NJ,Holmdel,144,OPEN,2026,2,2,9,2-2,19,Ariel Azeredo|Fernando Avellan
+Delvan Rotte,NJ,DePaul,144,OPEN,2026,3,2,9,3-2,11,CJ Anzaldo|Christian Reyes|Michael Mirassol
+Ryan Yang,NJ,Ridge,144,OPEN,2026,3,2,9,3-2,10,Brandon Mayock|Anthony Barrett|Dominic Lally
+Tyler Yildiz,NJ,Seton Hall Prep,144,OPEN,2026,1,2,9,1-2,15,Jackson Fearon
+Colin Smyth,NJ,Mount Olive,150,OPEN,2026,3,2,9,3-2,16,Sebastian Dobak|Anthony Russo|Bryan Dougherty
+Anthony Russo,NJ,Red Bank Catholic,150,OPEN,2026,2,2,9,2-2,24,Braeden Valley|Michael Frank
+Rhett Washleski,NJ,Immaculata,150,OPEN,2026,6,2,5,6-2,5,William Clasen|Joseph Petriello|Abraham Adu-Amoako|Anthony Borrometi|Jean Paul Bonnette|Parker Quinn
+Brady Little,NJ,Howell,150,OPEN,2026,1,2,9,1-2,13,Daniel Gonzalez
+Nicholas Wall,NJ,Middletown North,150,OPEN,2026,1,2,9,1-2,14,Jean Paul Bonnette
+Nicholas Barone,NJ,Paramus Catholic,150,OPEN,2026,5,2,7,5-2,6,Damien Pierro|Abraham Adu-Amoako|Owen Garriques|Daniel Gonzalez|Owen Beneciuk
+Joseph Petriello,NJ,Dumont,150,OPEN,2026,4,3,6,4-3,10,Michael Frank|Nicholas Barone|Ethan Delacruz|Anthony Molinaro
+Ethan Delacruz,NJ,Bound Brook,150,OPEN,2026,2,2,9,2-2,15,Ryan Glenn|Sebastian Dobak
+Louis DellaVolpe,NJ,Don Bosco,157,OPEN,2026,2,2,9,2-2,17,August Katz|Joseph Aiello
+Joseph Ruiz,NJ,St. Peter's Prep,157,OPEN,2026,3,2,9,3-2,8,Daniel Byrne|Louis DellaVolpe|Finley Pazinko
+Harry Asatrian,NJ,Paramus Catholic,157,OPEN,2026,2,2,9,2-2,12,Owen Miller|Levi Schulmann
+Braydan Lombreglia,NJ,Pope John,157,OPEN,2026,3,2,9,3-2,13,Grant Thompson|Harry Asatrian|Matthew Miranda
+Charlie Bacinsky,NJ,Roxbury,157,OPEN,2026,1,2,9,1-2,19,Matthew Miranda
+James Jakub,NJ,CBA,157,OPEN,2026,5,2,7,5-2,11,Levi Schulmann|Luke Scholz|Kage Jones|Grant Thompson|Owen Miller
+Luke Stempkowski,NJ,Pascack Valley,157,OPEN,2026,3,2,9,3-2,7,Finley Pazinko|August Katz|Jenier Soto Pastrana
+Johnny Chirico,NJ,St. Augustine,157,OPEN,2026,1,2,9,1-2,15,Joseph Aiello
+Cameron Pote,NJ,Delsea,165,OPEN,2026,2,2,9,2-2,17,Vincent Esposito|Antonio Maiden
+Chad McConnell,NJ,Pompton Lakes,165,OPEN,2026,3,2,9,3-2,8,Dean Natale|Cameron Pote|Clayton Tyson
+Morgan Schwarz,NJ,St. Joseph Metuchen,165,OPEN,2026,4,0,3,4-0,5,Brandon Papa|Robert Attenborough|Reid Clausi|Jake Clayton
+Brandon Papa,NJ,Seton Hall Prep,165,OPEN,2026,1,2,9,1-2,12,Nico Cordova
+Joshua Piparo,NJ,St. Peter's Prep,165,OPEN,2026,2,0,17,2-0,4,Matthew McCann|Evan Curnow
+Matthew McCann,NJ,Bridgewater-Raritan,165,OPEN,2026,4,2,8,4-2,13,Gino Gorga|Justin Bullock|Lukas Katsigiannis|Ryan Willi
+Lukas Van Veen,NJ,Pascack Valley,165,OPEN,2026,2,2,9,2-2,19,Ryan Willi|Evan Curnow
+Raymond Miller,NJ,Rancocas Valley,165,OPEN,2026,2,2,9,2-2,22,Lukas Katsigiannis|Lukas Van Veen
+Brendan Boyer,NJ,CBA,165,OPEN,2026,4,2,7,4-2,7,Davi Guimaraes|Matthew McCann|Joseph Paretti|Ryder Vorndran
+Joseph Paretti,NJ,St. Joseph Montvale,165,OPEN,2026,2,2,9,2-2,15,Antonio Maiden|Vincent Esposito
+William Capizzi,NJ,Passaic Valley,175,OPEN,2026,2,2,9,2-2,16,Kwabena Morgan|Greyson Hyland
+AJ DiGiovanni,NJ,Bergen Catholic,175,OPEN,2026,3,2,9,3-2,8,Tyler Shane|William Capizzi|Zyeir Green
+John Saraiva,NJ,St. John Vianney,175,OPEN,2026,2,2,9,2-2,12,Luke Shivas|Shane Morrell
+Michael Colon,NJ,Lacey,175,OPEN,2026,1,2,9,1-2,20,Vincent Palermo
+Olivier Paul,NJ,Delaware Valley,175,OPEN,2026,1,2,9,1-2,14,Michael Damerjian
+Daniel Benbrook,NJ,Middletown North,175,OPEN,2026,3,2,9,3-2,11,Gerald Miller|Vincent Palermo|Nolan Monaghan
+Gavin Geleta,NJ,Phillipsburg,175,OPEN,2026,3,2,9,3-2,7,Nicholas Daddona|Benjamin Marques|Tyler Shane
+Benjamin Marques,NJ,St. Joseph Montvale,175,OPEN,2026,2,2,9,2-2,18,Greyson Hyland|Kwabena Morgan
+True DiGuiseppe,NJ,Vernon,190,OPEN,2026,4,3,8,4-3,16,Youssef Ibrahim|Levi Foote|Guy Oelsner|Andrew Zeidman
+Guy Oelsner,NJ,Paramus Catholic,190,OPEN,2026,2,2,9,2-2,9,Cole Torres|David Borodziuk
+Chad Sadaka,NJ,Bergen Catholic,190,OPEN,2026,3,2,9,3-2,12,Artun Kirgezmis|Brian Garcia|Ashton Wall
+Timmy O'Rourke,NJ,Howell,190,OPEN,2026,1,2,9,1-2,20,Brody Taylor
+Greg Sawyer,NJ,Delsea,190,OPEN,2026,1,2,9,1-2,14,Deacon Frayne
+Adam Sepulvada,NJ,St. Joseph Montvale,190,OPEN,2026,1,2,9,1-2,11,Finn Cavanaugh
+Joe Cutruzzula,NJ,West Essex,190,OPEN,2026,3,1,9,3-1,10,David Borodziuk|Frank DiMarzio|Cole Torres
+Frank DiMarzio,NJ,Morris Hills,190,OPEN,2026,2,2,9,2-2,15,Andrew Zeidman|Youssef Ibrahim
+Brody Ismael,NJ,Delbarton,215,OPEN,2026,2,2,9,2-2,17,Shawn Retta|Ivan Yultukhovskyi
+Shawn Retta,NJ,Keansburg/Henry Hudson,215,OPEN,2026,2,2,9,2-2,8,Aaron Veytsman|Tuguldur Bayarkhuu
+Wyatt Sisco,NJ,Kinnelon,215,OPEN,2026,3,2,9,3-2,12,Ajibola Oshin|Jacob Chapman|Nick Mignone
+Brett Rankin,NJ,Toms River South,215,OPEN,2026,1,2,9,1-2,13,Paul Boyle
+Dante Benvenuti,NJ,Passaic Valley,215,OPEN,2026,2,2,9,2-2,14,Jacob Chapman|Everett Bell
+Matthew Morrissey,NJ,Old Tappan,215,OPEN,2026,5,2,7,5-2,11,Daniel Montemurno|Andria Tatishvili|Daniel Francis|Dante Benvenuti|Ajibola Oshin
+Jackson Wheeler,NJ,Lenape,215,OPEN,2026,2,2,9,2-2,7,Tuguldur Bayarkhuu|Aaron Veytsman
+Grayson Abbruzzese,NJ,Paramus Catholic,215,OPEN,2026,3,2,9,3-2,15,Ivan Yultukhovskyi|Jackson Wheeler|Madden Rosario
+Jayson Fouche,NJ,Pascack Valley,285,OPEN,2026,1,2,9,1-2,16,Ben Ellis
+Gabe Jang,NJ,Leonia/Palisades Park,285,OPEN,2026,0,1,99,0-1,9,
+Jason Gross,NJ,St. Joseph Metuchen,285,OPEN,2026,3,2,9,3-2,12,Braden Shields|Dominic Canzano|Gabriel Gomez
+Kacper Trzeciak,NJ,Sayreville,285,OPEN,2026,1,2,9,1-2,13,Ronell Muns Grullon
+Jarairya Jean,NJ,Neptune,285,OPEN,2026,1,2,9,1-2,14,Dominic Canzano
+August Moser,NJ,Delbarton,285,OPEN,2026,3,2,9,3-2,6,Gabriel Gomez|Nolan Brewer|Braden Shields
+Gavin Mericle,NJ,High Point,285,OPEN,2026,2,2,9,2-2,10,Andrew Chitacapa|Obreight Ingram
+Jonah Jordan,NJ,Audubon,285,OPEN,2026,2,2,9,2-2,18,Gavin Mericle|Ben Ellis
+Cole Ranley,NJ,River Dell,106,OPEN,2026,0,2,9,0-2,32,
+Ronnie Rodriguez,NJ,St. Peter's Prep,106,OPEN,2026,1,2,9,1-2,16,Cole Ranley
+Alexander Viscido,NJ,Robbinsville,106,OPEN,2026,1,2,9,1-2,9,Michael Rankin
+Michael Rankin,NJ,Caldwell,106,OPEN,2026,0,2,9,0-2,25,
+Frank Albright,NJ,Washington Township,106,OPEN,2026,0,2,9,0-2,28,
+John Tarantino,NJ,Red Bank Catholic,106,OPEN,2026,2,2,9,2-2,12,Justin Jani|Frank Albright
+Santino Edgar,NJ,CBA,106,OPEN,2026,7,0,3,7-0,13,Chase Young|Jonas Lusker|Forest Rose|Finn Andersen|Steven Vidal|Ray Burdette|David Peoples
+Chase Young,NJ,Bergen Catholic,106,OPEN,2026,1,2,9,1-2,20,Alex Holdfeld
+Alex Holdfeld,NJ,Wayne Valley,106,OPEN,2026,0,2,9,0-2,29,
+Vincent Rainey,NJ,Delaware Valley,106,OPEN,2026,0,2,9,0-2,30,
+David Peoples,NJ,Old Bridge,106,OPEN,2026,1,2,9,1-2,19,Vincent Rainey
+Dominick Malfitano,NJ,Kinnelon,106,OPEN,2026,0,2,9,0-2,22,
+Nicholas Nguyen,NJ,Passaic Tech,106,OPEN,2026,1,2,9,1-2,27,Dominick Malfitano
+Rocco Caputo Jr.,NJ,Cedar Grove,106,OPEN,2026,2,2,9,2-2,7,Jake Appello|Alexander Dyki
+Alexander Dyki,NJ,Northern Highlands,106,OPEN,2026,0,2,9,0-2,23,
+Adam Froehlich,NJ,Delsea,106,OPEN,2026,3,2,9,3-2,15,Rocco Caputo Jr.|Daniel Berardi|Luke Eberhard
+Luke Eberhard,NJ,Rumson-Fair Haven,106,OPEN,2026,0,2,9,0-2,31,
+Sayan Rao,NJ,Holmdel,113,OPEN,2026,0,2,9,0-2,32,
+Chase Dubuque,NJ,Delran,113,OPEN,2026,2,2,9,2-2,16,Iyon Townsend|Sayan Rao
+Tanner Connelly,NJ,Ridge,113,OPEN,2026,4,3,8,4-3,9,Matty Ortega|Chase Dubuque|Omar Carrillo-Solano|Gabriel Roman
+Gabriel Roman,NJ,Perth Amboy,113,OPEN,2026,0,2,9,0-2,25,
+Andrew Adell,NJ,Bridgewater-Raritan,113,OPEN,2026,1,2,9,1-2,28,Alex Rosciano
+Alex Rosciano,NJ,Delbarton,113,OPEN,2026,0,2,9,0-2,21,
+Michael Napolitano,NJ,Brick Memorial,113,OPEN,2026,3,1,9,3-1,13,Matthew Pagan|Ryan Blewett|Steven Malfitano
+Matthew Pagan,NJ,Kearny,113,OPEN,2026,1,2,9,1-2,20,Evan Constante
+Matty Ortega,NJ,Johnson,113,OPEN,2026,1,1,9,1-1,4,Evan Constante
+Evan Constante,NJ,Emerson/Park Ridge,113,OPEN,2026,0,2,9,0-2,29,
+Steven Malfitano,NJ,Kinnelon,113,OPEN,2026,1,2,9,1-2,30,Liam Kisby
+Liam Kisby,NJ,Absegami,113,OPEN,2026,0,2,9,0-2,19,
+Chase Millan,NJ,Northern Burlington,113,OPEN,2026,1,2,9,1-2,22,Phillip Griffin
+Phillip Griffin,NJ,Rahway,113,OPEN,2026,0,2,9,0-2,27,
+Luke Manieri,NJ,Montville,113,OPEN,2026,1,2,9,1-2,26,Frank Figel
+Frank Figel,NJ,Jefferson,113,OPEN,2026,0,2,9,0-2,10,
+Nick Banos,NJ,Southern,113,OPEN,2026,3,1,9,3-1,18,Joseph Formosa|Evan Villecco|Danny D'Arcy
+Danny D'Arcy,NJ,St. Benedict's,113,OPEN,2026,0,2,9,0-2,31,
+Jaydon Sulca,NJ,Bergenfield,120,OPEN,2026,0,2,9,0-2,32,
+Jaeczar Evans,NJ,Rahway,120,OPEN,2026,1,2,9,1-2,17,Jaydon Sulca
+Alec Murado,NJ,Demarest,120,OPEN,2026,1,2,9,1-2,24,Joseph Vezzosi
+Joseph Vezzosi,NJ,Red Bank Catholic,120,OPEN,2026,0,2,9,0-2,23,
+Casey Pekula,NJ,St. Augustine,120,OPEN,2026,0,2,9,0-2,28,
+Anthony Pettinelli,NJ,Phillipsburg,120,OPEN,2026,1,2,9,1-2,21,Casey Pekula
+Bryce Paley,NJ,Lower Cape May,120,OPEN,2026,1,1,9,1-1,13,Noah Hernandez
+Noah Hernandez,NJ,Seton Hall Prep,120,OPEN,2026,0,2,9,0-2,20,
+Cole Rebels,NJ,Mount Olive,120,OPEN,2026,5,2,7,5-2,29,Michael Daly|Eamon Fry|Shane Maghan|Ryan McConaghy|Noah Hernandez
+Liam Suydam,NJ,Moorestown,120,OPEN,2026,0,2,9,0-2,30,
+Muhammad Abuhadba,NJ,Passaic Tech,120,OPEN,2026,2,2,9,2-2,14,Bryce Paley|Liam Suydam
+Julian Arango,NJ,St. Joseph Metuchen,120,OPEN,2026,0,2,9,0-2,11,
+Chase Wright,NJ,Collingswood,120,OPEN,2026,1,2,9,1-2,27,Julian Arango
+Owen Boyle,NJ,Lenape,120,OPEN,2026,0,2,9,0-2,26,
+Micah Loudermilk,NJ,Bergen Catholic,120,OPEN,2026,1,2,9,1-2,23,Owen Boyle
+David Vazquez,NJ,North Bergen,120,OPEN,2026,2,2,9,2-2,18,Jacob Richardson|Tyler Northern
+Tyler Northern,NJ,Edison,120,OPEN,2026,0,2,9,0-2,31,
+Rohi Hubert,NJ,Glen Rock,126,OPEN,2026,0,2,9,0-2,32,
+Jason Marasco,NJ,Northern Burlington,126,OPEN,2026,1,2,9,1-2,16,Rohi Hubert
+Reid Buzby,NJ,North Hunterdon,126,OPEN,2026,0,2,9,0-2,9,
+Jarrett Rodriguez,NJ,Clifton,126,OPEN,2026,2,2,9,2-2,25,Nico DeRado|Reid Buzby
+Cole DeAngelo,NJ,Red Bank Catholic,126,OPEN,2026,0,2,9,0-2,28,
+Augie Szamreta,NJ,Warren Hills,126,OPEN,2026,1,2,9,1-2,12,Cole DeAngelo
+Michael Lamb,NJ,Haddonfield,126,OPEN,2026,3,2,9,3-2,20,Andrew Bonita|Joseph Pellicci|Giovanni Gutierrez
+Giovanni Gutierrez,NJ,Hackettstown,126,OPEN,2026,0,2,9,0-2,29,
+Yankee Mabee,NJ,Caldwell,126,OPEN,2026,0,2,9,0-2,30,
+Joseph Pellicci,NJ,Paramus Catholic,126,OPEN,2026,1,1,9,1-1,14,Joseph Viola
+Joseph Viola,NJ,Seton Hall Prep,126,OPEN,2026,1,2,9,1-2,19,Yankee Mabee
+Terrance Fearon,NJ,Hunterdon Central,126,OPEN,2026,4,3,8,4-3,11,Nicholas Campanelli|Christian Hoopes|Aidan Flynn|Parker Humphrey
+Parker Humphrey,NJ,Hopewell Valley,126,OPEN,2026,0,2,9,0-2,27,
+Christian Bastante,NJ,West Essex,126,OPEN,2026,0,2,9,0-2,26,
+Chace Severs,NJ,Lakeland,126,OPEN,2026,1,2,9,1-2,23,Christian Bastante
+Chase Sudano,NJ,St. Augustine,126,OPEN,2026,0,2,9,0-2,18,
+Anthony Mason,NJ,Southern,126,OPEN,2026,3,1,9,3-1,2,Matthew Gould|Dante DePaul|Chase Sudano
+Cassen Correggio,NJ,Don Bosco,132,OPEN,2026,0,2,9,0-2,32,
+Dmytro Bohdan,NJ,Paramus,132,OPEN,2026,3,2,9,3-2,17,Joseph Rizzuto|Steven Ham|Cassen Correggio
+Julian Bednar,NJ,Delaware Valley,132,OPEN,2026,0,2,9,0-2,24,
+Davey Rhinehart,NJ,Warren Hills,132,OPEN,2026,1,2,9,1-2,25,Julian Bednar
+River Hibler,NJ,Paramus Catholic,132,OPEN,2026,0,2,9,0-2,28,
+Derek Sutphen,NJ,Immaculata,132,OPEN,2026,1,2,9,1-2,12,River Hibler
+Dylan Hersh,NJ,Hopewell Valley,132,OPEN,2026,1,2,9,1-2,20,Wyatt Tolson
+Malik Abuharthieh,NJ,Passaic Tech,132,OPEN,2026,0,2,9,0-2,29,
+Wyatt Tolson,NJ,Ocean City,132,OPEN,2026,0,2,9,0-2,29,
+Andre Morero,NJ,Seton Hall Prep,132,OPEN,2026,3,1,9,3-1,14,Jeremy Negron|Eli Glover|Dylan Hersh
+Jeremy Negron,NJ,Edison,132,OPEN,2026,1,2,9,1-2,19,Malik Abuharthieh
+Aidan Yarussi,NJ,North Hunterdon,132,OPEN,2026,1,2,9,1-2,11,Gage Grant
+Gage Grant,NJ,Manalapan,132,OPEN,2026,0,2,9,0-2,27,
+Jayden Jardine,NJ,Eastern,132,OPEN,2026,2,2,9,2-2,26,Jack Lorper|Owen Brackett
+Owen Brackett,NJ,Raritan,132,OPEN,2026,0,2,9,0-2,23,
+Adan Cedeno,NJ,Pascack Valley,132,OPEN,2026,1,2,9,1-2,18,Aidyn Herrera
+Aidyn Herrera,NJ,Somerville,132,OPEN,2026,0,2,9,0-2,31,
+Armani Maglione,NJ,JFK-Iselin,138,OPEN,2026,0,2,9,0-2,32,
+Landan Riddell,NJ,Immaculata,138,OPEN,2026,3,1,9,3-1,17,Tyler Oden|Jack Abramson|Armani Maglione
+Ryan Preziosi,NJ,Kingsway,138,OPEN,2026,1,2,9,1-2,24,Robbie Fritz
+Robbie Fritz,NJ,Red Bank Catholic,138,OPEN,2026,0,2,9,0-2,25,
+Nick Guastello,NJ,Paramus,138,OPEN,2026,1,2,9,1-2,28,Brody Neill
+Brody Neill,NJ,West Morris,138,OPEN,2026,0,2,9,0-2,12,
+Kieran Raley,NJ,North Hunterdon,138,OPEN,2026,2,1,9,2-1,20,Dylan Placca|Massimo Gonzalez
+Dylan Placca,NJ,Holmdel,138,OPEN,2026,1,2,9,1-2,13,Ryan Mckenna
+Ryan Mckenna,NJ,Dumont,138,OPEN,2026,0,2,9,0-2,29,
+Isa Kupa,NJ,Boonton,138,OPEN,2026,0,2,9,0-2,30,
+Massimo Gonzalez,NJ,Phillipsburg,138,OPEN,2026,1,2,9,1-2,19,Isa Kupa
+Jacob Inserra,NJ,Pascack Valley,138,OPEN,2026,3,2,9,3-2,11,Kieran Raley|Nicolas Marchetti|Tye Falkenstein
+Tye Falkenstein,NJ,Delaware Valley,138,OPEN,2026,0,2,9,0-2,27,
+Anthony Caponegro,NJ,Monroe,138,OPEN,2026,0,2,9,0-2,7,
+Dominic Marino,NJ,Cinnaminson,138,OPEN,2026,1,2,9,1-2,23,Anthony Caponegro
+Jordan Segal,NJ,Shawnee,138,OPEN,2026,1,2,9,1-2,15,Jaden Sanders
+Jaden Sanders,NJ,Manasquan,138,OPEN,2026,0,2,9,0-2,31,
+Luken Ramos,NJ,Red Bank Catholic,144,OPEN,2026,0,2,9,0-2,32,
+Anthony Barrett,NJ,Caldwell,144,OPEN,2026,2,2,9,2-2,17,Tyler Yildiz|Luken Ramos
+Dylan Biegel,NJ,Pascack Valley,144,OPEN,2026,0,2,9,0-2,24,
+Dominic Lally,NJ,Wayne Valley,144,OPEN,2026,1,2,9,1-2,25,Dylan Biegel
+Michael Mirassol,NJ,Seneca,144,OPEN,2026,1,2,9,1-2,28,Michael Hasson
+Michael Hasson,NJ,Delaware Valley,144,OPEN,2026,0,2,9,0-2,21,
+Adrian Arbelo,NJ,St. Augustine,144,OPEN,2026,2,1,9,2-1,13,Fernando Avellan|Ariel Azeredo
+Fernando Avellan,NJ,Edison,144,OPEN,2026,1,2,9,1-2,20,Logan Zimmer
+Logan Zimmer,NJ,Moorestown,144,OPEN,2026,0,2,9,0-2,29,
+Joseph Stanzione,NJ,South Plainfield,144,OPEN,2026,0,2,9,0-2,30,
+Ariel Azeredo,NJ,Union,144,OPEN,2026,1,2,9,1-2,14,Joseph Stanzione
+CJ Anzaldo,NJ,Ramapo,144,OPEN,2026,1,2,9,1-2,22,Thomas McDonald
+Thomas McDonald,NJ,Mount Olive,144,OPEN,2026,0,2,9,0-2,27,
+Jamal Kouzer,NJ,Wayne Hills,144,OPEN,2026,1,2,9,1-2,26,Brandon Mayock
+Brandon Mayock,NJ,Indian Hills,144,OPEN,2026,0,2,9,0-2,23,
+Jackson Fearon,NJ,Middletown North,144,OPEN,2026,2,2,9,2-2,18,Justin Marcello|Adrian Harris
+Adrian Harris,NJ,Rahway,144,OPEN,2026,0,2,9,0-2,31,
+Muhammed Tafida,NJ,Bergenfield,150,OPEN,2026,0,2,9,0-2,32,
+Sebastian Dobak,NJ,Delaware Valley,150,OPEN,2026,1,2,9,1-2,17,Muhammed Tafida
+Braeden Valley,NJ,New Providence,150,OPEN,2026,0,2,9,0-2,9,
+Anthony Molinaro,NJ,Southern,150,OPEN,2026,1,2,9,1-2,25,Braeden Valley
+William Clasen,NJ,Northern Highlands,150,OPEN,2026,0,2,9,0-2,28,
+Owen Beneciuk,NJ,Toms River South,150,OPEN,2026,1,2,9,1-2,21,William Clasen
+Daniel Gonzalez,NJ,Rahway,150,OPEN,2026,2,2,9,2-2,20,Nicholas Wall|Joshua Ortiz
+Joshua Ortiz,NJ,Madison,150,OPEN,2026,0,2,9,0-2,29,
+Brady Tiernan,NJ,DePaul,150,OPEN,2026,0,2,9,0-2,30,
+Jean Paul Bonnette,NJ,St. Augustine,150,OPEN,2026,2,2,9,2-2,19,Brady Little|Brady Tiernan
+Parker Quinn,NJ,Wall,150,OPEN,2026,1,2,9,1-2,22,Damien Pierro
+Damien Pierro,NJ,Don Bosco,150,OPEN,2026,0,2,9,0-2,27,
+Michael Frank,NJ,Montville,150,OPEN,2026,1,2,9,1-2,23,Joseph Hartz
+Ryan Glenn,NJ,Kingsway,150,OPEN,2026,0,2,9,0-2,18,
+Bryan Dougherty,NJ,Hackettstown,150,OPEN,2026,1,2,9,1-2,31,Ryan Glenn
+Youssef Elgarhi,NJ,Bayonne,157,OPEN,2026,0,2,9,0-2,32,
+August Katz,NJ,Seton Hall Prep,157,OPEN,2026,2,2,9,2-2,16,Johnny Chirico|Youssef Elgarhi
+Jenier Soto Pastrana,NJ,St. Benedict's,157,OPEN,2026,1,2,9,1-2,24,Daniel Byrne
+Daniel Byrne,NJ,Lower Cape May,157,OPEN,2026,0,2,9,0-2,25,
+Christian Ardiles,NJ,Central,157,OPEN,2026,0,2,9,0-2,28,
+Owen Miller,NJ,Hillsborough,157,OPEN,2026,1,2,9,1-2,21,Christian Ardiles
+Grant Thompson,NJ,Immaculata,157,OPEN,2026,2,2,9,2-2,20,Charlie Bacinsky|Jason Huss
+Jason Huss,NJ,Red Bank Regional,157,OPEN,2026,0,2,9,0-2,29,
+Reid Angermeier,NJ,Lenape,157,OPEN,2026,0,2,9,0-2,30,
+Matthew Miranda,NJ,Kingsway,157,OPEN,2026,1,2,9,1-2,14,Reid Angermeier
+Levi Schulmann,NJ,Northern Highlands,157,OPEN,2026,1,2,9,1-2,22,Elijah Beatty
+Elijah Beatty,NJ,Clearview,157,OPEN,2026,0,2,9,0-2,27,
+Finley Pazinko,NJ,Jackson Township,157,OPEN,2026,1,2,9,1-2,26,Jeremy Marsella
+Jeremy Marsella,NJ,Wall,157,OPEN,2026,0,2,9,0-2,23,
+Joseph Aiello,NJ,Paramus,157,OPEN,2026,1,2,9,1-2,18,John Garcia
+John Garcia,NJ,West Morris,157,OPEN,2026,0,2,9,0-2,31,
+Nicco Capaldo,NJ,Caldwell,165,OPEN,2026,0,2,9,0-2,32,
+Vincent Esposito,NJ,Southern,165,OPEN,2026,1,2,9,1-2,16,Nicco Capaldo
+Ryder Vorndran,NJ,Brearley/Dayton,165,OPEN,2026,1,2,9,1-2,24,Dean Natale
+Dean Natale,NJ,Colts Neck,165,OPEN,2026,0,2,9,0-2,25,
+Robert Attenborough,NJ,Middle Township,165,OPEN,2026,1,1,33,1-1,28,Nico Cordova
+Nico Cordova,NJ,Middletown North,165,OPEN,2026,0,2,9,0-2,21,
+Gino Gorga,NJ,Ramapo,165,OPEN,2026,0,2,9,0-2,20,
+Evan Curnow,NJ,Morristown,165,OPEN,2026,1,2,9,1-2,29,Gino Gorga
+Gage Dembowski,NJ,Montville,165,OPEN,2026,0,2,9,0-2,30,
+Ryan Willi,NJ,Middletown South,165,OPEN,2026,1,2,9,1-2,14,Gage Dembowski
+Lukas Katsigiannis,NJ,Pope John,165,OPEN,2026,2,2,9,2-2,11,Brandon Papa|Hutch Rhyne
+Hutch Rhyne,NJ,Haddonfield,165,OPEN,2026,0,2,9,0-2,27,
+Davi Guimaraes,NJ,Cinnaminson,165,OPEN,2026,0,2,9,0-2,26,
+Clayton Tyson,NJ,Cherry Hill West,165,OPEN,2026,1,2,9,1-2,23,Davi Guimaraes
+Antonio Maiden,NJ,Nutley,165,OPEN,2026,1,2,9,1-2,18,Cristian Rodriguez
+Cristian Rodriguez,NJ,Red Bank Catholic,165,OPEN,2026,0,2,9,0-2,31,
+Robert Fazzino,NJ,West Morris,175,OPEN,2026,0,2,9,0-2,32,
+Kwabena Morgan,NJ,Bound Brook,175,OPEN,2026,1,2,9,1-2,17,Robert Fazzino
+Nicholas Allen,NJ,Ocean Township,175,OPEN,2026,0,2,9,0-2,24,
+Tyler Shane,NJ,Robbinsville,175,OPEN,2026,1,2,9,1-2,25,Nicholas Allen
+Nolan Monaghan,NJ,Roxbury,175,OPEN,2026,1,2,9,1-2,28,Luke Shivas
+Luke Shivas,NJ,Morris Knolls,175,OPEN,2026,0,2,9,0-2,21,
+Vincent Palermo,NJ,Hammonton,175,OPEN,2026,2,2,9,2-2,13,Olivier Paul|Joey Acinapura
+Joey Acinapura,NJ,Cranford,175,OPEN,2026,0,2,9,0-2,29,
+Ryan Sklavounos,NJ,Westwood,175,OPEN,2026,0,2,9,0-2,30,
+Michael Damerjian,NJ,Moorestown,175,OPEN,2026,3,2,9,3-2,19,John Saraiva|Michael Colon|Ryan Sklavounos
+Gerald Miller,NJ,Barnegat,175,OPEN,2026,0,2,9,0-2,22,
+Shane Morrell,NJ,Lower Cape May,175,OPEN,2026,1,2,9,1-2,27,Gerald Miller
+Nicholas Daddona,NJ,Southern,175,OPEN,2026,0,2,9,0-2,26,
+Zyeir Green,NJ,Timber Creek,175,OPEN,2026,1,2,9,1-2,23,Nicholas Daddona
+Greyson Hyland,NJ,Woodstown,175,OPEN,2026,1,2,9,1-2,15,Izael Moya
+Izael Moya,NJ,Kearny,175,OPEN,2026,0,2,9,0-2,31,
+Temiloluwa Odumbo,NJ,Old Bridge,190,OPEN,2026,0,2,9,0-2,32,
+Youssef Ibrahim,NJ,River Dell,190,OPEN,2026,1,2,9,1-2,17,Temiloluwa Odumbo
+Cole Torres,NJ,Shore,190,OPEN,2026,1,2,9,1-2,24,Jarred O'Neill
+Jarred O'Neill,NJ,CBA,190,OPEN,2026,0,2,9,0-2,25,
+Nicholas Bertolotti,NJ,Union,190,OPEN,2026,0,2,9,0-2,28,
+Artun Kirgezmis,NJ,Watchung Hills,190,OPEN,2026,1,1,33,1-1,21,Nicholas Bertolotti
+Brody Taylor,NJ,St. Augustine,190,OPEN,2026,0,2,9,0-2,13,
+Dominic Dorrman,NJ,Ridge,190,OPEN,2026,5,2,7,5-2,29,True DiGuiseppe|Carmen Marano|Adam Sepulvada|Greg Sawyer|Brody Taylor
+Brian Garcia,NJ,Red Bank Catholic,190,OPEN,2026,2,2,9,2-2,30,Timmy O'Rourke|Deacon Frayne
+Deacon Frayne,NJ,West Morris,190,OPEN,2026,0,2,9,0-2,19,
+Finn Cavanaugh,NJ,Pingry,190,OPEN,2026,0,2,9,0-2,22,
+Ashton Wall,NJ,Gloucester,190,OPEN,2026,1,2,9,1-2,27,Finn Cavanaugh
+Jake Mott,NJ,Lacey Township,190,OPEN,2026,0,2,9,0-2,26,
+David Borodziuk,NJ,Audubon,190,OPEN,2026,1,2,9,1-2,23,Jake Mott
+Andrew Zeidman,NJ,Randolph,190,OPEN,2026,1,2,9,1-2,18,Parker Needham
+Parker Needham,NJ,Raritan,190,OPEN,2026,0,2,9,0-2,31,
+Madden Rosario,NJ,Camden Catholic,215,OPEN,2026,1,2,9,1-2,32,Joey Alvarez
+Zachary Florio,NJ,Old Bridge,215,OPEN,2026,0,2,9,0-2,9,
+Aaron Veytsman,NJ,Clearview,215,OPEN,2026,1,2,9,1-2,25,Zachary Florio
+Michael Borgia,NJ,West Morris,215,OPEN,2026,0,2,9,0-2,28,
+Ajibola Oshin,NJ,Matawan,215,OPEN,2026,1,2,9,1-2,21,Michael Borgia
+Paul Boyle,NJ,Scotch Plains-Fanwood,215,OPEN,2026,0,2,9,0-2,20,
+Everett Bell,NJ,Becton/Wood-Ridge,215,OPEN,2026,1,2,9,1-2,29,Paul Boyle
+Charles Schriver,NJ,West Deptford,215,OPEN,2026,0,2,9,0-2,30,
+Jacob Chapman,NJ,Ocean City,215,OPEN,2026,2,2,9,2-2,19,Brett Rankin|Charles Schriver
+Daniel Montemurno,NJ,Metuchen,215,OPEN,2026,0,2,9,0-2,22,
+Nick Mignone,NJ,Pope John,215,OPEN,2026,1,2,9,1-2,27,Daniel Montemurno
+Tuguldur Bayarkhuu,NJ,St. Benedict's,215,OPEN,2026,1,2,9,1-2,26,Owen Dandeo
+Owen Dandeo,NJ,North Hunterdon,215,OPEN,2026,0,2,9,0-2,23,
+Ivan Yultukhovskyi,NJ,Notre Dame,215,OPEN,2026,1,2,9,1-2,18,Cristian Garcia
+Cristian Garcia,NJ,Elizabeth,215,OPEN,2026,0,2,9,0-2,31,
+Ahmad Fears,NJ,Gateway/Woodbury,285,OPEN,2026,0,2,9,0-2,32,
+Ben Ellis,NJ,Phillipsburg,285,OPEN,2026,1,2,9,1-2,17,Ahmad Fears
+Gabe Jang,NJ,Leonia/Pal Park,285,OPEN,2026,5,0,7,5-0,9,Zane Spencer|Mohammad Targali|Raymir Brighton|Ralphie Barca|Andrew Chitacapa
+Zane Spencer,NJ,Lawrence,285,OPEN,2026,0,2,9,0-2,24,
+Obreight Ingram,NJ,Union,285,OPEN,2026,1,2,9,1-2,25,Zane Spencer
+Max Georges,NJ,DePaul,285,OPEN,2026,0,2,9,0-2,28,
+Braden Shields,NJ,St. Augustine,285,OPEN,2026,1,2,9,1-2,21,Max Georges
+Ronell Muns Grullon,NJ,Pennsauken,285,OPEN,2026,0,2,9,0-2,20,
+Nolan Brewer,NJ,Nutley,285,OPEN,2026,2,2,9,2-2,29,Jarairya Jean|Ronell Muns Grullon
+Kyheem Freeman,NJ,Burlington Township,285,OPEN,2026,0,2,9,0-2,30,
+Dominic Canzano,NJ,Cherry Hill East,285,OPEN,2026,2,2,9,2-2,19,Kacper Trzeciak|Kyheem Freeman
+Lars Stegner,NJ,Camden Catholic,285,OPEN,2026,0,2,9,0-2,22,
+Gabriel Gomez,NJ,Bergenfield,285,OPEN,2026,1,2,9,1-2,27,Lars Stegner
+Anthony DeSimone,NJ,North Hunterdon,285,OPEN,2026,0,2,9,0-2,26,
+Andrew Chitacapa,NJ,Jackson Township,285,OPEN,2026,1,2,9,1-2,23,Anthony DeSimone
+Slayton D'Amico,NJ,Cedar Creek,285,OPEN,2026,0,2,9,0-2,31,
+Ralphie Barca,NJ,Bergen Catholic,285,OPEN,2026,2,1,9,2-1,15,Jayson Fouche|Slayton D'Amico
+Joseph Hartz,NJ,Bordentown/Florence,150,OPEN,2026,0,1,9,0-1,26,
+Joey Alvarez,NJ,St. Joseph Montvale,215,OPEN,2026,0,1,9,0-1,16,
