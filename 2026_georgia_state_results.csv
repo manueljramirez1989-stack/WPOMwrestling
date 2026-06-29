@@ -1,0 +1,1569 @@
+first_name,last_name,state,team,weight,classification,placement,wins,losses,is_girl,placement_confidence,event
+Jaylee,Long,GA,Adairsville,100,,1,4,0,True,solid,GHSA 2026 Girls
+Harley,Nash,GA,Veteran`s,100,,2,4,1,True,derived,GHSA 2026 Girls
+Sophia,Gonzalez,GA,North Atlanta HS,100,,3,4,2,True,derived,GHSA 2026 Girls
+Emma,Thomas,GA,Mill Creek,100,,4,3,1,True,derived,GHSA 2026 Girls
+Paris,Watts,GA,Lee County,100,,5,3,2,True,derived,GHSA 2026 Girls
+Amiyah,Rice,GA,New Manchester,100,,6,3,3,True,derived,GHSA 2026 Girls
+Cadence,Grulla,GA,Lumpkin Co.,100,,7,2,2,True,derived,GHSA 2026 Girls
+Lia,Axton,GA,Brookwood,100,,8,2,2,True,derived,GHSA 2026 Girls
+Aleena,Clark,GA,Long County,100,,9,1,2,True,derived,GHSA 2026 Girls
+Megene,Chibuyu,GA,Decatur,100,,10,1,2,True,derived,GHSA 2026 Girls
+Tatum,Rooks,GA,Shiloh,100,,11,1,2,True,derived,GHSA 2026 Girls
+Violet,Webb,GA,Woodward Academy,100,,12,1,2,True,derived,GHSA 2026 Girls
+Cameron,Ludwig,GA,Bremen,100,,13,0,2,True,derived,GHSA 2026 Girls
+Kendall,Cooper,GA,Lambert,100,,14,0,2,True,derived,GHSA 2026 Girls
+Ruth,Cote,GA,Banks County,100,,15,0,2,True,derived,GHSA 2026 Girls
+Sophia,Berry,GA,Cook,100,,16,0,2,True,derived,GHSA 2026 Girls
+Breanna,Higgins,GA,Camden County,105,,1,4,0,True,solid,GHSA 2026 Girls
+Carleigh,Rau,GA,Pickens,105,,2,4,1,True,derived,GHSA 2026 Girls
+Natalie,Lippstreau,GA,Wheeler,105,,3,4,2,True,derived,GHSA 2026 Girls
+Maria,Aguado,GA,Alpharetta,105,,4,3,1,True,derived,GHSA 2026 Girls
+Kori,Holsomback,GA,Central (Carroll),105,,5,3,2,True,derived,GHSA 2026 Girls
+Kaydee,Jackson,GA,Rockmart,105,,6,3,3,True,derived,GHSA 2026 Girls
+Coralys,Lopez,GA,Richmond Hill HS,105,,7,2,2,True,derived,GHSA 2026 Girls
+Kayleigh,Grant,GA,Paulding County,105,,8,2,2,True,derived,GHSA 2026 Girls
+Ashley,Morales,GA,Gainesville,105,,9,1,2,True,derived,GHSA 2026 Girls
+Payton,Holmes,GA,Veteran`s,105,,10,1,2,True,derived,GHSA 2026 Girls
+Scarlett,Ferrer,GA,Chestatee,105,,11,1,2,True,derived,GHSA 2026 Girls
+tZipporah,Bullock,GA,Central (Macon),105,,12,1,2,True,derived,GHSA 2026 Girls
+Azaria,Jackson,GA,Carrollton,105,,13,0,2,True,derived,GHSA 2026 Girls
+BRITTANY,PEREZ,GA,East Jackson HS,105,,14,0,2,True,derived,GHSA 2026 Girls
+Jillian,Boyers,GA,Harris County,105,,15,0,2,True,derived,GHSA 2026 Girls
+Robi,Milsom,GA,Pierce County HS,105,,16,0,2,True,derived,GHSA 2026 Girls
+Bryson,Rutledge,GA,Chattooga,106,1A,1,4,0,False,solid,GHSA 2026
+Cooper,Saine,GA,Gordon Lee,106,1A,2,4,1,False,derived,GHSA 2026
+Luke,Solomon,GA,Berrien County,106,1A,3,4,2,False,derived,GHSA 2026
+Sammy,Edgeworth,GA,Trion,106,1A,4,4,2,False,derived,GHSA 2026
+Elijah,Merritt,GA,Fitzgerald,106,1A,5,3,1,False,derived,GHSA 2026
+COLT,REDMAN,GA,Commerce Hs,106,1A,6,2,2,False,derived,GHSA 2026
+LANE,FLEMING,GA,Elbert County,106,1A,7,2,2,False,derived,GHSA 2026
+Walker,Compton,GA,Oglethorpe County,106,1A,8,2,3,False,derived,GHSA 2026
+Keller,Stringer,GA,Brantley County HS,106,1A,9,1,2,False,derived,GHSA 2026
+Langston,Merritt,GA,Wesleyan,106,1A,10,1,2,False,derived,GHSA 2026
+Lochlund,Graham,GA,Jasper County,106,1A,11,1,2,False,derived,GHSA 2026
+Lucas,Furlong,GA,Temple,106,1A,12,1,2,False,derived,GHSA 2026
+Alan,Myers,GA,Dublin,106,1A,13,0,2,False,derived,GHSA 2026
+Daniel,Hellier,GA,Whitefield Academy,106,1A,14,0,2,False,derived,GHSA 2026
+Jack,Stanford,GA,Bremen,106,1A,15,0,2,False,derived,GHSA 2026
+Wyndell,Drury,GA,Mt. Pisgah Christian School,106,1A,16,0,2,False,derived,GHSA 2026
+Bryson,Thornton,GA,Appling County,106,2A,1,4,0,False,solid,GHSA 2026
+Gavin,Allerding,GA,Ringgold,106,2A,2,4,1,False,derived,GHSA 2026
+Anthony,Gaines-Shavers,GA,Columbus,106,2A,3,4,2,False,derived,GHSA 2026
+Colt,Carroll,GA,Franklin County,106,2A,4,3,1,False,derived,GHSA 2026
+Gabriel,Hernandez,GA,Murray County,106,2A,5,3,2,False,derived,GHSA 2026
+Kannon,Chambers,GA,Rockmart,106,2A,6,3,3,False,derived,GHSA 2026
+Bentley,Brophy,GA,Sonoraville,106,2A,7,2,2,False,derived,GHSA 2026
+Tristian,Payne,GA,Redan,106,2A,8,2,2,False,derived,GHSA 2026
+Aiden,Bristol,GA,Cook,106,2A,9,1,2,False,derived,GHSA 2026
+Ethan,Jones,GA,Morgan County,106,2A,10,1,2,False,derived,GHSA 2026
+Lekoyne,"McWright, Jr",GA,Shaw,106,2A,11,1,2,False,derived,GHSA 2026
+Magnus,Patterson,GA,Jordan,106,2A,12,1,2,False,derived,GHSA 2026
+Ansari,Aaron,GA,Rutland,106,2A,13,0,2,False,derived,GHSA 2026
+Eli,Hancock,GA,Union County,106,2A,14,0,2,False,derived,GHSA 2026
+Jonathan,Fuller,GA,East Jackson HS,106,2A,15,0,2,False,derived,GHSA 2026
+RYLYN,WALKER,GA,North Murray,106,2A,16,0,2,False,derived,GHSA 2026
+Javen,Russo,GA,Troup,106,3A,1,4,0,False,solid,GHSA 2026
+Alex,DeLeon,GA,Bainbridge,106,3A,2,4,1,False,derived,GHSA 2026
+Jarek,Giles,GA,West Laurens,106,3A,3,4,2,False,derived,GHSA 2026
+Roman,Stewart-Evans,GA,Long County,106,3A,4,4,2,False,derived,GHSA 2026
+Deyson,Lopez,GA,Gilmer County,106,3A,5,3,1,False,derived,GHSA 2026
+Charlie,LaMotte,GA,Mary Persons,106,3A,6,2,2,False,derived,GHSA 2026
+Torrey,Caraballo,GA,Stone Mountain,106,3A,7,2,2,False,derived,GHSA 2026
+Jude,Goss,GA,Lumpkin Co.,106,3A,8,2,3,False,derived,GHSA 2026
+Antonio,Beltran,GA,East Hall,106,3A,9,1,2,False,derived,GHSA 2026
+DK,Sands,GA,Monroe Area,106,3A,10,1,2,False,derived,GHSA 2026
+David,Reece Adamson,GA,Chestatee,106,3A,11,1,2,False,derived,GHSA 2026
+Henry,Nguyen,GA,Cairo,106,3A,12,1,2,False,derived,GHSA 2026
+Edtwon,Myree,GA,Luella,106,3A,13,0,2,False,derived,GHSA 2026
+Ky`Lon,Atkinson,GA,LaGrange,106,3A,14,0,2,False,derived,GHSA 2026
+Landry,Williams,GA,Harlem,106,3A,15,0,2,False,derived,GHSA 2026
+Ryan,Elsberry,GA,Northwest Whitfield High,106,3A,16,0,2,False,derived,GHSA 2026
+Jannaco,Searcy,GA,Jackson (Atlanta) HS,106,4A,1,4,0,False,solid,GHSA 2026
+Cayden,Bagely,GA,"Woodland, Cartersville",106,4A,2,4,1,False,derived,GHSA 2026
+Brandon,Lalbehari,GA,Cass,106,4A,3,4,2,False,derived,GHSA 2026
+JACK,DUPREE,GA,North Oconee,106,4A,4,3,1,False,derived,GHSA 2026
+Jamie,Lewis,GA,Harris County,106,4A,5,3,2,False,derived,GHSA 2026
+Bahram,Naimi,GA,Clarkston,106,4A,6,3,3,False,derived,GHSA 2026
+Griggs,Mealor,GA,Westminster Schools,106,4A,7,2,2,False,derived,GHSA 2026
+Zeke,Driggs,GA,Cambridge,106,4A,8,2,2,False,derived,GHSA 2026
+Alexzander,Seiler,GA,Midtown,106,4A,9,1,2,False,derived,GHSA 2026
+Christopher,Tapia,GA,Locust Grove,106,4A,10,1,2,False,derived,GHSA 2026
+Jon,Strickland,GA,Woodland HS (Stockbridge),106,4A,11,1,2,False,derived,GHSA 2026
+Tyler,Curry,GA,Stockbridge,106,4A,12,1,2,False,derived,GHSA 2026
+Ben,Thai,GA,St Pius X School,106,4A,13,0,2,False,derived,GHSA 2026
+Eli,Jones,GA,Blessed Trinity Catholic,106,4A,14,0,2,False,derived,GHSA 2026
+Larry,Lopez,GA,Wayne County HS,106,4A,15,0,2,False,derived,GHSA 2026
+Rylan,Williams,GA,Walnut Grove,106,4A,16,0,2,False,derived,GHSA 2026
+Ryland,Aston,GA,Chattahoochee HS,106,5A,1,4,0,False,solid,GHSA 2026
+Christopher,Hardeman,GA,South Effingham,106,5A,2,4,1,False,derived,GHSA 2026
+Conner,Bee,GA,Glynn Academy,106,5A,3,4,2,False,derived,GHSA 2026
+Kymani,Tinsley,GA,Seckinger ,106,5A,4,3,1,False,derived,GHSA 2026
+Cael,Powers,GA,Jackson County,106,5A,5,3,2,False,derived,GHSA 2026
+Ethan,Braswell,GA,Effingham County,106,5A,6,3,3,False,derived,GHSA 2026
+Cam,Fuller,GA,South Paulding,106,5A,7,2,2,False,derived,GHSA 2026
+Freddy,Holbein,GA,Decatur,106,5A,8,2,2,False,derived,GHSA 2026
+Carlos,Gonzalez-Perez,GA,Dunwoody,106,5A,9,1,2,False,derived,GHSA 2026
+Jack,Ramsey,GA,Gainesville,106,5A,10,1,2,False,derived,GHSA 2026
+Nick,Cherney Jr,GA,Houston County,106,5A,11,1,2,False,derived,GHSA 2026
+Ronald,Kilgore,GA,Arabia Mountain,106,5A,12,1,2,False,derived,GHSA 2026
+Cooper,Wilkie,GA,Creekview,106,5A,13,0,2,False,derived,GHSA 2026
+FF-Jonathan,FF-Gonzalez,GA,Thomas County Central HS,106,5A,14,0,2,False,derived,GHSA 2026
+Kai,Cicero,GA,Veteran`s,106,5A,15,0,2,False,derived,GHSA 2026
+Kai,Gronberg,GA,Newnan,106,5A,16,0,2,False,derived,GHSA 2026
+Derik,Kiefer,GA,West Forsyth,106,6A,1,4,0,False,solid,GHSA 2026
+Brighton,Prine,GA,Valdosta,106,6A,2,5,1,False,derived,GHSA 2026
+Yeredy,Pineda,GA,Mountain View,106,6A,3,3,1,False,derived,GHSA 2026
+Clayton,Newton,GA,Camden County,106,6A,4,3,2,False,derived,GHSA 2026
+Jude,Pruitt,GA,Peachtree Ridge,106,6A,5,3,2,False,derived,GHSA 2026
+Hudson,McFate,GA,Etowah,106,6A,6,3,3,False,derived,GHSA 2026
+Ariel,Quintero-Zunun,GA,Colquitt County,106,6A,7,2,2,False,derived,GHSA 2026
+Maxwell,Monroe,GA,Brookwood,106,6A,8,2,2,False,derived,GHSA 2026
+Allen,Cusimano,GA,Mill Creek,106,6A,9,1,2,False,derived,GHSA 2026
+Caden,May,GA,Lambert,106,6A,10,1,2,False,derived,GHSA 2026
+Jet,Shaul,GA,Hillgrove,106,6A,11,1,2,False,derived,GHSA 2026
+Jordan,Bhonny,GA,Carrollton,106,6A,12,1,2,False,derived,GHSA 2026
+Joseph,Patino,GA,Osborne,106,6A,13,0,2,False,derived,GHSA 2026
+Logan,White,GA,Richmond Hill HS,106,6A,14,0,2,False,derived,GHSA 2026
+Oliver,Oei,GA,Campbell,106,6A,15,0,2,False,derived,GHSA 2026
+Yuzu,Parungao,GA,North Atlanta HS,106,6A,16,0,2,False,derived,GHSA 2026
+Aumunique,Mills,GA,Mill Creek,110,,1,4,0,True,solid,GHSA 2026 Girls
+Bentley,Burke,GA,Central (Carroll),110,,2,4,1,True,derived,GHSA 2026 Girls
+Jayden,Altman,GA,Pierce County HS,110,,3,4,2,True,derived,GHSA 2026 Girls
+Jasmine,Villegas,GA,Toombs County,110,,4,3,1,True,derived,GHSA 2026 Girls
+Elise,Haueter,GA,Carrollton,110,,5,3,2,True,derived,GHSA 2026 Girls
+Ariyanna,Klinger,GA,Morgan County,110,,6,3,3,True,derived,GHSA 2026 Girls
+Maci,Higgins,GA,Lakeview Ft. Oglethorpe HS,110,,7,2,2,True,derived,GHSA 2026 Girls
+Peyton,Rego,GA,Camden County,110,,8,2,2,True,derived,GHSA 2026 Girls
+Addison,Iovino,GA,Cherokee,110,,9,1,2,True,derived,GHSA 2026 Girls
+Candessa,Barker,GA,Morrow,110,,10,1,2,True,derived,GHSA 2026 Girls
+Hollis,Parker-Cruz,GA,North Atlanta HS,110,,11,1,2,True,derived,GHSA 2026 Girls
+Micah,Lundy,GA,Archer,110,,12,1,2,True,derived,GHSA 2026 Girls
+Alexis,Dalton,GA,Southeast Whitfield,110,,13,0,2,True,derived,GHSA 2026 Girls
+Ella,Wells,GA,Schley County,110,,14,0,2,True,derived,GHSA 2026 Girls
+FF-Seanna,FF-McCarthy,GA,East Jackson HS,110,,15,0,2,True,derived,GHSA 2026 Girls
+Sophia,Paige,GA,Villa Rica,110,,16,0,2,True,derived,GHSA 2026 Girls
+Gable,Hargrove,GA,Social Circle,113,1A,1,4,0,False,solid,GHSA 2026
+Dylan,Maddox,GA,Irwin County,113,1A,2,5,1,False,derived,GHSA 2026
+CRUZ,FLOYD,GA,Elbert County,113,1A,3,3,1,False,derived,GHSA 2026
+Josh,Chandler,GA,Trion,113,1A,4,3,2,False,derived,GHSA 2026
+Ty,Smith,GA,Bowdon,113,1A,5,3,2,False,derived,GHSA 2026
+Ternez,McCoy,GA,Northeast Magnet,113,1A,6,3,3,False,derived,GHSA 2026
+Jude,Evearitt,GA,Dade County,113,1A,7,2,2,False,derived,GHSA 2026
+Lukas,Young,GA,Toombs County,113,1A,8,2,2,False,derived,GHSA 2026
+Andrew,Goller,GA,Oglethorpe County,113,1A,9,1,2,False,derived,GHSA 2026
+DaMontae,Holland,GA,McIntosh County Academy,113,1A,10,1,2,False,derived,GHSA 2026
+Gage,Wright,GA,Heard County,113,1A,11,1,2,False,derived,GHSA 2026
+Zykelle,Frano,GA,Screven County,113,1A,12,1,2,False,derived,GHSA 2026
+Benjamin,Easterlin,GA,Mt Vernon Presbyterian,113,1A,13,0,2,False,derived,GHSA 2026
+Charlie,Hembree,GA,Haralson County,113,1A,14,0,2,False,derived,GHSA 2026
+Lens,Lacombe,GA,McNair,113,1A,15,0,2,False,derived,GHSA 2026
+Levi,Harmon,GA,Jasper County,113,1A,16,0,2,False,derived,GHSA 2026
+Eli,Bowman,GA,Rockmart,113,2A,1,4,0,False,solid,GHSA 2026
+Preston,Giles,GA,Coahulla Creek,113,2A,2,5,1,False,derived,GHSA 2026
+Brody,Buckley,GA,East Jackson HS,113,2A,3,3,1,False,derived,GHSA 2026
+CALEB,PORTER,GA,North Murray,113,2A,4,3,2,False,derived,GHSA 2026
+Colton,Bullard,GA,Cook,113,2A,5,3,2,False,derived,GHSA 2026
+Christian,Fleming,GA,Hart County,113,2A,6,3,3,False,derived,GHSA 2026
+Alejandro,Reyes,GA,Sonoraville,113,2A,7,2,2,False,derived,GHSA 2026
+Alexander,Hawkins,GA,Jordan,113,2A,8,2,2,False,derived,GHSA 2026
+DeMarcus,Jackson,GA,Jackson,113,2A,9,1,2,False,derived,GHSA 2026
+Johnathan,Rodriguez,GA,Rutland,113,2A,10,1,2,False,derived,GHSA 2026
+Landon,Brownell,GA,Ringgold,113,2A,11,1,2,False,derived,GHSA 2026
+Landyn,Hinson,GA,Pike County,113,2A,12,1,2,False,derived,GHSA 2026
+Eknath,Kamat,GA,Lovett School,113,2A,13,0,2,False,derived,GHSA 2026
+FF-William,FF-Shreves,GA,Pierce County HS,113,2A,14,0,2,False,derived,GHSA 2026
+Jamarion,Dykes,GA,Glenn Hills,113,2A,15,0,2,False,derived,GHSA 2026
+Sawyer,Ruark,GA,Morgan County,113,2A,16,0,2,False,derived,GHSA 2026
+Wyatt,Womack,GA,Heritage-Catoosa,113,3A,1,4,0,False,solid,GHSA 2026
+Tyson,Penson,GA,Sandy Creek HS,113,3A,2,4,1,False,derived,GHSA 2026
+Anthony,Aguayo,GA,Jefferson,113,3A,3,4,2,False,derived,GHSA 2026
+Elkin,-Alessandro Torres-Barnes,GA,North Hall,113,3A,4,3,1,False,derived,GHSA 2026
+Kohen,Cusick,GA,Calhoun,113,3A,5,3,2,False,derived,GHSA 2026
+Braylon,Smith,GA,Troup,113,3A,6,3,3,False,derived,GHSA 2026
+Hank,Mannheimer,GA,Oconee County,113,3A,7,2,2,False,derived,GHSA 2026
+Roderick,Smith,GA,Bainbridge,113,3A,8,2,2,False,derived,GHSA 2026
+Dathan,Flakes,GA,Southeast Bulloch,113,3A,9,1,2,False,derived,GHSA 2026
+Pearce,Armstrong,GA,Monroe Area,113,3A,10,1,2,False,derived,GHSA 2026
+Tabais,Williams,GA,Howard,113,3A,11,1,2,False,derived,GHSA 2026
+Trace,Bailey,GA,LaGrange,113,3A,12,1,2,False,derived,GHSA 2026
+Aiden,Sanders,GA,LaFayette,113,3A,13,0,2,False,derived,GHSA 2026
+Braden,Huffman,GA,Pickens,113,3A,14,0,2,False,derived,GHSA 2026
+David,Hernandez,GA,Chestatee,113,3A,15,0,2,False,derived,GHSA 2026
+Kanane,Lefevre,GA,"Mt Zion, Jonesboro",113,3A,16,0,2,False,derived,GHSA 2026
+Tye,Daniel,GA,Ola,113,4A,1,4,0,False,solid,GHSA 2026
+Jordan,Maxwell,GA,Ware County,113,4A,2,5,1,False,derived,GHSA 2026
+Bryan,Ruiz,GA,Southeast Whitfield,113,4A,3,3,1,False,derived,GHSA 2026
+Jair,Flores,GA,Cartersville,113,4A,4,3,2,False,derived,GHSA 2026
+KAMARI,RIVERS-CHILDS,GA,Southwest Dekalb,113,4A,5,3,2,False,derived,GHSA 2026
+Hunter,McCleskey,GA,Jones County,113,4A,6,3,3,False,derived,GHSA 2026
+Nathen,Ridley,GA,Dalton,113,4A,7,2,2,False,derived,GHSA 2026
+Nick,Weathersbee,GA,"Woodland, Cartersville",113,4A,8,2,2,False,derived,GHSA 2026
+Immanual,Segura,GA,Perry,113,4A,9,1,2,False,derived,GHSA 2026
+Matthew,Maloney,GA,Marist School,113,4A,10,1,2,False,derived,GHSA 2026
+Noah,Welch,GA,Walnut Grove,113,4A,11,1,2,False,derived,GHSA 2026
+Rocco,Sweeney,GA,Starr`s Mill,113,4A,12,1,2,False,derived,GHSA 2026
+Al-Ameen,Olawuyi,GA,Charles Drew,113,4A,13,0,2,False,derived,GHSA 2026
+Mikel,Avrilien,GA,Harris County,113,4A,14,0,2,False,derived,GHSA 2026
+Samuel,Dodita,GA,East Forsyth,113,4A,15,0,2,False,derived,GHSA 2026
+Wallace,Glover,GA,Benedictine Military School,113,4A,16,0,2,False,derived,GHSA 2026
+Joseph,Austin,GA,Lakeside HS (DeKalb),113,5A,1,4,0,False,solid,GHSA 2026
+Ethan,Fernandez,GA,Newnan,113,5A,2,4,1,False,derived,GHSA 2026
+Treaghen,Connell,GA,Sequoyah,113,5A,3,4,2,False,derived,GHSA 2026
+Andreo,Manlove,GA,South Effingham,113,5A,4,3,1,False,derived,GHSA 2026
+Asa,Martin,GA,Alcovy,113,5A,5,3,2,False,derived,GHSA 2026
+Jack,Cory,GA,Creekview,113,5A,6,3,3,False,derived,GHSA 2026
+Reggie,Smith,GA,Coffee,113,5A,7,2,2,False,derived,GHSA 2026
+Zion,Burroughs,GA,Arabia Mountain,113,5A,8,2,2,False,derived,GHSA 2026
+Bryson,Thompson,GA,East Paulding Hs,113,5A,9,1,2,False,derived,GHSA 2026
+Carter,Lankford,GA,Gainesville,113,5A,10,1,2,False,derived,GHSA 2026
+Jayvyn,Headen,GA,Alexander,113,5A,11,1,2,False,derived,GHSA 2026
+Layne,Summers,GA,Effingham County,113,5A,12,1,2,False,derived,GHSA 2026
+Daniel,Fogus,GA,Rome,113,5A,13,0,2,False,derived,GHSA 2026
+Francis,Ho,GA,Dunwoody,113,5A,14,0,2,False,derived,GHSA 2026
+Jaxson,Schaefer,GA,Brunswick,113,5A,15,0,2,False,derived,GHSA 2026
+Sawyer,Swift,GA,Woodstock,113,5A,16,0,2,False,derived,GHSA 2026
+Ariah,Mills,GA,Buford HS,113,6A,1,4,0,False,solid,GHSA 2026
+Michael,Densmore,GA,Valdosta,113,6A,2,4,1,False,derived,GHSA 2026
+Daniel,Uranga,GA,Carrollton,113,6A,3,4,2,False,derived,GHSA 2026
+Jayden,Ramone,GA,East Coweta HS,113,6A,4,4,2,False,derived,GHSA 2026
+Jayme,Jones,GA,Camden County,113,6A,5,3,1,False,derived,GHSA 2026
+Cannon,Sansone,GA,Etowah,113,6A,6,2,2,False,derived,GHSA 2026
+Miller,Shettle,GA,Denmark,113,6A,7,2,2,False,derived,GHSA 2026
+James,Indorf,GA,North Gwinnett,113,6A,8,2,3,False,derived,GHSA 2026
+Colt,Snook,GA,North Forsyth,113,6A,9,1,2,False,derived,GHSA 2026
+Jaxon,Thacker,GA,North Paulding,113,6A,10,1,2,False,derived,GHSA 2026
+Levi,Green,GA,Tift County,113,6A,11,1,2,False,derived,GHSA 2026
+Massiah,Dunlap,GA,Norcross,113,6A,12,1,2,False,derived,GHSA 2026
+Bryce,Jenkins,GA,Parkview,113,6A,13,0,2,False,derived,GHSA 2026
+Ethan,Taub,GA,Walton,113,6A,14,0,2,False,derived,GHSA 2026
+Landon,Phillips,GA,Grovetown,113,6A,15,0,2,False,derived,GHSA 2026
+Lleyton,Nguyen,GA,Duluth,113,6A,16,0,2,False,derived,GHSA 2026
+Delialah,Betances,GA,Lee County,115,,1,4,0,True,solid,GHSA 2026 Girls
+Sarah,Vehar,GA,Sequoyah,115,,2,4,1,True,derived,GHSA 2026 Girls
+Maddison,Jones,GA,Shiloh,115,,3,4,2,True,derived,GHSA 2026 Girls
+Ruthie,Ridings,GA,Rockmart,115,,4,3,1,True,derived,GHSA 2026 Girls
+reagan,fizer,GA,McEachern,115,,5,3,2,True,derived,GHSA 2026 Girls
+Emma,Massa,GA,Temple,115,,6,3,3,True,derived,GHSA 2026 Girls
+Lily,Armistead,GA,Putnam County,115,,7,2,2,True,derived,GHSA 2026 Girls
+Mya,Picart,GA,Grovetown,115,,8,2,2,True,derived,GHSA 2026 Girls
+Alexandra,Iglesias,GA,Central Gwinnett,115,,9,1,2,True,derived,GHSA 2026 Girls
+Ava,Ives,GA,Harris County,115,,10,1,2,True,derived,GHSA 2026 Girls
+DQ-Kelsie,DQ-Bozeman,GA,Fitzgerald,115,,11,1,2,True,derived,GHSA 2026 Girls
+Desiray,Aikerson,GA,Morrow,115,,12,1,2,True,derived,GHSA 2026 Girls
+Alicia,Rogers,GA,Gainesville,115,,13,0,2,True,derived,GHSA 2026 Girls
+Chi,Chi Williams,GA,Stockbridge,115,,14,0,2,True,derived,GHSA 2026 Girls
+Jasmine,Zimmerman,GA,South Effingham,115,,15,0,2,True,derived,GHSA 2026 Girls
+Sydni,Wright,GA,Archer,115,,16,0,2,True,derived,GHSA 2026 Girls
+Evey,Hill,GA,Troup,120,,1,4,0,True,solid,GHSA 2026 Girls
+Kara,Dover,GA,North Hall,120,,2,4,1,True,derived,GHSA 2026 Girls
+Kirsten,Fenner,GA,Walton,120,,3,4,2,True,derived,GHSA 2026 Girls
+Valerie,Bowman,GA,Marietta,120,,4,4,2,True,derived,GHSA 2026 Girls
+Michelle,Kowalsky,GA,Evans,120,,5,3,1,True,derived,GHSA 2026 Girls
+Jordan,Stevens,GA,Mill Creek,120,,6,2,2,True,derived,GHSA 2026 Girls
+Rylee,Cline,GA,Ridgeland,120,,7,2,2,True,derived,GHSA 2026 Girls
+Rosie,Lara,GA,Morrow,120,,8,2,3,True,derived,GHSA 2026 Girls
+Anna,Trishin,GA,North Gwinnett,120,,9,1,2,True,derived,GHSA 2026 Girls
+Ellah,White,GA,Jefferson,120,,10,1,2,True,derived,GHSA 2026 Girls
+Sophia,Bradshaw,GA,Hiram,120,,11,1,2,True,derived,GHSA 2026 Girls
+Stella,Harper,GA,Thomas County Central HS,120,,12,1,2,True,derived,GHSA 2026 Girls
+Esperanza,Huitron,GA,Greenbrier,120,,13,0,2,True,derived,GHSA 2026 Girls
+FF-Roselyn,FF-Revolledo,GA,Gainesville,120,,14,0,2,True,derived,GHSA 2026 Girls
+Kaylee,Cook,GA,Newnan,120,,15,0,2,True,derived,GHSA 2026 Girls
+Zoey,Ervin,GA,Central (Carroll),120,,16,0,2,True,derived,GHSA 2026 Girls
+Noah,Brown,GA,Gordon Lee,120,1A,1,4,0,False,solid,GHSA 2026
+Ethaen,Shroyer,GA,Bremen,120,1A,2,4,1,False,derived,GHSA 2026
+Matthew,Gottschalk,GA,Fellowship Christian School,120,1A,3,4,2,False,derived,GHSA 2026
+Quinton,Lovett,GA,Dublin,120,1A,4,3,1,False,derived,GHSA 2026
+Kaleb,Jones,GA,Social Circle,120,1A,5,3,2,False,derived,GHSA 2026
+Khai,Baker,GA,Georgia Military College,120,1A,6,3,3,False,derived,GHSA 2026
+COOPER,WEST,GA,Elbert County,120,1A,7,2,2,False,derived,GHSA 2026
+Rylan,Benton,GA,Brantley County HS,120,1A,8,2,2,False,derived,GHSA 2026
+Andrew,Wall,GA,Rabun County,120,1A,9,1,2,False,derived,GHSA 2026
+Colby,Brown,GA,Pelham,120,1A,10,1,2,False,derived,GHSA 2026
+Hayden,Thompson,GA,Gordon Central Hs,120,1A,11,1,2,False,derived,GHSA 2026
+Rhett,Devane,GA,Banks County,120,1A,12,1,2,False,derived,GHSA 2026
+Aiden,Carroll,GA,Temple,120,1A,13,0,2,False,derived,GHSA 2026
+Asher,Smith,GA,"Mt Zion, Carroll",120,1A,14,0,2,False,derived,GHSA 2026
+Jessie,McCoy,GA,Toombs County,120,1A,15,0,2,False,derived,GHSA 2026
+Lucas,Morris,GA,McIntosh County Academy,120,1A,16,0,2,False,derived,GHSA 2026
+Hayes,Kennedy,GA,Lovett School,120,2A,1,4,0,False,solid,GHSA 2026
+Sam,Williams,GA,Franklin County,120,2A,2,5,1,False,derived,GHSA 2026
+Hayden,Green,GA,Murray County,120,2A,3,4,2,False,derived,GHSA 2026
+Eli,Flowers,GA,Union County,120,2A,4,3,1,False,derived,GHSA 2026
+Chaz,Graham,GA,Rockmart,120,2A,5,3,2,False,derived,GHSA 2026
+Geno,Whittaker,GA,Shaw,120,2A,6,2,2,False,derived,GHSA 2026
+Mickel,Huerta,GA,Columbia,120,2A,7,2,2,False,derived,GHSA 2026
+Angel,Rodriguez,GA,East Jackson HS,120,2A,8,2,3,False,derived,GHSA 2026
+Clayton,Pierce,GA,North Cobb Christian,120,2A,9,1,2,False,derived,GHSA 2026
+Darryl,Taylor,GA,Salem,120,2A,10,1,2,False,derived,GHSA 2026
+Gregory,Sallet,GA,Pierce County HS,120,2A,11,1,2,False,derived,GHSA 2026
+Kaleb,Garner,GA,Pike County,120,2A,12,1,2,False,derived,GHSA 2026
+Marcos,Ramirez,GA,Coahulla Creek,120,2A,13,0,2,False,derived,GHSA 2026
+Riley,Leath,GA,Cook,120,2A,14,0,2,False,derived,GHSA 2026
+Sawyer,Brown,GA,Hart County,120,2A,15,0,2,False,derived,GHSA 2026
+Vance,Hinton,GA,Rutland,120,2A,16,0,2,False,derived,GHSA 2026
+Jonderious,Williams,GA,Troup,120,3A,1,4,0,False,solid,GHSA 2026
+Abraham,Hurd,GA,Northwest Whitfield High,120,3A,2,4,1,False,derived,GHSA 2026
+Keagen,Cusick,GA,Calhoun,120,3A,3,4,2,False,derived,GHSA 2026
+Sebastian,Rodriguez,GA,West Laurens,120,3A,4,4,2,False,derived,GHSA 2026
+Jacob,Merry,GA,Lumpkin Co.,120,3A,5,3,1,False,derived,GHSA 2026
+Jacob,Ladewig,GA,North Hall,120,3A,6,2,2,False,derived,GHSA 2026
+Mason,Burnsed,GA,Mary Persons,120,3A,7,2,2,False,derived,GHSA 2026
+Asher,Kay,GA,Heritage-Catoosa,120,3A,8,2,3,False,derived,GHSA 2026
+Angel,Bastida,GA,Cairo,120,3A,9,1,2,False,derived,GHSA 2026
+Corbin,Cox,GA,Cherokee Bluff,120,3A,10,1,2,False,derived,GHSA 2026
+Edgardo,Vasquez,GA,"Mt Zion, Jonesboro",120,3A,11,1,2,False,derived,GHSA 2026
+Patrick,Stephens,GA,Chestatee,120,3A,12,1,2,False,derived,GHSA 2026
+Benjamin,Sayers,GA,Oconee County,120,3A,13,0,2,False,derived,GHSA 2026
+Evan,Laber,GA,Upson Lee,120,3A,14,0,2,False,derived,GHSA 2026
+Jesse,Damian,GA,Monroe Area,120,3A,15,0,2,False,derived,GHSA 2026
+Tyler,Atkinson,GA,LaGrange,120,3A,16,0,2,False,derived,GHSA 2026
+Ashton,Akins,GA,Locust Grove,120,4A,1,4,0,False,solid,GHSA 2026
+Chase,Rust,GA,Harris County,120,4A,2,4,1,False,derived,GHSA 2026
+BRODIE,Drake,GA,Madison County,120,4A,3,4,2,False,derived,GHSA 2026
+Hayden,Trimm,GA,Cass,120,4A,4,3,1,False,derived,GHSA 2026
+Jayden,Mateo,GA,Stockbridge,120,4A,5,3,2,False,derived,GHSA 2026
+Chase,Bonelli,GA,Hampton,120,4A,6,3,3,False,derived,GHSA 2026
+Bryton,Glenn,GA,"Woodland, Cartersville",120,4A,7,2,2,False,derived,GHSA 2026
+Matthew,Doucet,GA,Blessed Trinity Catholic,120,4A,8,2,2,False,derived,GHSA 2026
+Bryan,Diaz,GA,Dalton,120,4A,9,1,2,False,derived,GHSA 2026
+Devin,Starr,GA,Starr`s Mill,120,4A,10,1,2,False,derived,GHSA 2026
+Jaylen,Robinson Baker,GA,McDonough,120,4A,11,1,2,False,derived,GHSA 2026
+Noah,Paul,GA,Ware County,120,4A,12,1,2,False,derived,GHSA 2026
+FF-Jackson,FF-Call,GA,Benedictine Military School,120,4A,13,0,2,False,derived,GHSA 2026
+Jase,Moore,GA,Central (Carroll),120,4A,14,0,2,False,derived,GHSA 2026
+Mykyta,Liutyi,GA,Cambridge,120,4A,15,0,2,False,derived,GHSA 2026
+Sanji,Ledesma,GA,Wayne County HS,120,4A,16,0,2,False,derived,GHSA 2026
+Mikey,Castro,GA,Jackson County,120,5A,1,4,0,False,solid,GHSA 2026
+Tahrik,Bailey,GA,South Effingham,120,5A,2,4,1,False,derived,GHSA 2026
+Dylan,Lynn,GA,Dunwoody,120,5A,3,4,2,False,derived,GHSA 2026
+Gavin,Newton,GA,Seckinger ,120,5A,4,3,1,False,derived,GHSA 2026
+Casey,McElligott,GA,Woodstock,120,5A,5,3,2,False,derived,GHSA 2026
+Tate,Sauls,GA,Villa Rica,120,5A,6,3,3,False,derived,GHSA 2026
+Brayden,Stevens,GA,Coffee,120,5A,7,2,2,False,derived,GHSA 2026
+Ean,O`neal,GA,Thomas County Central HS,120,5A,8,2,2,False,derived,GHSA 2026
+Jaxon,Zaldo,GA,Veteran`s,120,5A,9,1,2,False,derived,GHSA 2026
+Keshaun,Lee,GA,Brunswick,120,5A,10,1,2,False,derived,GHSA 2026
+Patrick,Ward,GA,McIntosh,120,5A,11,1,2,False,derived,GHSA 2026
+Wil,Primm,GA,Pope,120,5A,12,1,2,False,derived,GHSA 2026
+Collier,Lott,GA,Creekview,120,5A,13,0,2,False,derived,GHSA 2026
+Dean,D` Agostino,GA,Johns Creek,120,5A,14,0,2,False,derived,GHSA 2026
+Phillip,Harrell,GA,Glynn Academy,120,5A,15,0,2,False,derived,GHSA 2026
+Tyler,Bible,GA,Chattahoochee HS,120,5A,16,0,2,False,derived,GHSA 2026
+Teequavious,Mills,GA,Mill Creek,120,6A,1,4,0,False,solid,GHSA 2026
+Chris,Metz,GA,Buford HS,120,6A,2,4,1,False,derived,GHSA 2026
+Alessandro,Vitello,GA,Richmond Hill HS,120,6A,3,4,2,False,derived,GHSA 2026
+Isaac,Jung,GA,West Forsyth,120,6A,4,3,1,False,derived,GHSA 2026
+Jayden,Buehler,GA,Camden County,120,6A,5,3,2,False,derived,GHSA 2026
+Kaloeb,Ritter,GA,Tift County,120,6A,6,3,3,False,derived,GHSA 2026
+Greyson,Masters,GA,Alpharetta,120,6A,7,2,2,False,derived,GHSA 2026
+Osvaldo,Salazar-Martinez,GA,Meadowcreek,120,6A,8,2,2,False,derived,GHSA 2026
+Benjamin,Telewoda,GA,Central Gwinnett,120,6A,9,1,2,False,derived,GHSA 2026
+Callen,Nessl,GA,Etowah,120,6A,10,1,2,False,derived,GHSA 2026
+Jacob,Chan,GA,Brookwood,120,6A,11,1,2,False,derived,GHSA 2026
+Noah,Scott,GA,Lowndes HS,120,6A,12,1,2,False,derived,GHSA 2026
+Brayden,Sherfey,GA,South Forsyth H.S.,120,6A,13,0,2,False,derived,GHSA 2026
+Doni,Arorkulov,GA,Mountain View,120,6A,14,0,2,False,derived,GHSA 2026
+Roby,Egan,GA,North Atlanta HS,120,6A,15,0,2,False,derived,GHSA 2026
+William,Spivack,GA,North Gwinnett,120,6A,16,0,2,False,derived,GHSA 2026
+Shaniyah,McDaniel,GA,Grovetown,125,,1,4,0,True,solid,GHSA 2026 Girls
+Lillian,Malloy,GA,Pope,125,,2,4,1,True,derived,GHSA 2026 Girls
+Rylynn,Bridges,GA,Cedartown,125,,3,4,2,True,derived,GHSA 2026 Girls
+Zuri,McCalpine-Ingram,GA,Tucker,125,,4,3,1,True,derived,GHSA 2026 Girls
+Lyllian,Warner,GA,Dawson County,125,,5,3,2,True,derived,GHSA 2026 Girls
+Calyssa,Griffin,GA,Parkview,125,,6,3,3,True,derived,GHSA 2026 Girls
+Daniela,Palatchi,GA,Woodward Academy,125,,7,2,2,True,derived,GHSA 2026 Girls
+Kenya,Solomon,GA,Greenbrier,125,,8,2,2,True,derived,GHSA 2026 Girls
+Anastasia,Sirmans,GA,Jeff Davis HS,125,,9,1,2,True,derived,GHSA 2026 Girls
+Hazel,Green,GA,Marietta,125,,10,1,2,True,derived,GHSA 2026 Girls
+Kyrie-Jade,Atkinson,GA,Camden County,125,,11,1,2,True,derived,GHSA 2026 Girls
+MFF-Destiny,MFF-Wooley,GA,Chestatee,125,,12,1,2,True,derived,GHSA 2026 Girls
+Addisyn,Puerto Puerto,GA,Brookwood,125,,13,0,2,True,derived,GHSA 2026 Girls
+Aileen,Martinez,GA,Colquitt County,125,,14,0,2,True,derived,GHSA 2026 Girls
+KaWae,Domingo,GA,Jackson County,125,,15,0,2,True,derived,GHSA 2026 Girls
+McKenzie,Lucas,GA,North Forsyth,125,,16,0,2,True,derived,GHSA 2026 Girls
+Pierre,Nelson,GA,Mt. Pisgah Christian School,126,1A,1,4,0,False,solid,GHSA 2026
+Silas,Mills,GA,Trion,126,1A,2,4,1,False,derived,GHSA 2026
+Cainan,Gladden,GA,Treutlen,126,1A,3,4,2,False,derived,GHSA 2026
+Lauden,Ethridge,GA,Social Circle,126,1A,4,3,1,False,derived,GHSA 2026
+Eric,Jackson,GA,McIntosh County Academy,126,1A,5,3,2,False,derived,GHSA 2026
+Emory,Moss,GA,Commerce Hs,126,1A,6,3,3,False,derived,GHSA 2026
+Caleb,Derival,GA,Towers,126,1A,7,2,2,False,derived,GHSA 2026
+Landon,Williams,GA,Gordon Lee,126,1A,8,2,2,False,derived,GHSA 2026
+CJ,Maynard,GA,Banks County,126,1A,9,1,2,False,derived,GHSA 2026
+Javell,Richards,GA,"Mt Zion, Carroll",126,1A,10,1,2,False,derived,GHSA 2026
+Keymontae,Sanders,GA,Dublin,126,1A,11,1,2,False,derived,GHSA 2026
+Parker,Money,GA,Berrien County,126,1A,12,1,2,False,derived,GHSA 2026
+Michael,Hansen,GA,Haralson County,126,1A,13,0,2,False,derived,GHSA 2026
+Payne,Roberson,GA,Charlton County,126,1A,14,0,2,False,derived,GHSA 2026
+Tonikiron,Williams,GA,Northeast Magnet,126,1A,15,0,2,False,derived,GHSA 2026
+Will,Walls,GA,Towns County,126,1A,16,0,2,False,derived,GHSA 2026
+Mason,Smith,GA,East Jackson HS,126,2A,1,4,0,False,solid,GHSA 2026
+BRANDON,LOCKE,GA,North Murray,126,2A,2,4,1,False,derived,GHSA 2026
+Ja`Caden,Wheeler,GA,Hart County,126,2A,3,4,2,False,derived,GHSA 2026
+Luke,Mealer,GA,Sonoraville,126,2A,4,3,1,False,derived,GHSA 2026
+Justin,Ford,GA,Jordan,126,2A,5,3,2,False,derived,GHSA 2026
+Domingo,Sanchez Ramos,GA,Murray County,126,2A,6,3,3,False,derived,GHSA 2026
+Boston,Chandler,GA,Ringgold,126,2A,7,2,2,False,derived,GHSA 2026
+Tripp,Clay,GA,Rockmart,126,2A,8,2,2,False,derived,GHSA 2026
+Aiden,Hyatt,GA,Union County,126,2A,9,1,2,False,derived,GHSA 2026
+Anthony,Dein,GA,Columbus,126,2A,10,1,2,False,derived,GHSA 2026
+Chandler,Wiggins,GA,Shaw,126,2A,11,1,2,False,derived,GHSA 2026
+Hogan,Ayers,GA,Franklin County,126,2A,12,1,2,False,derived,GHSA 2026
+Blake,Atkinson,GA,Morgan County,126,2A,13,0,2,False,derived,GHSA 2026
+Hardy,Fosberg,GA,Holy Innocents Episcopal,126,2A,14,0,2,False,derived,GHSA 2026
+Kevin,Dawson III,GA,Rutland,126,2A,15,0,2,False,derived,GHSA 2026
+Nick,Stoll,GA,Lovett School,126,2A,16,0,2,False,derived,GHSA 2026
+Jack,Procter,GA,North Hall,126,3A,1,4,0,False,solid,GHSA 2026
+Gavin,Austin,GA,Jefferson,126,3A,2,4,1,False,derived,GHSA 2026
+John,Adams,GA,Upson Lee,126,3A,3,4,2,False,derived,GHSA 2026
+Kaden,Taylor,GA,Heritage-Catoosa,126,3A,4,4,2,False,derived,GHSA 2026
+Hunter,Smith,GA,White County,126,3A,5,3,1,False,derived,GHSA 2026
+Jackson,Burns,GA,LaGrange,126,3A,6,2,2,False,derived,GHSA 2026
+Kayani,Whited,GA,Stephenson,126,3A,7,2,2,False,derived,GHSA 2026
+Cael,Moore,GA,Oconee County,126,3A,8,2,3,False,derived,GHSA 2026
+King,Council,GA,Long County,126,3A,9,1,2,False,derived,GHSA 2026
+Logan,Hill,GA,Ridgeland,126,3A,10,1,2,False,derived,GHSA 2026
+Max,Maya,GA,Harlem,126,3A,11,1,2,False,derived,GHSA 2026
+Michael,Cordero,GA,Pickens,126,3A,12,1,2,False,derived,GHSA 2026
+Aiden,DeBlois,GA,Cairo,126,3A,13,0,2,False,derived,GHSA 2026
+Jaden,Scarbrough,GA,Cherokee Bluff,126,3A,14,0,2,False,derived,GHSA 2026
+James,Moran,GA,Sandy Creek HS,126,3A,15,0,2,False,derived,GHSA 2026
+Zaatren,Bennett,GA,Calhoun,126,3A,16,0,2,False,derived,GHSA 2026
+Colt,Mitchell,GA,Central (Carroll),126,4A,1,4,0,False,solid,GHSA 2026
+Noah,Van Name,GA,Walnut Grove,126,4A,2,5,1,False,derived,GHSA 2026
+Nate,Davis,GA,Allatoona,126,4A,3,4,2,False,derived,GHSA 2026
+Adrian,Zapata,GA,"Woodland, Cartersville",126,4A,4,3,1,False,derived,GHSA 2026
+Keith,Wheeler,GA,Perry,126,4A,5,3,2,False,derived,GHSA 2026
+Aiden,Simmons,GA,Benedictine Military School,126,4A,6,2,2,False,derived,GHSA 2026
+LANDON,BARRETT,GA,Madison County,126,4A,7,2,2,False,derived,GHSA 2026
+Rodrigo,Reyes,GA,Ware County,126,4A,8,2,3,False,derived,GHSA 2026
+Grover,Mixell,GA,Wayne County HS,126,4A,9,1,2,False,derived,GHSA 2026
+Jamarie,Donovan,GA,Hampton,126,4A,10,1,2,False,derived,GHSA 2026
+Justus,Fife,GA,Cass,126,4A,11,1,2,False,derived,GHSA 2026
+nevon,zuniga,GA,"Northside, Columbus",126,4A,12,1,2,False,derived,GHSA 2026
+Eleuterio,Celis,GA,Southeast Whitfield,126,4A,13,0,2,False,derived,GHSA 2026
+Isaiah,Wysocki,GA,East Forsyth,126,4A,14,0,2,False,derived,GHSA 2026
+Joseph,Bazan,GA,Marist School,126,4A,15,0,2,False,derived,GHSA 2026
+Richard,Burke,GA,St Pius X School,126,4A,16,0,2,False,derived,GHSA 2026
+Tyler,Herring,GA,Woodstock,126,5A,1,4,0,False,solid,GHSA 2026
+Mayson,Young,GA,South Effingham,126,5A,2,4,1,False,derived,GHSA 2026
+Eli,Thoman,GA,Lanier,126,5A,3,4,2,False,derived,GHSA 2026
+Ashton,Glasgow,GA,Decatur,126,5A,4,3,1,False,derived,GHSA 2026
+Mason,Kutylowski,GA,Winder-Barrow,126,5A,5,3,2,False,derived,GHSA 2026
+Ahmed,Daoud,GA,Rome,126,5A,6,3,3,False,derived,GHSA 2026
+Micahya,Parks,GA,Newnan,126,5A,7,2,2,False,derived,GHSA 2026
+Ryan,Sanders,GA,Brunswick,126,5A,8,2,2,False,derived,GHSA 2026
+Chase,Cook,GA,Habersham Central Hs,126,5A,9,1,2,False,derived,GHSA 2026
+Jared,Katz,GA,Dunwoody,126,5A,10,1,2,False,derived,GHSA 2026
+Julian,Newman,GA,Villa Rica,126,5A,11,1,2,False,derived,GHSA 2026
+Rowan,Kennedy,GA,Gainesville,126,5A,12,1,2,False,derived,GHSA 2026
+Brice,Ozden,GA,Lakeside (Evans),126,5A,13,0,2,False,derived,GHSA 2026
+Jake,Kerstann,GA,Woodward Academy,126,5A,14,0,2,False,derived,GHSA 2026
+Kyle,Lafferty,GA,Glynn Academy,126,5A,15,0,2,False,derived,GHSA 2026
+Marquis,Myles,GA,Banneker,126,5A,16,0,2,False,derived,GHSA 2026
+Nicolas,Owens,GA,North Gwinnett,126,6A,1,4,0,False,solid,GHSA 2026
+Grant,Dait,GA,South Forsyth H.S.,126,6A,2,5,1,False,derived,GHSA 2026
+Kellan,Lukas,GA,Tift County,126,6A,3,4,2,False,derived,GHSA 2026
+Marquavious,Lane,GA,Valdosta,126,6A,4,3,1,False,derived,GHSA 2026
+Elijah,Hattaway,GA,Camden County,126,6A,5,3,2,False,derived,GHSA 2026
+Carter,Anderson,GA,Richmond Hill HS,126,6A,6,2,2,False,derived,GHSA 2026
+ben,southern,GA,North Paulding,126,6A,7,2,2,False,derived,GHSA 2026
+Jeremiah,Toe,GA,Archer,126,6A,8,2,3,False,derived,GHSA 2026
+Alex,Blanc,GA,West Forsyth,126,6A,9,1,2,False,derived,GHSA 2026
+Landon,Tran,GA,Mill Creek,126,6A,10,1,2,False,derived,GHSA 2026
+Sean,Patrick,GA,Campbell,126,6A,11,1,2,False,derived,GHSA 2026
+Tahir,Charles,GA,Brookwood,126,6A,12,1,2,False,derived,GHSA 2026
+Christian,Carroll,GA,Harrison,126,6A,13,0,2,False,derived,GHSA 2026
+Crew,Castorri,GA,Buford HS,126,6A,14,0,2,False,derived,GHSA 2026
+Hayes,Harpenau,GA,North Atlanta HS,126,6A,15,0,2,False,derived,GHSA 2026
+Luke,Brooks,GA,Mountain View,126,6A,16,0,2,False,derived,GHSA 2026
+Artemis,Eaton,GA,North Forsyth,130,,1,4,0,True,solid,GHSA 2026 Girls
+Messiah,Salem,GA,Vidalia,130,,2,4,1,True,derived,GHSA 2026 Girls
+Caroline,Cunningham,GA,Lumpkin Co.,130,,3,4,2,True,derived,GHSA 2026 Girls
+Adison,Steadman,GA,Heritage-Catoosa,130,,4,3,1,True,derived,GHSA 2026 Girls
+Carson,Wingo,GA,McIntosh,130,,5,3,2,True,derived,GHSA 2026 Girls
+HAZEL,BEAM,GA,North Oconee,130,,6,3,3,True,derived,GHSA 2026 Girls
+Azahria,Hall,GA,Seckinger ,130,,7,2,2,True,derived,GHSA 2026 Girls
+Joise,Insalaco,GA,Pierce County HS,130,,8,2,2,True,derived,GHSA 2026 Girls
+Aletheia,Turner,GA,Campbell,130,,9,1,2,True,derived,GHSA 2026 Girls
+Donna,Vazquez,GA,Brookwood,130,,10,1,2,True,derived,GHSA 2026 Girls
+Isis,Coran Alston-Bey,GA,Peachtree Ridge,130,,11,1,2,True,derived,GHSA 2026 Girls
+Krystianna,Payne,GA,Southeast Whitfield,130,,12,1,2,True,derived,GHSA 2026 Girls
+Alliyah,Rone,GA,Jordan,130,,13,0,2,True,derived,GHSA 2026 Girls
+Jamie,Dawson,GA,Columbus,130,,14,0,2,True,derived,GHSA 2026 Girls
+Kailyn,Bowers,GA,Hart County,130,,15,0,2,True,derived,GHSA 2026 Girls
+Varsha,Upadhayay,GA,Forsyth Central,130,,16,0,2,True,derived,GHSA 2026 Girls
+Cohen,Hargrove,GA,Social Circle,132,1A,1,4,0,False,solid,GHSA 2026
+Sawyer,Seebeck,GA,Wesleyan,132,1A,2,4,1,False,derived,GHSA 2026
+Ashton,Crawford,GA,Bacon County,132,1A,3,4,2,False,derived,GHSA 2026
+Wyatt,Bunch,GA,Toombs County,132,1A,4,3,1,False,derived,GHSA 2026
+Lane,Broome,GA,Trion,132,1A,5,3,2,False,derived,GHSA 2026
+TYSON,ALLEN,GA,Commerce Hs,132,1A,6,3,3,False,derived,GHSA 2026
+Kye,Young,GA,Dublin,132,1A,7,2,2,False,derived,GHSA 2026
+Vance,Siburkis,GA,Gordon Central Hs,132,1A,8,2,2,False,derived,GHSA 2026
+BRY,HARPER,GA,Elbert County,132,1A,9,1,2,False,derived,GHSA 2026
+Max,Brady,GA,Georgia Military College,132,1A,10,1,2,False,derived,GHSA 2026
+Nic,Trosper,GA,Heard County,132,1A,11,1,2,False,derived,GHSA 2026
+Sawyer,Grimsley,GA,Brantley County HS,132,1A,12,1,2,False,derived,GHSA 2026
+Conlan,Braun,GA,Bremen,132,1A,13,0,2,False,derived,GHSA 2026
+Luke,Holbrooks,GA,Oglethorpe County,132,1A,14,0,2,False,derived,GHSA 2026
+Mason,Summerville,GA,Temple,132,1A,15,0,2,False,derived,GHSA 2026
+River,Chauncey,GA,Towns County,132,1A,16,0,2,False,derived,GHSA 2026
+Cedric,Montgomery,GA,Columbus,132,2A,1,4,0,False,solid,GHSA 2026
+Kaydon,Roberts,GA,Franklin County,132,2A,2,5,1,False,derived,GHSA 2026
+Talon,Medrano,GA,Lakeview Ft. Oglethorpe HS,132,2A,3,4,2,False,derived,GHSA 2026
+Drake,Goff,GA,Coahulla Creek,132,2A,4,3,1,False,derived,GHSA 2026
+Thomas,Gary,GA,Union County,132,2A,5,3,2,False,derived,GHSA 2026
+Ajayi,Calhoun,GA,Redan,132,2A,6,2,2,False,derived,GHSA 2026
+Harrison,Jackson,GA,Morgan County,132,2A,7,2,2,False,derived,GHSA 2026
+Major,Chambers,GA,Rockmart,132,2A,8,2,3,False,derived,GHSA 2026
+Bransyn,Perry,GA,Murray County,132,2A,9,1,2,False,derived,GHSA 2026
+Ethan,Hartley,GA,Pike County,132,2A,10,1,2,False,derived,GHSA 2026
+Timothy,Walden,GA,Cook,132,2A,11,1,2,False,derived,GHSA 2026
+Xavier,Clemons,GA,Appling County,132,2A,12,1,2,False,derived,GHSA 2026
+Christian,Holloway,GA,Sonoraville,132,2A,13,0,2,False,derived,GHSA 2026
+Eli,May,GA,Lovett School,132,2A,14,0,2,False,derived,GHSA 2026
+Hampton,Pierce,GA,Hart County,132,2A,15,0,2,False,derived,GHSA 2026
+Kaeden,Barnes,GA,Miller Grove,132,2A,16,0,2,False,derived,GHSA 2026
+Ty,Murray,GA,Jefferson,132,3A,1,4,0,False,solid,GHSA 2026
+Manuel,Velasquez,GA,Gilmer County,132,3A,2,5,1,False,derived,GHSA 2026
+Aden,Oglesby,GA,Dawson County,132,3A,3,3,1,False,derived,GHSA 2026
+Casey,Dean,GA,Long County,132,3A,4,3,2,False,derived,GHSA 2026
+Clay,Christopher,GA,White County,132,3A,5,3,2,False,derived,GHSA 2026
+Isaac,Brown,GA,Lumpkin Co.,132,3A,6,3,3,False,derived,GHSA 2026
+Amari,Fagan,GA,West Hall,132,3A,7,2,2,False,derived,GHSA 2026
+Jayden,Starley,GA,West Laurens,132,3A,8,2,2,False,derived,GHSA 2026
+Hyrum,Fossum,GA,Mary Persons,132,3A,9,1,2,False,derived,GHSA 2026
+Jackson,Anderson,GA,Oconee County,132,3A,10,1,2,False,derived,GHSA 2026
+Jayden,Daniels,GA,"Westside, Augusta",132,3A,11,1,2,False,derived,GHSA 2026
+LeTuan,Howard,GA,Bainbridge,132,3A,12,1,2,False,derived,GHSA 2026
+Jordan,Mitchell,GA,Hephzibah,132,3A,13,0,2,False,derived,GHSA 2026
+Kyrin,Matthews,GA,Stephenson,132,3A,14,0,2,False,derived,GHSA 2026
+Reid,Gay,GA,Sandy Creek HS,132,3A,15,0,2,False,derived,GHSA 2026
+Uriyah,Smoker,GA,Calvary Day School,132,3A,16,0,2,False,derived,GHSA 2026
+Gabriel,Easey,GA,Ola,132,4A,1,4,0,False,solid,GHSA 2026
+Nathen,Hernandez,GA,Dalton,132,4A,2,4,1,False,derived,GHSA 2026
+Darryl,Wildgoose,GA,Hampton,132,4A,3,4,2,False,derived,GHSA 2026
+Thomas,Singleton,GA,Perry,132,4A,4,4,2,False,derived,GHSA 2026
+Grant,Albright,GA,Allatoona,132,4A,5,3,1,False,derived,GHSA 2026
+Brooks,deRijke,GA,Centennial,132,4A,6,2,2,False,derived,GHSA 2026
+FF-Isaiah,FF-Edmonds,GA,Kell,132,4A,7,2,2,False,derived,GHSA 2026
+Ben,Tomasello,GA,St Pius X School,132,4A,8,2,3,False,derived,GHSA 2026
+Aden,Akins,GA,Locust Grove,132,4A,9,1,2,False,derived,GHSA 2026
+Damarion,Zanders,GA,Ware County,132,4A,10,1,2,False,derived,GHSA 2026
+Parker,Steketee,GA,Walnut Grove,132,4A,11,1,2,False,derived,GHSA 2026
+Prachan,Dahal,GA,Tucker,132,4A,12,1,2,False,derived,GHSA 2026
+Charles,Allison,GA,Lithonia,132,4A,13,0,2,False,derived,GHSA 2026
+Cole,Irons,GA,Hiram,132,4A,14,0,2,False,derived,GHSA 2026
+Luca,Bellmann,GA,Westminster Schools,132,4A,15,0,2,False,derived,GHSA 2026
+Preston,Valentine,GA,Flowery Branch,132,4A,16,0,2,False,derived,GHSA 2026
+Ty,Warren,GA,Creekview,132,5A,1,4,0,False,solid,GHSA 2026
+Braden,Harper,GA,Woodstock,132,5A,2,5,1,False,derived,GHSA 2026
+Cash,Prado,GA,Pope,132,5A,3,3,1,False,derived,GHSA 2026
+Noah,Knowlton,GA,South Effingham,132,5A,4,3,2,False,derived,GHSA 2026
+Trace,Gibbons,GA,Roswell,132,5A,5,3,2,False,derived,GHSA 2026
+Michael,Carter,GA,Veteran`s,132,5A,6,3,3,False,derived,GHSA 2026
+Christian,Saravia,GA,Habersham Central Hs,132,5A,7,2,2,False,derived,GHSA 2026
+Matt,Kennedy,GA,Glynn Academy,132,5A,8,2,2,False,derived,GHSA 2026
+Bradley,Smalls,GA,Shiloh,132,5A,9,1,2,False,derived,GHSA 2026
+Joell,Hodges,GA,Lanier,132,5A,10,1,2,False,derived,GHSA 2026
+Kasen,Standish,GA,McIntosh,132,5A,11,1,2,False,derived,GHSA 2026
+Khoa,Tran,GA,Houston County,132,5A,12,1,2,False,derived,GHSA 2026
+Elias,Hooks,GA,Villa Rica,132,5A,13,0,2,False,derived,GHSA 2026
+FF-Caiden,FF-Atkinson,GA,Alexander,132,5A,14,0,2,False,derived,GHSA 2026
+Joe,Demery,GA,Brunswick,132,5A,15,0,2,False,derived,GHSA 2026
+Luke,Hutchinson,GA,Woodward Academy,132,5A,16,0,2,False,derived,GHSA 2026
+Antonio,Mills,GA,Mill Creek,132,6A,1,4,0,False,solid,GHSA 2026
+Peyton,Nicholson,GA,Etowah,132,6A,2,4,1,False,derived,GHSA 2026
+Quinn,Jenkins,GA,Buford HS,132,6A,3,4,2,False,derived,GHSA 2026
+Isaac,Santos,GA,Camden County,132,6A,4,3,1,False,derived,GHSA 2026
+Michael,Rytov,GA,Denmark,132,6A,5,3,2,False,derived,GHSA 2026
+Santiago,Alvarez Bonilla,GA,Mountain View,132,6A,6,3,3,False,derived,GHSA 2026
+Quintarious,Mitchell,GA,Colquitt County,132,6A,7,2,2,False,derived,GHSA 2026
+Will,Desanto,GA,Hillgrove,132,6A,8,2,2,False,derived,GHSA 2026
+Carson,Moore,GA,Carrollton,132,6A,9,1,2,False,derived,GHSA 2026
+Kingston,Mosley,GA,Richmond Hill HS,132,6A,10,1,2,False,derived,GHSA 2026
+Preston,Pas,GA,North Paulding,132,6A,11,1,2,False,derived,GHSA 2026
+Ronald,Horn,GA,Parkview,132,6A,12,1,2,False,derived,GHSA 2026
+Caleb,Jones,GA,Rockdale County,132,6A,13,0,2,False,derived,GHSA 2026
+FF-Brooks,FF-McDonald,GA,West Forsyth,132,6A,14,0,2,False,derived,GHSA 2026
+Hayes,Huddleston,GA,East Coweta HS,132,6A,15,0,2,False,derived,GHSA 2026
+Trey,Daniels,GA,North Cobb,132,6A,16,0,2,False,derived,GHSA 2026
+ELLA,HUGHES,GA,Jefferson,135,,1,4,0,True,solid,GHSA 2026 Girls
+Sophie,Brown,GA,Houston County,135,,2,4,1,True,derived,GHSA 2026 Girls
+Abelinda,Tercero,GA,Gilmer County,135,,3,4,2,True,derived,GHSA 2026 Girls
+Nora,Garbuzovas,GA,Lumpkin Co.,135,,4,3,1,True,derived,GHSA 2026 Girls
+Trinity,Sims,GA,Columbus,135,,5,3,2,True,derived,GHSA 2026 Girls
+Ri,Clements,GA,Tift County,135,,6,3,3,True,derived,GHSA 2026 Girls
+Annie,Burgos,GA,Cherokee,135,,7,2,2,True,derived,GHSA 2026 Girls
+Iris,Ritchie,GA,Allatoona,135,,8,2,2,True,derived,GHSA 2026 Girls
+Ava,Hulsey,GA,Carrollton,135,,9,1,2,True,derived,GHSA 2026 Girls
+JOCEY,BYERS,GA,Madison County,135,,10,1,2,True,derived,GHSA 2026 Girls
+La`Hana,Kirby,GA,Norcross,135,,11,1,2,True,derived,GHSA 2026 Girls
+Zenobia,Heron,GA,Rockdale County,135,,12,1,2,True,derived,GHSA 2026 Girls
+Abigail,Sekajipo,GA,Greenbrier,135,,13,0,2,True,derived,GHSA 2026 Girls
+Alaina,Shaver,GA,Ridgeland,135,,14,0,2,True,derived,GHSA 2026 Girls
+Audrey,Zents,GA,Woodward Academy,135,,15,0,2,True,derived,GHSA 2026 Girls
+Lila,Sloan,GA,Clarke Central,135,,16,0,2,True,derived,GHSA 2026 Girls
+James,Sievers,GA,Social Circle,138,1A,1,4,0,False,solid,GHSA 2026
+Thomas,Morgan,GA,Commerce Hs,138,1A,2,4,1,False,derived,GHSA 2026
+Keyvon,Gresham,GA,Oglethorpe County,138,1A,3,4,2,False,derived,GHSA 2026
+Elijah,Karr,GA,Bremen,138,1A,4,3,1,False,derived,GHSA 2026
+Houston,Simmons,GA,McNair,138,1A,5,3,2,False,derived,GHSA 2026
+Cayson,Wadley,GA,East Laurens,138,1A,6,3,3,False,derived,GHSA 2026
+Jenz,Martin,GA,Gordon Lee,138,1A,7,2,2,False,derived,GHSA 2026
+Wildon,Garcia-Corado,GA,Gordon Central Hs,138,1A,8,2,2,False,derived,GHSA 2026
+Caden,Benton,GA,Brantley County HS,138,1A,9,1,2,False,derived,GHSA 2026
+JAYLEN,DAVIS,GA,Elbert County,138,1A,10,1,2,False,derived,GHSA 2026
+Jimmy,Thomas,GA,Montgomery Co Hs,138,1A,11,1,2,False,derived,GHSA 2026
+Jordan,Brannen,GA,Toombs County,138,1A,12,1,2,False,derived,GHSA 2026
+Abrahm,Contreras,GA,Pelham,138,1A,13,0,2,False,derived,GHSA 2026
+Daylen,Knight,GA,Wesleyan,138,1A,14,0,2,False,derived,GHSA 2026
+Junior,Ambrocio,GA,Trion,138,1A,15,0,2,False,derived,GHSA 2026
+Will,Cornish,GA,The Walker School,138,1A,16,0,2,False,derived,GHSA 2026
+Xavier,Mance,GA,Lovett School,138,2A,1,4,0,False,solid,GHSA 2026
+Amadou,Dieye,GA,Redan,138,2A,2,4,1,False,derived,GHSA 2026
+Lachlen,Behrndt,GA,Morgan County,138,2A,3,4,2,False,derived,GHSA 2026
+Sawyer,Johnson,GA,Rockmart,138,2A,4,4,2,False,derived,GHSA 2026
+Brody,Eaton,GA,Ringgold,138,2A,5,3,1,False,derived,GHSA 2026
+Kadein,Carter,GA,Lakeview Ft. Oglethorpe HS,138,2A,6,2,2,False,derived,GHSA 2026
+Tylis,Harrell,GA,Appling County,138,2A,7,2,2,False,derived,GHSA 2026
+Harris,Holley,GA,Cook,138,2A,8,2,3,False,derived,GHSA 2026
+Greg,Christie,GA,Coahulla Creek,138,2A,9,1,2,False,derived,GHSA 2026
+Jamar,Thompkins,GA,Laney,138,2A,10,1,2,False,derived,GHSA 2026
+Riley,Mortenson,GA,Union County,138,2A,11,1,2,False,derived,GHSA 2026
+Tekerrius,Gibson,GA,Shaw,138,2A,12,1,2,False,derived,GHSA 2026
+Daniel,Rampy,GA,Pike County,138,2A,13,0,2,False,derived,GHSA 2026
+Jaxon,Norwood,GA,Franklin County,138,2A,14,0,2,False,derived,GHSA 2026
+Jericho,Combs,GA,Columbia,138,2A,15,0,2,False,derived,GHSA 2026
+Liam,Silhan,GA,Holy Innocents Episcopal,138,2A,16,0,2,False,derived,GHSA 2026
+Roman,Belardo,GA,Jefferson,138,3A,1,4,0,False,solid,GHSA 2026
+Avery,Davis,GA,LaFayette,138,3A,2,5,1,False,derived,GHSA 2026
+Israel,Hernandez,GA,North Hall,138,3A,3,4,2,False,derived,GHSA 2026
+Preston,Strickland,GA,Troup,138,3A,4,3,1,False,derived,GHSA 2026
+Parker,Voss,GA,Dawson County,138,3A,5,3,2,False,derived,GHSA 2026
+Alan,Mandujano,GA,West Hall,138,3A,6,2,2,False,derived,GHSA 2026
+Joshua,Johnson,GA,"Mt Zion, Jonesboro",138,3A,7,2,2,False,derived,GHSA 2026
+Jordan,Little,GA,Upson Lee,138,3A,8,2,3,False,derived,GHSA 2026
+Angel,De Los Santos,GA,Jenkins,138,3A,9,1,2,False,derived,GHSA 2026
+Caleb,Campbell,GA,Dougherty,138,3A,10,1,2,False,derived,GHSA 2026
+Jaxon,Grant,GA,Heritage-Catoosa,138,3A,11,1,2,False,derived,GHSA 2026
+King,Steele,GA,Calhoun,138,3A,12,1,2,False,derived,GHSA 2026
+Damien,Cummings,GA,West Laurens,138,3A,13,0,2,False,derived,GHSA 2026
+Maddox,Lowery,GA,Pickens,138,3A,14,0,2,False,derived,GHSA 2026
+Milan,Lasey,GA,Cherokee Bluff,138,3A,15,0,2,False,derived,GHSA 2026
+Sheldyn,Scoggins,GA,Mary Persons,138,3A,16,0,2,False,derived,GHSA 2026
+Rowdy,Duck,GA,Cass,138,4A,1,4,0,False,solid,GHSA 2026
+Keegan,Dawkins,GA,Walnut Grove,138,4A,2,4,1,False,derived,GHSA 2026
+AJ,West,GA,Benedictine Military School,138,4A,3,4,2,False,derived,GHSA 2026
+Jayden,Leak,GA,Wayne County HS,138,4A,4,4,2,False,derived,GHSA 2026
+Noah,Cates,GA,"Woodland, Cartersville",138,4A,5,3,1,False,derived,GHSA 2026
+Colton,Roberts,GA,Ola,138,4A,6,2,2,False,derived,GHSA 2026
+KYLE,MADDOX,GA,North Oconee,138,4A,7,2,2,False,derived,GHSA 2026
+Forest,Briesacher,GA,Marist School,138,4A,8,2,3,False,derived,GHSA 2026
+Aiden,Wilkerson,GA,Hampton,138,4A,9,1,2,False,derived,GHSA 2026
+Julius,Johnson,GA,M.L. King,138,4A,10,1,2,False,derived,GHSA 2026
+Mason,Payne,GA,East Forsyth,138,4A,11,1,2,False,derived,GHSA 2026
+Vinson,Butler,GA,Kell,138,4A,12,1,2,False,derived,GHSA 2026
+David,Diaz,GA,Central (Carroll),138,4A,13,0,2,False,derived,GHSA 2026
+Evan,Thomas,GA,Ware County,138,4A,14,0,2,False,derived,GHSA 2026
+Murray,Lemmon,GA,St Pius X School,138,4A,15,0,2,False,derived,GHSA 2026
+Todd,Cochran,GA,Cedartown,138,4A,16,0,2,False,derived,GHSA 2026
+Logan,Robinson,GA,Woodstock,138,5A,1,4,0,False,solid,GHSA 2026
+Walker,Share,GA,Sequoyah,138,5A,2,4,1,False,derived,GHSA 2026
+Bishop,Barfield,GA,Villa Rica,138,5A,3,4,2,False,derived,GHSA 2026
+Brayden,Bringer,GA,South Effingham,138,5A,4,3,1,False,derived,GHSA 2026
+Yuto,Arnold,GA,Houston County,138,5A,5,3,2,False,derived,GHSA 2026
+Brian,Rewis,GA,Glynn Academy,138,5A,6,3,3,False,derived,GHSA 2026
+Pierce,Marsh,GA,Creekview,138,5A,7,2,2,False,derived,GHSA 2026
+Wade,Clark,GA,Thomas County Central HS,138,5A,8,2,2,False,derived,GHSA 2026
+Jesse,Gann,GA,Seckinger ,138,5A,9,1,2,False,derived,GHSA 2026
+Mashiam,Naqvi,GA,Milton,138,5A,10,1,2,False,derived,GHSA 2026
+Tristan,McCloskey,GA,Johns Creek,138,5A,11,1,2,False,derived,GHSA 2026
+Wyatt,Brewer,GA,Alexander,138,5A,12,1,2,False,derived,GHSA 2026
+Adam,Thompson,GA,Effingham County,138,5A,13,0,2,False,derived,GHSA 2026
+Caleb,McGilmer,GA,Kennesaw Mountain,138,5A,14,0,2,False,derived,GHSA 2026
+Gray,Roberts,GA,Dunwoody,138,5A,15,0,2,False,derived,GHSA 2026
+John,Robinson,GA,Roswell,138,5A,16,0,2,False,derived,GHSA 2026
+DJ,Clarke,GA,Buford HS,138,6A,1,4,0,False,solid,GHSA 2026
+Joseph,Cox,GA,Parkview,138,6A,2,4,1,False,derived,GHSA 2026
+Britton,Marshall,GA,Colquitt County,138,6A,3,4,2,False,derived,GHSA 2026
+Cane,Smolarsky,GA,Camden County,138,6A,4,3,1,False,derived,GHSA 2026
+Anand,Yarram,GA,Denmark,138,6A,5,3,2,False,derived,GHSA 2026
+Josh,Pacheco,GA,Richmond Hill HS,138,6A,6,3,3,False,derived,GHSA 2026
+Anthony,Kim,GA,Mill Creek,138,6A,7,2,2,False,derived,GHSA 2026
+Jack,Palmer,GA,Walton,138,6A,8,2,2,False,derived,GHSA 2026
+Brayden,Guined,GA,West Forsyth,138,6A,9,1,2,False,derived,GHSA 2026
+James,Pearson,GA,Mountain View,138,6A,10,1,2,False,derived,GHSA 2026
+Makiah,Parker,GA,North Atlanta HS,138,6A,11,1,2,False,derived,GHSA 2026
+Sky,Day,GA,Collins Hill,138,6A,12,1,2,False,derived,GHSA 2026
+Ash,Anandakumar,GA,Lambert,138,6A,13,0,2,False,derived,GHSA 2026
+Cai,Little,GA,Lowndes HS,138,6A,14,0,2,False,derived,GHSA 2026
+Ramon,Cano,GA,Harrison,138,6A,15,0,2,False,derived,GHSA 2026
+Shauden,Richardson,GA,North Gwinnett,138,6A,16,0,2,False,derived,GHSA 2026
+Greta,Garbuzovas,GA,Lumpkin Co.,140,,1,4,0,True,solid,GHSA 2026 Girls
+Serenity,Evans,GA,Lithonia,140,,2,5,1,True,derived,GHSA 2026 Girls
+Kate,Martinez,GA,North Cobb,140,,3,4,2,True,derived,GHSA 2026 Girls
+Jonae,Smith,GA,Villa Rica,140,,4,3,1,True,derived,GHSA 2026 Girls
+Mayah,Owens,GA,Newnan,140,,5,3,2,True,derived,GHSA 2026 Girls
+Chloe,Barrett,GA,Houston County,140,,6,2,2,True,derived,GHSA 2026 Girls
+Delaney,Spencer,GA,Camden County,140,,7,2,2,True,derived,GHSA 2026 Girls
+Marley,James,GA,Hardaway,140,,8,2,3,True,derived,GHSA 2026 Girls
+Amiya,Edwards,GA,Jackson County,140,,9,1,2,True,derived,GHSA 2026 Girls
+Annaelle,Joseph,GA,Mill Creek,140,,10,1,2,True,derived,GHSA 2026 Girls
+MIRIAM,DOMAGALSKI,GA,North Oconee,140,,11,1,2,True,derived,GHSA 2026 Girls
+Maddie,Turner,GA,Cambridge,140,,12,1,2,True,derived,GHSA 2026 Girls
+Grace,Griffin,GA,West Forsyth,140,,13,0,2,True,derived,GHSA 2026 Girls
+Guiliana,Wright,GA,South Gwinnett,140,,14,0,2,True,derived,GHSA 2026 Girls
+Iris,Smith,GA,Hillgrove,140,,15,0,2,True,derived,GHSA 2026 Girls
+Olivia,Pirkle,GA,Denmark,140,,16,0,2,True,derived,GHSA 2026 Girls
+Walker,Woodard,GA,Social Circle,144,1A,1,4,0,False,solid,GHSA 2026
+Samson,Dobbs,GA,Toombs County,144,1A,2,4,1,False,derived,GHSA 2026
+David,Eaton,GA,Wesleyan,144,1A,3,4,2,False,derived,GHSA 2026
+Pace,Lilenfeld,GA,Mt Vernon Presbyterian,144,1A,4,3,1,False,derived,GHSA 2026
+Zane,Chavis,GA,Commerce Hs,144,1A,5,3,2,False,derived,GHSA 2026
+Tucker,Karr,GA,Bremen,144,1A,6,3,3,False,derived,GHSA 2026
+JESUS,MILLS,GA,Elbert County,144,1A,7,2,2,False,derived,GHSA 2026
+Wyatt,Hunton,GA,Armuchee,144,1A,8,2,2,False,derived,GHSA 2026
+Bradly,White,GA,East Laurens,144,1A,9,1,2,False,derived,GHSA 2026
+Charlie,Kraeuter,GA,Savannah Country Day School,144,1A,10,1,2,False,derived,GHSA 2026
+Idris,Muhammad,GA,Northeast Magnet,144,1A,11,1,2,False,derived,GHSA 2026
+Kendon,Brown,GA,Oglethorpe County,144,1A,12,1,2,False,derived,GHSA 2026
+Brady,Burgess,GA,Model,144,1A,13,0,2,False,derived,GHSA 2026
+Brady,Solomon,GA,Berrien County,144,1A,14,0,2,False,derived,GHSA 2026
+Jeremiyah,Bentley,GA,Montgomery Co Hs,144,1A,15,0,2,False,derived,GHSA 2026
+Tristen,Valencia,GA,Dodge County,144,1A,16,0,2,False,derived,GHSA 2026
+Jariell,Rivera,GA,Kendrick,144,2A,1,4,0,False,solid,GHSA 2026
+Trey,Silva,GA,Franklin County,144,2A,2,5,1,False,derived,GHSA 2026
+James,Black,GA,Lovett School,144,2A,3,4,2,False,derived,GHSA 2026
+Danny,Liddy,GA,Coahulla Creek,144,2A,4,3,1,False,derived,GHSA 2026
+Carter,Woodall,GA,Cook,144,2A,5,3,2,False,derived,GHSA 2026
+FF-Jeb,FF-Watkins,GA,Lakeview Ft. Oglethorpe HS,144,2A,6,2,2,False,derived,GHSA 2026
+James,Kelly,GA,Ringgold,144,2A,7,2,2,False,derived,GHSA 2026
+Hagen,Sharp,GA,Rockmart,144,2A,8,2,3,False,derived,GHSA 2026
+Carter,Brock,GA,Sonoraville,144,2A,9,1,2,False,derived,GHSA 2026
+Eli,Martin,GA,Murray County,144,2A,10,1,2,False,derived,GHSA 2026
+Ethan,Meisinger,GA,Holy Innocents Episcopal,144,2A,11,1,2,False,derived,GHSA 2026
+Jamir,Thompkins,GA,Laney,144,2A,12,1,2,False,derived,GHSA 2026
+Chad,Humpheries,GA,Hart County,144,2A,13,0,2,False,derived,GHSA 2026
+Chris,Turner,GA,Morgan County,144,2A,14,0,2,False,derived,GHSA 2026
+Elijah,Hampton,GA,Jordan,144,2A,15,0,2,False,derived,GHSA 2026
+Liam,Johnson,GA,Columbus,144,2A,16,0,2,False,derived,GHSA 2026
+Tanner,Hunt,GA,Jefferson,144,3A,1,4,0,False,solid,GHSA 2026
+Noah,King,GA,Troup,144,3A,2,4,1,False,derived,GHSA 2026
+Josh,Lane,GA,White County,144,3A,3,4,2,False,derived,GHSA 2026
+Cason,Waddell,GA,Upson Lee,144,3A,4,3,1,False,derived,GHSA 2026
+Isaac,Hamilton,GA,LaFayette,144,3A,5,3,2,False,derived,GHSA 2026
+Adolfo,Bautista-Bautista,GA,Gilmer County,144,3A,6,3,3,False,derived,GHSA 2026
+Brayden,Rodriguez,GA,Harlem,144,3A,7,2,2,False,derived,GHSA 2026
+Cully,Tallent,GA,Mary Persons,144,3A,8,2,2,False,derived,GHSA 2026
+FF-Chase,FF-Lowe,GA,"Mt Zion, Jonesboro",144,3A,9,1,2,False,derived,GHSA 2026
+John,Howell,GA,West Laurens,144,3A,10,1,2,False,derived,GHSA 2026
+TJayden,Vaughn,GA,Long County,144,3A,11,1,2,False,derived,GHSA 2026
+Tanner,Gee,GA,Dawson County,144,3A,12,1,2,False,derived,GHSA 2026
+Caleb,Conner,GA,Hephzibah,144,3A,13,0,2,False,derived,GHSA 2026
+FF-Shawn,FF-Mata,GA,Southeast Bulloch,144,3A,14,0,2,False,derived,GHSA 2026
+Forest,Bishop,GA,Pickens,144,3A,15,0,2,False,derived,GHSA 2026
+Reagan,Gazaway,GA,Northwest Whitfield High,144,3A,16,0,2,False,derived,GHSA 2026
+Luka,Jensen,GA,Cass,144,4A,1,4,0,False,solid,GHSA 2026
+Carson,Kimbrough,GA,Ola,144,4A,2,4,1,False,derived,GHSA 2026
+Meco,Favors,GA,St Pius X School,144,4A,3,4,2,False,derived,GHSA 2026
+Dylan,Couey,GA,"Woodland, Cartersville",144,4A,4,3,1,False,derived,GHSA 2026
+Noah,Pieterick,GA,Jones County,144,4A,5,3,2,False,derived,GHSA 2026
+Jaden,McKelvin,GA,Ware County,144,4A,6,3,3,False,derived,GHSA 2026
+BRODY,STRICKLAND,GA,North Oconee,144,4A,7,2,2,False,derived,GHSA 2026
+Jackson,Bailey,GA,Westminster Schools,144,4A,8,2,2,False,derived,GHSA 2026
+Andrew,Ramirez,GA,Dalton,144,4A,9,1,2,False,derived,GHSA 2026
+Campbell,Caldwell,GA,Marist School,144,4A,10,1,2,False,derived,GHSA 2026
+Legend,Young,GA,Woodland HS (Stockbridge),144,4A,11,1,2,False,derived,GHSA 2026
+Walker,Minnich,GA,Benedictine Military School,144,4A,12,1,2,False,derived,GHSA 2026
+Caden,Shope,GA,Central (Carroll),144,4A,13,0,2,False,derived,GHSA 2026
+Devin,Kinney,GA,Walnut Grove,144,4A,14,0,2,False,derived,GHSA 2026
+FF-Rey,FF-Pleitez,GA,Charles Drew,144,4A,15,0,2,False,derived,GHSA 2026
+Logan,Vance,GA,Kell,144,4A,16,0,2,False,derived,GHSA 2026
+Aaron,Campbell,GA,Creekview,144,5A,1,4,0,False,solid,GHSA 2026
+Maddox,Vasquez,GA,South Effingham,144,5A,2,4,1,False,derived,GHSA 2026
+Malachi,Gaskins,GA,Thomas County Central HS,144,5A,3,4,2,False,derived,GHSA 2026
+Leo,Gallagher,GA,Greenbrier,144,5A,4,3,1,False,derived,GHSA 2026
+Joel,Fuel,GA,Brunswick,144,5A,5,3,2,False,derived,GHSA 2026
+Evan,Diaz,GA,Lassiter H.S.,144,5A,6,3,3,False,derived,GHSA 2026
+Sam,Donaldson,GA,Jackson County,144,5A,7,2,2,False,derived,GHSA 2026
+Slade,Wilson,GA,Northside,144,5A,8,2,2,False,derived,GHSA 2026
+Aidan,Torres,GA,Newnan,144,5A,9,1,2,False,derived,GHSA 2026
+Aiden,Vasquez,GA,Seckinger ,144,5A,10,1,2,False,derived,GHSA 2026
+Daniel,Phillips,GA,Sprayberry High School,144,5A,11,1,2,False,derived,GHSA 2026
+Jaden,Sanders,GA,Shiloh,144,5A,12,1,2,False,derived,GHSA 2026
+Billy,Chun,GA,Johns Creek,144,5A,13,0,2,False,derived,GHSA 2026
+FF-Hudson,FF-Godby,GA,Lee County,144,5A,14,0,2,False,derived,GHSA 2026
+FF-Jackson,FF-Carr,GA,South Paulding,144,5A,15,0,2,False,derived,GHSA 2026
+Salvattore,Drago Botto,GA,Lanier,144,5A,16,0,2,False,derived,GHSA 2026
+Nathaniel,Park,GA,Walton,144,6A,1,4,0,False,solid,GHSA 2026
+Nilon,Thomas,GA,South Gwinnett,144,6A,2,4,1,False,derived,GHSA 2026
+Connor,Harrell,GA,McEachern,144,6A,3,4,2,False,derived,GHSA 2026
+Brandon,Higgins,GA,Camden County,144,6A,4,3,1,False,derived,GHSA 2026
+Jackson,Lane,GA,North Paulding,144,6A,5,3,2,False,derived,GHSA 2026
+Owen,Adun,GA,Duluth,144,6A,6,3,3,False,derived,GHSA 2026
+Jaxson,Hughes,GA,Tift County,144,6A,7,2,2,False,derived,GHSA 2026
+Nehemiah,Strzalkowski,GA,Carrollton,144,6A,8,2,2,False,derived,GHSA 2026
+Caleb,Zalewski,GA,Mill Creek,144,6A,9,1,2,False,derived,GHSA 2026
+JJ,Fogarty,GA,South Forsyth H.S.,144,6A,10,1,2,False,derived,GHSA 2026
+Kaesen,Gim,GA,Mountain View,144,6A,11,1,2,False,derived,GHSA 2026
+Owen,Moriarty,GA,Richmond Hill HS,144,6A,12,1,2,False,derived,GHSA 2026
+Jackson,Fenchak,GA,Brookwood,144,6A,13,0,2,False,derived,GHSA 2026
+Jason,Johnson-Rogers,GA,Marietta,144,6A,14,0,2,False,derived,GHSA 2026
+Jaylen,Moreland,GA,Newton,144,6A,15,0,2,False,derived,GHSA 2026
+Zechariah,Sanders,GA,Douglas County,144,6A,16,0,2,False,derived,GHSA 2026
+Savannah,Chao,GA,Cherokee,145,,1,4,0,True,solid,GHSA 2026 Girls
+Jada,Taylor,GA,Union County,145,,2,5,1,True,derived,GHSA 2026 Girls
+Leela,Hendrix,GA,Carrollton,145,,3,3,1,True,derived,GHSA 2026 Girls
+Brooklynn,Hughes,GA,South Effingham,145,,4,3,2,True,derived,GHSA 2026 Girls
+Quinlan,Bryant,GA,North Cobb,145,,5,3,2,True,derived,GHSA 2026 Girls
+Kyra,Barnum,GA,Meadowcreek,145,,6,3,3,True,derived,GHSA 2026 Girls
+Naimah,Benzo,GA,Warner Robins,145,,7,2,2,True,derived,GHSA 2026 Girls
+Scarlette,O`Horan,GA,Cambridge,145,,8,2,2,True,derived,GHSA 2026 Girls
+Autumn,(Oliver) Cooper,GA,Grovetown,145,,9,1,2,True,derived,GHSA 2026 Girls
+Bradey,Bass,GA,Campbell,145,,10,1,2,True,derived,GHSA 2026 Girls
+Lillian,Heard,GA,Morrow,145,,11,1,2,True,derived,GHSA 2026 Girls
+Sandy,Bostic,GA,Southwest Dekalb,145,,12,1,2,True,derived,GHSA 2026 Girls
+Emma,Blackburn,GA,Pickens,145,,13,0,2,True,derived,GHSA 2026 Girls
+Lillian,McLemore,GA,Washington-Wilkes,145,,14,0,2,True,derived,GHSA 2026 Girls
+Malee,Head,GA,Greenbrier,145,,15,0,2,True,derived,GHSA 2026 Girls
+Talia,Freeman,GA,Richmond Academy,145,,16,0,2,True,derived,GHSA 2026 Girls
+Ronny,Marlow,GA,Heard County,150,1A,1,4,0,False,solid,GHSA 2026
+Tyson,Brantley,GA,Toombs County,150,1A,2,5,1,False,derived,GHSA 2026
+Chip,Fahlbusch,GA,Mt Vernon Presbyterian,150,1A,3,3,1,False,derived,GHSA 2026
+Josh,Nicolas,GA,Fitzgerald,150,1A,4,3,2,False,derived,GHSA 2026
+Winston,Wu,GA,Wesleyan,150,1A,5,3,2,False,derived,GHSA 2026
+Mathew,Lara,GA,Gordon Central Hs,150,1A,6,3,3,False,derived,GHSA 2026
+Anthony,Adorno,GA,Central (Macon),150,1A,7,2,2,False,derived,GHSA 2026
+Cale,Prater,GA,Social Circle,150,1A,8,2,2,False,derived,GHSA 2026
+Coleman,Lee,GA,Trion,150,1A,9,1,2,False,derived,GHSA 2026
+HOGAN,SIMS,GA,Commerce Hs,150,1A,10,1,2,False,derived,GHSA 2026
+Kaden,Ellis,GA,Gordon Lee,150,1A,11,1,2,False,derived,GHSA 2026
+Tavares,Tucker,GA,Bremen,150,1A,12,1,2,False,derived,GHSA 2026
+Dylan,Motes,GA,Temple,150,1A,13,0,2,False,derived,GHSA 2026
+FF-Boston,FF-Benefield,GA,Haralson County,150,1A,14,0,2,False,derived,GHSA 2026
+Kevin,Bailey,GA,Banks County,150,1A,15,0,2,False,derived,GHSA 2026
+Thari,Mitchell,GA,Southwest,150,1A,16,0,2,False,derived,GHSA 2026
+Josh,Baughcum,GA,Franklin County,150,2A,1,4,0,False,solid,GHSA 2026
+Ryan,Lampe,GA,East Jackson HS,150,2A,2,5,1,False,derived,GHSA 2026
+King,Campbell,GA,Hart County,150,2A,3,4,2,False,derived,GHSA 2026
+Patrick,Smyth,GA,Lovett School,150,2A,4,3,1,False,derived,GHSA 2026
+Garrett,Krous,GA,Stephens County HS,150,2A,5,3,2,False,derived,GHSA 2026
+Keegan,Kinsey,GA,Lakeview Ft. Oglethorpe HS,150,2A,6,2,2,False,derived,GHSA 2026
+Kennith,Fiers,GA,Rockmart,150,2A,7,2,2,False,derived,GHSA 2026
+Kanen,Mitchell,GA,Ringgold,150,2A,8,2,3,False,derived,GHSA 2026
+Cooper,Davis,GA,Pierce County HS,150,2A,9,1,2,False,derived,GHSA 2026
+Elijah,Faraji,GA,Coahulla Creek,150,2A,10,1,2,False,derived,GHSA 2026
+Eoin,Johnson,GA,Columbus,150,2A,11,1,2,False,derived,GHSA 2026
+Maddox,Storm,GA,Pike County,150,2A,12,1,2,False,derived,GHSA 2026
+Carlos,Moore,GA,Kendrick,150,2A,13,0,2,False,derived,GHSA 2026
+Logan,Kennedy,GA,Cook,150,2A,14,0,2,False,derived,GHSA 2026
+Owen,Sheriff,GA,Sonoraville,150,2A,15,0,2,False,derived,GHSA 2026
+Terrance,Walker,GA,Jackson,150,2A,16,0,2,False,derived,GHSA 2026
+Cruz,Hezel,GA,Jefferson,150,3A,1,4,0,False,solid,GHSA 2026
+Austin,Beverly,GA,Cherokee Bluff,150,3A,2,5,1,False,derived,GHSA 2026
+Devonte,Saunders,GA,Ridgeland,150,3A,3,4,2,False,derived,GHSA 2026
+Braelyn,Nelson,GA,Gilmer County,150,3A,4,3,1,False,derived,GHSA 2026
+Lane,Redwine,GA,Heritage-Catoosa,150,3A,5,3,2,False,derived,GHSA 2026
+Anthoiny,Swanson,GA,Troup,150,3A,6,2,2,False,derived,GHSA 2026
+Christian,Black,GA,LaGrange,150,3A,7,2,2,False,derived,GHSA 2026
+MFF-RJ,MFF-Mullins,GA,Pickens,150,3A,8,2,3,False,derived,GHSA 2026
+Adam,Martin,GA,Westover School,150,3A,9,1,2,False,derived,GHSA 2026
+Brock,Eckert,GA,Dawson County,150,3A,10,1,2,False,derived,GHSA 2026
+FF-Brendan,FF-Poole,GA,Jenkins,150,3A,11,1,2,False,derived,GHSA 2026
+Mason,Tiller,GA,Oconee County,150,3A,12,1,2,False,derived,GHSA 2026
+Alexander,Loftin,GA,"Mt Zion, Jonesboro",150,3A,13,0,2,False,derived,GHSA 2026
+Elijah,Caudle,GA,Dougherty,150,3A,14,0,2,False,derived,GHSA 2026
+Ethan,Laber,GA,Upson Lee,150,3A,15,0,2,False,derived,GHSA 2026
+FF-Dein,FFYoung,GA,"Westside, Augusta",150,3A,16,0,2,False,derived,GHSA 2026
+Jin,Davis,GA,Northview,150,4A,1,4,0,False,solid,GHSA 2026
+Jonathan,Sandberg,GA,Allatoona,150,4A,2,5,1,False,derived,GHSA 2026
+Graham,Dawkins,GA,Walnut Grove,150,4A,3,3,1,False,derived,GHSA 2026
+Anderson,Becker,GA,Ola,150,4A,4,3,2,False,derived,GHSA 2026
+Grayson,Doomes,GA,Wayne County HS,150,4A,5,3,2,False,derived,GHSA 2026
+Aaron,Bennett,GA,Ware County,150,4A,6,3,3,False,derived,GHSA 2026
+Aiden,Buchan,GA,"Woodland, Cartersville",150,4A,7,2,2,False,derived,GHSA 2026
+Landon,Padgett,GA,Dalton,150,4A,8,2,2,False,derived,GHSA 2026
+Collin,Armona,GA,Cass,150,4A,9,1,2,False,derived,GHSA 2026
+Markiece,Greene,GA,Lithonia,150,4A,10,1,2,False,derived,GHSA 2026
+Paxton,Gilmer,GA,Perry,150,4A,11,1,2,False,derived,GHSA 2026
+Quinn,Martin,GA,Cambridge,150,4A,12,1,2,False,derived,GHSA 2026
+DQ-Nate,DQ-Wilson,GA,Jones County,150,4A,13,0,2,False,derived,GHSA 2026
+Elijah,Vickery,GA,Madison County,150,4A,14,0,2,False,derived,GHSA 2026
+John,DiCristina,GA,St Pius X School,150,4A,15,0,2,False,derived,GHSA 2026
+Sandesh,Rai,GA,Tucker,150,4A,16,0,2,False,derived,GHSA 2026
+Semaj,Dobbins,GA,Brunswick,150,5A,1,4,0,False,solid,GHSA 2026
+Adam,Ghanem,GA,Veteran`s,150,5A,2,5,1,False,derived,GHSA 2026
+Demaria,Moorelee,GA,Gainesville,150,5A,3,4,2,False,derived,GHSA 2026
+Lucian,Brock,GA,Decatur,150,5A,4,3,1,False,derived,GHSA 2026
+Logan,Pritchett,GA,Creekview,150,5A,5,3,2,False,derived,GHSA 2026
+Beau,Hoffman,GA,Jackson County,150,5A,6,2,2,False,derived,GHSA 2026
+John,Badami,GA,South Paulding,150,5A,7,2,2,False,derived,GHSA 2026
+Jaxen,Turley,GA,Sequoyah,150,5A,8,2,3,False,derived,GHSA 2026
+David,Mathieu,GA,Greenbrier,150,5A,9,1,2,False,derived,GHSA 2026
+Joshua,Cherry,GA,Villa Rica,150,5A,10,1,2,False,derived,GHSA 2026
+Rian,Cushenan,GA,Pope,150,5A,11,1,2,False,derived,GHSA 2026
+Rodney,Booker,GA,Arabia Mountain,150,5A,12,1,2,False,derived,GHSA 2026
+Damon,Silvia,GA,Thomas County Central HS,150,5A,13,0,2,False,derived,GHSA 2026
+Elijah,Freeland,GA,Lassiter H.S.,150,5A,14,0,2,False,derived,GHSA 2026
+Gabriel,Perez,GA,Seckinger ,150,5A,15,0,2,False,derived,GHSA 2026
+Jeremiah,Hobbs,GA,South Effingham,150,5A,16,0,2,False,derived,GHSA 2026
+Hunter,Prosen,GA,Camden County,150,6A,1,4,0,False,solid,GHSA 2026
+Mihai,Necula,GA,Walton,150,6A,2,4,1,False,derived,GHSA 2026
+Caleb,Irwin,GA,Cherokee,150,6A,3,4,2,False,derived,GHSA 2026
+Jackson,Rogers,GA,Brookwood,150,6A,4,4,2,False,derived,GHSA 2026
+Trey,Gregory,GA,Buford HS,150,6A,5,3,1,False,derived,GHSA 2026
+Avery,Maisano,GA,Harrison,150,6A,6,2,2,False,derived,GHSA 2026
+Cooper,Moreland,GA,Marietta,150,6A,7,2,2,False,derived,GHSA 2026
+Connor,Stephens,GA,Carrollton,150,6A,8,2,3,False,derived,GHSA 2026
+Austin,King,GA,Tift County,150,6A,9,1,2,False,derived,GHSA 2026
+Ethan,Fitts,GA,Richmond Hill HS,150,6A,10,1,2,False,derived,GHSA 2026
+Kenechi,Odimgbe,GA,Archer,150,6A,11,1,2,False,derived,GHSA 2026
+Mason,Prevost,GA,North Cobb,150,6A,12,1,2,False,derived,GHSA 2026
+Kristiyan,Georgiev,GA,Mountain View,150,6A,13,0,2,False,derived,GHSA 2026
+Malik,Parks,GA,Newton,150,6A,14,0,2,False,derived,GHSA 2026
+Matthew,Tropea,GA,West Forsyth,150,6A,15,0,2,False,derived,GHSA 2026
+Tommy,DiNucci,GA,East Coweta HS,150,6A,16,0,2,False,derived,GHSA 2026
+Elle,Kaufmann,GA,Lovett School,155,,1,4,0,True,solid,GHSA 2026 Girls
+Misty,Carter,GA,Coffee,155,,2,5,1,True,derived,GHSA 2026 Girls
+Lila,McLendon,GA,Cedartown,155,,3,4,2,True,derived,GHSA 2026 Girls
+Bianca,Barbarossi,GA,West Forsyth,155,,4,3,1,True,derived,GHSA 2026 Girls
+Mattie,Mendoza,GA,Lumpkin Co.,155,,5,3,2,True,derived,GHSA 2026 Girls
+Jayda,Richardson,GA,Thomas County Central HS,155,,6,2,2,True,derived,GHSA 2026 Girls
+Leah,Jordan,GA,Sequoyah,155,,7,2,2,True,derived,GHSA 2026 Girls
+Victoria,Terry,GA,South Gwinnett,155,,8,2,3,True,derived,GHSA 2026 Girls
+Amanda,Destine,GA,Jordan,155,,9,1,2,True,derived,GHSA 2026 Girls
+Amazing,Ackey,GA,Carrollton,155,,10,1,2,True,derived,GHSA 2026 Girls
+Chloe,Waller,GA,Grovetown,155,,11,1,2,True,derived,GHSA 2026 Girls
+Fanta,Kromah,GA,Lee County,155,,12,1,2,True,derived,GHSA 2026 Girls
+Arianna,Amin-Williams,GA,Arabia Mountain,155,,13,0,2,True,derived,GHSA 2026 Girls
+Coral,Adams,GA,North Hall,155,,14,0,2,True,derived,GHSA 2026 Girls
+Natalie,Hernandez,GA,Morrow,155,,15,0,2,True,derived,GHSA 2026 Girls
+Nina,Hylton,GA,Woodward Academy,155,,16,0,2,True,derived,GHSA 2026 Girls
+Dane,Kracht,GA,Social Circle,157,1A,1,4,0,False,solid,GHSA 2026
+Clayton,Loughridge,GA,Trion,157,1A,2,5,1,False,derived,GHSA 2026
+HUDSON,FLEMING,GA,Elbert County,157,1A,3,3,1,False,derived,GHSA 2026
+Alexander,Muzafarov,GA,Vidalia,157,1A,4,3,2,False,derived,GHSA 2026
+Logan,Johnson,GA,Bremen,157,1A,5,3,2,False,derived,GHSA 2026
+JACOB,FIELDS,GA,Commerce Hs,157,1A,6,3,3,False,derived,GHSA 2026
+Ashton,Anderson,GA,Bacon County,157,1A,7,2,2,False,derived,GHSA 2026
+Levi,Lawes,GA,Fellowship Christian School,157,1A,8,2,2,False,derived,GHSA 2026
+Alec,Fahlbusch,GA,Mt Vernon Presbyterian,157,1A,9,1,2,False,derived,GHSA 2026
+Israel,Sinclair,GA,Haralson County,157,1A,10,1,2,False,derived,GHSA 2026
+James,Ramey,GA,Rabun County,157,1A,11,1,2,False,derived,GHSA 2026
+Kent,Tajima,GA,Dade County,157,1A,12,1,2,False,derived,GHSA 2026
+Cale,Farris,GA,Chattahoochee County HS,157,1A,13,0,2,False,derived,GHSA 2026
+Jordan,Smith,GA,"Mt Zion, Carroll",157,1A,14,0,2,False,derived,GHSA 2026
+Julio,Lopez,GA,Berrien County,157,1A,15,0,2,False,derived,GHSA 2026
+Khalil,Mizell,GA,Fitzgerald,157,1A,16,0,2,False,derived,GHSA 2026
+Paxon,Legatt,GA,Union County,157,2A,1,4,0,False,solid,GHSA 2026
+Tyler,Bowden,GA,Miller Grove,157,2A,2,4,1,False,derived,GHSA 2026
+Carter,Fowler,GA,Stephens County HS,157,2A,3,4,2,False,derived,GHSA 2026
+Tristian,Slone,GA,East Jackson HS,157,2A,4,3,1,False,derived,GHSA 2026
+Gavin,Reedy,GA,Columbus,157,2A,5,3,2,False,derived,GHSA 2026
+Finn,Ferrero,GA,Holy Innocents Episcopal,157,2A,6,3,3,False,derived,GHSA 2026
+Dalton,Storm,GA,Pike County,157,2A,7,2,2,False,derived,GHSA 2026
+Nolan,Markos,GA,Lovett School,157,2A,8,2,2,False,derived,GHSA 2026
+Colton,Roberts,GA,Franklin County,157,2A,9,1,2,False,derived,GHSA 2026
+Cooper,Moore,GA,Ringgold,157,2A,10,1,2,False,derived,GHSA 2026
+Elijah,Burt,GA,Murray County,157,2A,11,1,2,False,derived,GHSA 2026
+Jeremiah,Amos,GA,Cook,157,2A,12,1,2,False,derived,GHSA 2026
+Bradley,Cowan,GA,Rockmart,157,2A,13,0,2,False,derived,GHSA 2026
+La`Damian,Stewart,GA,Redan,157,2A,14,0,2,False,derived,GHSA 2026
+Shawn,Bailey,GA,Coahulla Creek,157,2A,15,0,2,False,derived,GHSA 2026
+Tristen,Moran,GA,Sonoraville,157,2A,16,0,2,False,derived,GHSA 2026
+Danny,Krutules,GA,Jefferson,157,3A,1,4,0,False,solid,GHSA 2026
+Dawson,Richard,GA,Gilmer County,157,3A,2,4,1,False,derived,GHSA 2026
+Jayden,Blake,GA,Sandy Creek HS,157,3A,3,4,2,False,derived,GHSA 2026
+Jayden,Escalante,GA,North Hall,157,3A,4,3,1,False,derived,GHSA 2026
+Hank,Muhr,GA,Troup,157,3A,5,3,2,False,derived,GHSA 2026
+Owen,Simpson,GA,Monroe Area,157,3A,6,3,3,False,derived,GHSA 2026
+Isaiah,Sanders,GA,Chestatee,157,3A,7,2,2,False,derived,GHSA 2026
+Tylar,Mansfield,GA,Westover School,157,3A,8,2,2,False,derived,GHSA 2026
+Adrian,Landeverde,GA,Ridgeland,157,3A,9,1,2,False,derived,GHSA 2026
+Coleton,Young,GA,Long County,157,3A,10,1,2,False,derived,GHSA 2026
+Garrett,Phillips,GA,Cherokee Bluff,157,3A,11,1,2,False,derived,GHSA 2026
+Madox,Burnsed,GA,Mary Persons,157,3A,12,1,2,False,derived,GHSA 2026
+Carson,Royster,GA,Oconee County,157,3A,13,0,2,False,derived,GHSA 2026
+Gabriel,Rendon,GA,"Mt Zion, Jonesboro",157,3A,14,0,2,False,derived,GHSA 2026
+Jarett,Chriswell,GA,Adairsville,157,3A,15,0,2,False,derived,GHSA 2026
+Tommie,Glass,GA,Spalding,157,3A,16,0,2,False,derived,GHSA 2026
+David,Jewell,GA,Cass,157,4A,1,4,0,False,solid,GHSA 2026
+Samir,Ross,GA,Ola,157,4A,2,4,1,False,derived,GHSA 2026
+Braiden,Thomas,GA,Cedartown,157,4A,3,4,2,False,derived,GHSA 2026
+Nathan,Cates,GA,"Woodland, Cartersville",157,4A,4,3,1,False,derived,GHSA 2026
+Matthew,Adams,GA,Walnut Grove,157,4A,5,3,2,False,derived,GHSA 2026
+Jake,Martin,GA,Central (Carroll),157,4A,6,3,3,False,derived,GHSA 2026
+Dylan,Naish,GA,Centennial,157,4A,7,2,2,False,derived,GHSA 2026
+anthony,knott,GA,Dalton,157,4A,8,2,2,False,derived,GHSA 2026
+Alex,Winship,GA,East Forsyth,157,4A,9,1,2,False,derived,GHSA 2026
+Breylan,James,GA,Tucker,157,4A,10,1,2,False,derived,GHSA 2026
+Joshua,Adkins,GA,Woodland HS (Stockbridge),157,4A,11,1,2,False,derived,GHSA 2026
+Peter,Fallon,GA,Benedictine Military School,157,4A,12,1,2,False,derived,GHSA 2026
+Diego,Guerrero,GA,Forest Park,157,4A,13,0,2,False,derived,GHSA 2026
+LUKAS,LADUKE,GA,Madison County,157,4A,14,0,2,False,derived,GHSA 2026
+MFF-Hunter,MFF-Jennette-Carter,GA,Wayne County HS,157,4A,15,0,2,False,derived,GHSA 2026
+Rush,Phelps,GA,Eagles Landing Christian Academy,157,4A,16,0,2,False,derived,GHSA 2026
+Weston,Wilkie,GA,Creekview,157,5A,1,4,0,False,solid,GHSA 2026
+Ziya,Karadeniz,GA,Riverwood International Charter School,157,5A,2,5,1,False,derived,GHSA 2026
+Jax,Brickley,GA,Lassiter H.S.,157,5A,3,4,2,False,derived,GHSA 2026
+Cullen,Applegate,GA,Woodward Academy,157,5A,4,3,1,False,derived,GHSA 2026
+David,Gomez,GA,Lanier,157,5A,5,3,2,False,derived,GHSA 2026
+Jakobi,Allen,GA,Brunswick,157,5A,6,2,2,False,derived,GHSA 2026
+Turner,Beekman,GA,Roswell,157,5A,7,2,2,False,derived,GHSA 2026
+Justus,Washington,GA,Rome,157,5A,8,2,3,False,derived,GHSA 2026
+Hunter,Collins,GA,Lee County,157,5A,9,1,2,False,derived,GHSA 2026
+John,Maslowski,GA,McIntosh,157,5A,10,1,2,False,derived,GHSA 2026
+Josiah,Staggers,GA,Coffee,157,5A,11,1,2,False,derived,GHSA 2026
+Tanner,Whidden,GA,Veteran`s,157,5A,12,1,2,False,derived,GHSA 2026
+Aiden,Williamson,GA,East Paulding Hs,157,5A,13,0,2,False,derived,GHSA 2026
+Brandt,Weatherly,GA,Jackson County,157,5A,14,0,2,False,derived,GHSA 2026
+Eli,Wolaver,GA,Loganville HS,157,5A,15,0,2,False,derived,GHSA 2026
+Mack,Walrath,GA,Johns Creek,157,5A,16,0,2,False,derived,GHSA 2026
+Brock,Weaver,GA,Camden County,157,6A,1,4,0,False,solid,GHSA 2026
+Adam,Cox,GA,Parkview,157,6A,2,4,1,False,derived,GHSA 2026
+Jacob,Funes,GA,North Cobb,157,6A,3,4,2,False,derived,GHSA 2026
+Victor,Smith,GA,Grovetown,157,6A,4,3,1,False,derived,GHSA 2026
+Brandon,Whiteford,GA,Walton,157,6A,5,3,2,False,derived,GHSA 2026
+Zane,Bovenizer,GA,West Forsyth,157,6A,6,3,3,False,derived,GHSA 2026
+Ivan,Williams,GA,Pebblebrook,157,6A,7,2,2,False,derived,GHSA 2026
+Jahsir,Pleasant,GA,Valdosta,157,6A,8,2,2,False,derived,GHSA 2026
+Artur,Arutyunyants,GA,Forsyth Central,157,6A,9,1,2,False,derived,GHSA 2026
+Evan,Harris,GA,Carrollton,157,6A,10,1,2,False,derived,GHSA 2026
+Jaidon,White,GA,South Gwinnett,157,6A,11,1,2,False,derived,GHSA 2026
+Spence,Chandler,GA,Peachtree Ridge,157,6A,12,1,2,False,derived,GHSA 2026
+Chandler,Nicholson,GA,Etowah,157,6A,13,0,2,False,derived,GHSA 2026
+Keeyon,Hutchinson,GA,South Cobb,157,6A,14,0,2,False,derived,GHSA 2026
+Landen,Goudy,GA,North Forsyth,157,6A,15,0,2,False,derived,GHSA 2026
+Ryan,Perry,GA,Harrison,157,6A,16,0,2,False,derived,GHSA 2026
+Harrison,Murdock,GA,Christian Heritage,165,1A,1,4,0,False,solid,GHSA 2026
+Wyatt,Sowell,GA,Screven County,165,1A,2,4,1,False,derived,GHSA 2026
+Cayleb,Sanford,GA,Vidalia,165,1A,3,4,2,False,derived,GHSA 2026
+Payton,Perez,GA,Brantley County HS,165,1A,4,4,2,False,derived,GHSA 2026
+Davian,Knox,GA,Banks County,165,1A,5,3,1,False,derived,GHSA 2026
+BRYCIN,HUGHES,GA,Elbert County,165,1A,6,2,2,False,derived,GHSA 2026
+Keon,Clealand,GA,Mt Vernon Presbyterian,165,1A,7,2,2,False,derived,GHSA 2026
+Lane,Moran,GA,Heard County,165,1A,8,2,3,False,derived,GHSA 2026
+Blake,White,GA,Haralson County,165,1A,9,1,2,False,derived,GHSA 2026
+Daniel,Urteaga - Marchenko,GA,Jasper County,165,1A,10,1,2,False,derived,GHSA 2026
+Rocky,Holloway,GA,Social Circle,165,1A,11,1,2,False,derived,GHSA 2026
+WILLIAM,COX,GA,Commerce Hs,165,1A,12,1,2,False,derived,GHSA 2026
+Elijah,Ellison,GA,Bremen,165,1A,13,0,2,False,derived,GHSA 2026
+Michael,Johnson,GA,Charlton County,165,1A,14,0,2,False,derived,GHSA 2026
+Mitchell,Dorminy,GA,Irwin County,165,1A,15,0,2,False,derived,GHSA 2026
+ShunJaya,Hill,GA,Northeast Magnet,165,1A,16,0,2,False,derived,GHSA 2026
+Gabriel,Jacobus,GA,Columbus,165,2A,1,4,0,False,solid,GHSA 2026
+Zane,Puff,GA,Franklin County,165,2A,2,4,1,False,derived,GHSA 2026
+Knox,Pierce,GA,Hart County,165,2A,3,4,2,False,derived,GHSA 2026
+Noah,Gross,GA,Lakeview Ft. Oglethorpe HS,165,2A,4,3,1,False,derived,GHSA 2026
+Kole,Smith,GA,East Jackson HS,165,2A,5,3,2,False,derived,GHSA 2026
+Aldo,Lopez,GA,Coahulla Creek,165,2A,6,3,3,False,derived,GHSA 2026
+Jonathan,Charleston,GA,Redan,165,2A,7,2,2,False,derived,GHSA 2026
+Maliq,Vickers,GA,Cook,165,2A,8,2,2,False,derived,GHSA 2026
+Devonte,Poole,GA,Appling County,165,2A,9,1,2,False,derived,GHSA 2026
+Ignacio,Martinez,GA,Hardaway,165,2A,10,1,2,False,derived,GHSA 2026
+Joshua,Arroyo,GA,Burke County,165,2A,11,1,2,False,derived,GHSA 2026
+Phillip,Griffin,GA,Holy Innocents Episcopal,165,2A,12,1,2,False,derived,GHSA 2026
+Blakeston,Warner,GA,Rockmart,165,2A,13,0,2,False,derived,GHSA 2026
+Hunter,Brannon,GA,Lovett School,165,2A,14,0,2,False,derived,GHSA 2026
+Isaiah,Brown,GA,Ringgold,165,2A,15,0,2,False,derived,GHSA 2026
+Malik,Bowen,GA,Kendrick,165,2A,16,0,2,False,derived,GHSA 2026
+Dallas,Russell,GA,Jefferson,165,3A,1,4,0,False,solid,GHSA 2026
+Chestin,Howard,GA,Upson Lee,165,3A,2,5,1,False,derived,GHSA 2026
+Jahsiah,Battle,GA,Fayette Co.,165,3A,3,4,2,False,derived,GHSA 2026
+Brody,Burke,GA,Chestatee,165,3A,4,3,1,False,derived,GHSA 2026
+Kyler,Head,GA,Mary Persons,165,3A,5,3,2,False,derived,GHSA 2026
+Hunter,Cook,GA,Lumpkin Co.,165,3A,6,2,2,False,derived,GHSA 2026
+Sam,Harkins,GA,White County,165,3A,7,2,2,False,derived,GHSA 2026
+Holden,McCullough,GA,Northwest Whitfield High,165,3A,8,2,3,False,derived,GHSA 2026
+Ashaud,Gibbons,GA,"Westside, Augusta",165,3A,9,1,2,False,derived,GHSA 2026
+Bo,Cronic,GA,Gilmer County,165,3A,10,1,2,False,derived,GHSA 2026
+Clayton,Joyner,GA,Harlem,165,3A,11,1,2,False,derived,GHSA 2026
+Sandejago,Wilson,GA,Long County,165,3A,12,1,2,False,derived,GHSA 2026
+Amir,Paul,GA,Riverdale,165,3A,13,0,2,False,derived,GHSA 2026
+Jesse,O`Donnell,GA,Oconee County,165,3A,14,0,2,False,derived,GHSA 2026
+Nakarreon,Thompson,GA,Baldwin,165,3A,15,0,2,False,derived,GHSA 2026
+Zayne,Tillery,GA,Whitewater,165,3A,16,0,2,False,derived,GHSA 2026
+Arrie,Martin,GA,Jones County,165,4A,1,4,0,False,solid,GHSA 2026
+Easton,Boren,GA,Harris County,165,4A,2,4,1,False,derived,GHSA 2026
+Christian,Papcun,GA,Ola,165,4A,3,4,2,False,derived,GHSA 2026
+Ethan,Harrington,GA,Cass,165,4A,4,3,1,False,derived,GHSA 2026
+Skylar,Pizzutiello,GA,"Woodland, Cartersville",165,4A,5,3,2,False,derived,GHSA 2026
+Gunter,Fore,GA,Ware County,165,4A,6,3,3,False,derived,GHSA 2026
+Liam,Smith,GA,Cambridge,165,4A,7,2,2,False,derived,GHSA 2026
+Reed,McMichael,GA,Marist School,165,4A,8,2,2,False,derived,GHSA 2026
+Kayo,De Morais,GA,Kell,165,4A,9,1,2,False,derived,GHSA 2026
+Tabias,Franklin,GA,Charles Drew,165,4A,10,1,2,False,derived,GHSA 2026
+Tyrone,Donehoo,GA,Tucker,165,4A,11,1,2,False,derived,GHSA 2026
+WESLEY,PITTS,GA,North Oconee,165,4A,12,1,2,False,derived,GHSA 2026
+Bryce,Kimsey,GA,East Forsyth,165,4A,13,0,2,False,derived,GHSA 2026
+Gavin,Dunbar,GA,Walnut Grove,165,4A,14,0,2,False,derived,GHSA 2026
+Jermaine,Shippy,GA,Centennial,165,4A,15,0,2,False,derived,GHSA 2026
+Peter,Cepeda,GA,Cartersville,165,4A,16,0,2,False,derived,GHSA 2026
+Miles,Lesley,GA,River Ridge,165,5A,1,4,0,False,solid,GHSA 2026
+Brody,Duffy,GA,Roswell,165,5A,2,4,1,False,derived,GHSA 2026
+Kainoa,Lau,GA,Glynn Academy,165,5A,3,4,2,False,derived,GHSA 2026
+Daylan,Maxwell,GA,Jackson County,165,5A,4,3,1,False,derived,GHSA 2026
+David,Remigailo,GA,Dunwoody,165,5A,5,3,2,False,derived,GHSA 2026
+Aidan,Colker,GA,Riverwood International Charter School,165,5A,6,3,3,False,derived,GHSA 2026
+Caleb,Robinson,GA,Lee County,165,5A,7,2,2,False,derived,GHSA 2026
+Flavio,Drittlhuber,GA,Seckinger ,165,5A,8,2,2,False,derived,GHSA 2026
+Carson,Devogt,GA,Newnan,165,5A,9,1,2,False,derived,GHSA 2026
+Ethan,Salser,GA,Greenbrier,165,5A,10,1,2,False,derived,GHSA 2026
+Kadrein,Suckie,GA,Thomas County Central HS,165,5A,11,1,2,False,derived,GHSA 2026
+Riley,Atkins,GA,South Effingham,165,5A,12,1,2,False,derived,GHSA 2026
+Alejandro,Torres,GA,Lanier,165,5A,13,0,2,False,derived,GHSA 2026
+Gavin,Myers,GA,Alexander,165,5A,14,0,2,False,derived,GHSA 2026
+Jayd`en,Jackson,GA,Villa Rica,165,5A,15,0,2,False,derived,GHSA 2026
+Jensen,Pates,GA,Lassiter H.S.,165,5A,16,0,2,False,derived,GHSA 2026
+Jake,Rheaume,GA,Walton,165,6A,1,4,0,False,solid,GHSA 2026
+Jayce,Salvemini,GA,Harrison,165,6A,2,4,1,False,derived,GHSA 2026
+Julian,Dailey,GA,Camden County,165,6A,3,4,2,False,derived,GHSA 2026
+Henry,Marsden,GA,Denmark,165,6A,4,3,1,False,derived,GHSA 2026
+Javon,Bateman,GA,Tift County,165,6A,5,3,2,False,derived,GHSA 2026
+Callum,McCormack,GA,Buford HS,165,6A,6,3,3,False,derived,GHSA 2026
+Calib,Cameron,GA,Brookwood,165,6A,7,2,2,False,derived,GHSA 2026
+Noah,Hampton,GA,Richmond Hill HS,165,6A,8,2,2,False,derived,GHSA 2026
+Deonta,McIntosh,GA,East Coweta HS,165,6A,9,1,2,False,derived,GHSA 2026
+Enoch,Phillips,GA,Marietta,165,6A,10,1,2,False,derived,GHSA 2026
+Marcelo,Martino Albino,GA,Grayson,165,6A,11,1,2,False,derived,GHSA 2026
+Patrick,Curry,GA,Campbell,165,6A,12,1,2,False,derived,GHSA 2026
+Bentley,Browne,GA,Douglas County,165,6A,13,0,2,False,derived,GHSA 2026
+Emmanuel,Chita,GA,Archer,165,6A,14,0,2,False,derived,GHSA 2026
+Kyle,Joyce,GA,North Cobb,165,6A,15,0,2,False,derived,GHSA 2026
+Nicholas,Ramirez,GA,Parkview,165,6A,16,0,2,False,derived,GHSA 2026
+Ariel,Maicon,GA,Creekview,170,,1,4,0,True,solid,GHSA 2026 Girls
+Madison,Cooley,GA,Carrollton,170,,2,4,1,True,derived,GHSA 2026 Girls
+Terra,Burse,GA,Southeast Whitfield,170,,3,4,2,True,derived,GHSA 2026 Girls
+Aurora,Edwards,GA,Brantley County HS,170,,4,3,1,True,derived,GHSA 2026 Girls
+Hannah,Crowe,GA,Franklin County,170,,5,3,2,True,derived,GHSA 2026 Girls
+Princess,Marshall,GA,Stephenson,170,,6,3,3,True,derived,GHSA 2026 Girls
+Hannah,Mustard,GA,North Oconee,170,,7,2,2,True,derived,GHSA 2026 Girls
+itel,salcido,GA,Gainesville,170,,8,2,2,True,derived,GHSA 2026 Girls
+Amaya,Erby,GA,Shiloh,170,,9,1,2,True,derived,GHSA 2026 Girls
+Isla,Stotts,GA,Richmond Hill HS,170,,10,1,2,True,derived,GHSA 2026 Girls
+Sanae,Vaughns,GA,Villa Rica,170,,11,1,2,True,derived,GHSA 2026 Girls
+Veronica,Brown,GA,Temple,170,,12,1,2,True,derived,GHSA 2026 Girls
+Ashlyn,Fuller,GA,Putnam County,170,,13,0,2,True,derived,GHSA 2026 Girls
+Chelsey,Hunter,GA,Newton,170,,14,0,2,True,derived,GHSA 2026 Girls
+Laila,Narh-Martey,GA,Houston County,170,,15,0,2,True,derived,GHSA 2026 Girls
+Monica,McClendon,GA,Lumpkin Co.,170,,16,0,2,True,derived,GHSA 2026 Girls
+Lucas,Coley,GA,Toombs County,175,1A,1,4,0,False,solid,GHSA 2026
+Christian,Lange,GA,Mt. Pisgah Christian School,175,1A,2,5,1,False,derived,GHSA 2026
+Tim,Brown,GA,Temple,175,1A,3,3,1,False,derived,GHSA 2026
+CADEN,MCWILLIAMS,GA,Commerce Hs,175,1A,4,3,2,False,derived,GHSA 2026
+Cooper,Middleton,GA,Christian Heritage,175,1A,5,3,2,False,derived,GHSA 2026
+Case,Hanley,GA,Banks County,175,1A,6,3,3,False,derived,GHSA 2026
+Demetrius,Iverson,GA,Bacon County,175,1A,7,2,2,False,derived,GHSA 2026
+Jack,Stowers,GA,Towns County,175,1A,8,2,2,False,derived,GHSA 2026
+JAYDEN,THOMPSON,GA,Elbert County,175,1A,9,1,2,False,derived,GHSA 2026
+Kyree,Morris,GA,Central (Macon),175,1A,10,1,2,False,derived,GHSA 2026
+Trent,Harris,GA,"Mt Zion, Carroll",175,1A,11,1,2,False,derived,GHSA 2026
+Xavier,Edmerson,GA,Bremen,175,1A,12,1,2,False,derived,GHSA 2026
+Alan,Ortega,GA,Jeff Davis HS,175,1A,13,0,2,False,derived,GHSA 2026
+Cooper,Begitschke,GA,Social Circle,175,1A,14,0,2,False,derived,GHSA 2026
+Major,Morton,GA,Dublin,175,1A,15,0,2,False,derived,GHSA 2026
+Nolan,Marcellus,GA,Chattahoochee County HS,175,1A,16,0,2,False,derived,GHSA 2026
+Kevin,Kilpatrick,GA,Union County,175,2A,1,4,0,False,solid,GHSA 2026
+Luke,Jones,GA,Ringgold,175,2A,2,5,1,False,derived,GHSA 2026
+Evan,Reed,GA,East Jackson HS,175,2A,3,4,2,False,derived,GHSA 2026
+Jonas,Watkins,GA,Lakeview Ft. Oglethorpe HS,175,2A,4,3,1,False,derived,GHSA 2026
+Ryan,Miller,GA,Columbus,175,2A,5,3,2,False,derived,GHSA 2026
+Branson,Lowery,GA,Coahulla Creek,175,2A,6,2,2,False,derived,GHSA 2026
+Hunter,Nichols,GA,Franklin County,175,2A,7,2,2,False,derived,GHSA 2026
+Harrison,Carnine,GA,Cook,175,2A,8,2,3,False,derived,GHSA 2026
+Isaiah,Cage,GA,Salem,175,2A,9,1,2,False,derived,GHSA 2026
+Robbie,Wood,GA,Rutland,175,2A,10,1,2,False,derived,GHSA 2026
+Sakai,Bennett,GA,Butler,175,2A,11,1,2,False,derived,GHSA 2026
+Shep,Greene,GA,Lovett School,175,2A,12,1,2,False,derived,GHSA 2026
+Jayce,Smith,GA,Rockmart,175,2A,13,0,2,False,derived,GHSA 2026
+Kysean,Charles,GA,Redan,175,2A,14,0,2,False,derived,GHSA 2026
+MFF-Beau,MFF-Bennett,GA,Hebron Christian,175,2A,15,0,2,False,derived,GHSA 2026
+Zayden,Monts,GA,Sumter County,175,2A,16,0,2,False,derived,GHSA 2026
+Badesire,Lubala,GA,Stephenson,175,3A,1,4,0,False,solid,GHSA 2026
+Mason,Boykin,GA,LaGrange,175,3A,2,4,1,False,derived,GHSA 2026
+Parker,Carlton,GA,North Hall,175,3A,3,4,2,False,derived,GHSA 2026
+Brexton,Bell,GA,Calvary Day School,175,3A,4,3,1,False,derived,GHSA 2026
+William,McNair,GA,Luella,175,3A,5,3,2,False,derived,GHSA 2026
+Jimmy,Jones,GA,Dougherty,175,3A,6,3,3,False,derived,GHSA 2026
+Canaan,Goss,GA,Chestatee,175,3A,7,2,2,False,derived,GHSA 2026
+David,Coon,GA,Adairsville,175,3A,8,2,2,False,derived,GHSA 2026
+Braylon,Preston,GA,Hephzibah,175,3A,9,1,2,False,derived,GHSA 2026
+Eli,Pearson,GA,LaFayette,175,3A,10,1,2,False,derived,GHSA 2026
+Luke,Nichols,GA,Lumpkin Co.,175,3A,11,1,2,False,derived,GHSA 2026
+Trenton,Hartman,GA,Northwest Whitfield High,175,3A,12,1,2,False,derived,GHSA 2026
+Bryce,Burke,GA,Bainbridge,175,3A,13,0,2,False,derived,GHSA 2026
+Charlie,Ulmer,GA,Oconee County,175,3A,14,0,2,False,derived,GHSA 2026
+Jayren,Roberson,GA,Baldwin,175,3A,15,0,2,False,derived,GHSA 2026
+Kameron,Huzzie,GA,Troup,175,3A,16,0,2,False,derived,GHSA 2026
+Bo,Davis,GA,Blessed Trinity Catholic,175,4A,1,4,0,False,solid,GHSA 2026
+Griffin,Harper,GA,Flowery Branch,175,4A,2,4,1,False,derived,GHSA 2026
+Paul,Lanier,GA,"Woodland, Cartersville",175,4A,3,4,2,False,derived,GHSA 2026
+Mason,Tompkins,GA,Cass,175,4A,4,3,1,False,derived,GHSA 2026
+Jacob,Skinner,GA,Jones County,175,4A,5,3,2,False,derived,GHSA 2026
+Jamorrie,Cole,GA,Eastside Hs,175,4A,6,3,3,False,derived,GHSA 2026
+Eli,Schuler,GA,Walnut Grove,175,4A,7,2,2,False,derived,GHSA 2026
+Justice,Levitan,GA,Cambridge,175,4A,8,2,2,False,derived,GHSA 2026
+Bryan,De Morais,GA,Kell,175,4A,9,1,2,False,derived,GHSA 2026
+Calil,Boozer,GA,Tucker,175,4A,10,1,2,False,derived,GHSA 2026
+Palarreus,Richards,GA,Cartersville,175,4A,11,1,2,False,derived,GHSA 2026
+Parks,Kaiser,GA,Marist School,175,4A,12,1,2,False,derived,GHSA 2026
+Clayton,Clemmons,GA,Westminster Schools,175,4A,13,0,2,False,derived,GHSA 2026
+Collin,Deal,GA,Ware County,175,4A,14,0,2,False,derived,GHSA 2026
+Jeremy,Reagin,GA,Ola,175,4A,15,0,2,False,derived,GHSA 2026
+Nathan,Norwood,GA,East Forsyth,175,4A,16,0,2,False,derived,GHSA 2026
+Caleb,Cross,GA,Glynn Academy,175,5A,1,4,0,False,solid,GHSA 2026
+Jayden,Garrison,GA,Habersham Central Hs,175,5A,2,5,1,False,derived,GHSA 2026
+Amir,Mamadsaidov,GA,McIntosh,175,5A,3,3,1,False,derived,GHSA 2026
+Finn,Shawver,GA,Pope,175,5A,4,3,2,False,derived,GHSA 2026
+Zachary,Utnehmer,GA,South Effingham,175,5A,5,3,2,False,derived,GHSA 2026
+Josiah,Cranston,GA,Sequoyah,175,5A,6,3,3,False,derived,GHSA 2026
+Jacari,Manning,GA,Coffee,175,5A,7,2,2,False,derived,GHSA 2026
+Zach,Washington,GA,Roswell,175,5A,8,2,2,False,derived,GHSA 2026
+James,Carter,GA,Arabia Mountain,175,5A,9,1,2,False,derived,GHSA 2026
+Karim,Mahmoud,GA,Kennesaw Mountain,175,5A,10,1,2,False,derived,GHSA 2026
+Luke,Shipton,GA,Alcovy,175,5A,11,1,2,False,derived,GHSA 2026
+Xylyon,Streeter,GA,Lee County,175,5A,12,1,2,False,derived,GHSA 2026
+Jayden,Spragin,GA,Shiloh,175,5A,13,0,2,False,derived,GHSA 2026
+Jon,Haskin,GA,Lassiter H.S.,175,5A,14,0,2,False,derived,GHSA 2026
+Juan,Giron Alden,GA,Northgate,175,5A,15,0,2,False,derived,GHSA 2026
+T`Andre,Alford,GA,Lithia Springs,175,5A,16,0,2,False,derived,GHSA 2026
+Demetrius,Heywood,GA,Hillgrove,175,6A,1,4,0,False,solid,GHSA 2026
+Brian,Wright,GA,Camden County,175,6A,2,4,1,False,derived,GHSA 2026
+Jack,Gea,GA,Buford HS,175,6A,3,4,2,False,derived,GHSA 2026
+Wisdom,Iheanacho,GA,South Cobb,175,6A,4,3,1,False,derived,GHSA 2026
+Xavier,Antoine,GA,Chapel Hill,175,6A,5,3,2,False,derived,GHSA 2026
+Wesley,Jackson,GA,North Atlanta HS,175,6A,6,3,3,False,derived,GHSA 2026
+Carlos,Guerrero,GA,Valdosta,175,6A,7,2,2,False,derived,GHSA 2026
+Ryan,Nelson,GA,Peachtree Ridge,175,6A,8,2,2,False,derived,GHSA 2026
+Devon,Asafu-Adjaye,GA,Archer,175,6A,9,1,2,False,derived,GHSA 2026
+Hamza,Sayeed,GA,Walton,175,6A,10,1,2,False,derived,GHSA 2026
+Jamari,McNabb,GA,Campbell,175,6A,11,1,2,False,derived,GHSA 2026
+Jordan,Moreland,GA,Newton,175,6A,12,1,2,False,derived,GHSA 2026
+Braxton,Vaughn,GA,Marietta,175,6A,13,0,2,False,derived,GHSA 2026
+Hayden,Flagg,GA,South Gwinnett,175,6A,14,0,2,False,derived,GHSA 2026
+Reginald,Troutman,GA,Tift County,175,6A,15,0,2,False,derived,GHSA 2026
+Roman,Chism,GA,Mill Creek,175,6A,16,0,2,False,derived,GHSA 2026
+Beatrice,Suomie,GA,Jordan,190,,1,4,0,True,solid,GHSA 2026 Girls
+Zorah,Lee,GA,Meadowcreek,190,,2,5,1,True,derived,GHSA 2026 Girls
+Lillian,Stokes,GA,Woodward Academy,190,,3,4,2,True,derived,GHSA 2026 Girls
+Ava,Catledge,GA,Jefferson,190,,4,3,1,True,derived,GHSA 2026 Girls
+Abby,Andersen,GA,Jackson County,190,,5,3,2,True,derived,GHSA 2026 Girls
+Ella,Lewis,GA,Peach County,190,,6,2,2,True,derived,GHSA 2026 Girls
+Gabriel,Daniels,GA,Camden County,190,,7,2,2,True,derived,GHSA 2026 Girls
+Kamilah,Nava,GA,Seckinger ,190,,8,2,3,True,derived,GHSA 2026 Girls
+Eliza,Saunder,GA,Cedartown,190,,9,1,2,True,derived,GHSA 2026 Girls
+Kira,Brown,GA,Ware County,190,,10,1,2,True,derived,GHSA 2026 Girls
+Londyn,Parks,GA,Newton,190,,11,1,2,True,derived,GHSA 2026 Girls
+Natalie,Mendoza,GA,Lumpkin Co.,190,,12,1,2,True,derived,GHSA 2026 Girls
+Juana,Tercero-Rafael,GA,Gilmer County,190,,13,0,2,True,derived,GHSA 2026 Girls
+Jurnee,Bouldin,GA,Kennesaw Mountain,190,,14,0,2,True,derived,GHSA 2026 Girls
+Kadence,Piel,GA,Carrollton,190,,15,0,2,True,derived,GHSA 2026 Girls
+Zarriah,Hollinger,GA,Morrow,190,,16,0,2,True,derived,GHSA 2026 Girls
+Steele,Brown,GA,Mt. Pisgah Christian School,190,1A,1,4,0,False,solid,GHSA 2026
+Layne,Vaughn,GA,Gordon Lee,190,1A,2,4,1,False,derived,GHSA 2026
+Daniel,Passmore,GA,Social Circle,190,1A,3,4,2,False,derived,GHSA 2026
+Robert,McCoy,GA,Temple,190,1A,4,3,1,False,derived,GHSA 2026
+RIVERS,WEST,GA,Commerce Hs,190,1A,5,3,2,False,derived,GHSA 2026
+Leeson,Allen,GA,Toombs County,190,1A,6,3,3,False,derived,GHSA 2026
+Brandon,Chandler,GA,Trion,190,1A,7,2,2,False,derived,GHSA 2026
+Jakaden,Fruster,GA,Rabun County,190,1A,8,2,2,False,derived,GHSA 2026
+George,Campbell,GA,McIntosh County Academy,190,1A,9,1,2,False,derived,GHSA 2026
+JACK,HOVER,GA,Elbert County,190,1A,10,1,2,False,derived,GHSA 2026
+Jeremiah,Wright,GA,East Laurens,190,1A,11,1,2,False,derived,GHSA 2026
+Jett,Shavers,GA,Dade County,190,1A,12,1,2,False,derived,GHSA 2026
+Colton,Hutson,GA,Haralson County,190,1A,13,0,2,False,derived,GHSA 2026
+Creed,Sanders,GA,Emanuel County Institute,190,1A,14,0,2,False,derived,GHSA 2026
+Kaid,Horton,GA,Bacon County,190,1A,15,0,2,False,derived,GHSA 2026
+Zaccaria,Long,GA,Putnam County,190,1A,16,0,2,False,derived,GHSA 2026
+Demond,Hutchins,GA,Miller Grove,190,2A,1,4,0,False,solid,GHSA 2026
+Tamorris,Johnson,GA,Lakeview Ft. Oglethorpe HS,190,2A,2,5,1,False,derived,GHSA 2026
+A`Kevias,Gamble,GA,Glenn Hills,190,2A,3,4,2,False,derived,GHSA 2026
+Kaleo,Willcoxson,GA,Morgan County,190,2A,4,3,1,False,derived,GHSA 2026
+Jake,Gravitt,GA,Rockmart,190,2A,5,3,2,False,derived,GHSA 2026
+Luke,Turner,GA,Coahulla Creek,190,2A,6,2,2,False,derived,GHSA 2026
+Rolando,Gonzalez,GA,Cook,190,2A,7,2,2,False,derived,GHSA 2026
+Noah,Oliver,GA,Columbus,190,2A,8,2,3,False,derived,GHSA 2026
+Braiden,Comeau,GA,Franklin County,190,2A,9,1,2,False,derived,GHSA 2026
+Cameron,Talley,GA,Ringgold,190,2A,10,1,2,False,derived,GHSA 2026
+Greyson,Sikes,GA,Pierce County HS,190,2A,11,1,2,False,derived,GHSA 2026
+Josiah,Garrett,GA,Callaway,190,2A,12,1,2,False,derived,GHSA 2026
+Asher,Givens,GA,Lovett School,190,2A,13,0,2,False,derived,GHSA 2026
+Chase,Wingfield,GA,East Jackson HS,190,2A,14,0,2,False,derived,GHSA 2026
+Deshon,Richardson,GA,Hardaway,190,2A,15,0,2,False,derived,GHSA 2026
+Gray,Costello,GA,Hebron Christian,190,2A,16,0,2,False,derived,GHSA 2026
+Fischer,West,GA,Jefferson,190,3A,1,4,0,False,solid,GHSA 2026
+Lukas,Pruitt,GA,East Hall,190,3A,2,4,1,False,derived,GHSA 2026
+Ronan,O`Keeffe,GA,Dawson County,190,3A,3,4,2,False,derived,GHSA 2026
+Mike,Nichols,GA,Lumpkin Co.,190,3A,4,3,1,False,derived,GHSA 2026
+Jayden,Watkins,GA,West Laurens,190,3A,5,3,2,False,derived,GHSA 2026
+Bryson,Howe,GA,White County,190,3A,6,3,3,False,derived,GHSA 2026
+Drake,Harrison,GA,Oconee County,190,3A,7,2,2,False,derived,GHSA 2026
+Noah,Stutler,GA,Bainbridge,190,3A,8,2,2,False,derived,GHSA 2026
+Corbin,Cooper,GA,Harlem,190,3A,9,1,2,False,derived,GHSA 2026
+Elijah,Lang,GA,Windsor Forest,190,3A,10,1,2,False,derived,GHSA 2026
+Jakin,Ross,GA,Cairo,190,3A,11,1,2,False,derived,GHSA 2026
+Wesley,McDaniel,GA,Heritage-Catoosa,190,3A,12,1,2,False,derived,GHSA 2026
+Jayden,McCraney,GA,Mary Persons,190,3A,13,0,2,False,derived,GHSA 2026
+Judah,Henvill,GA,"Westside, Augusta",190,3A,14,0,2,False,derived,GHSA 2026
+Kieran,Canavan-Lima,GA,North Hall,190,3A,15,0,2,False,derived,GHSA 2026
+Vontreaz,Cowen,GA,Baldwin,190,3A,16,0,2,False,derived,GHSA 2026
+Xander,Dossett,GA,Ola,190,4A,1,4,0,False,solid,GHSA 2026
+Gavin,Massingill,GA,Dalton,190,4A,2,4,1,False,derived,GHSA 2026
+Walker,Thomas,GA,Cambridge,190,4A,3,4,2,False,derived,GHSA 2026
+Owen,Jones,GA,"Woodland, Cartersville",190,4A,4,3,1,False,derived,GHSA 2026
+Cadieu,Dunlap,GA,Eastside Hs,190,4A,5,3,2,False,derived,GHSA 2026
+Ethan,Shepard,GA,Flowery Branch,190,4A,6,3,3,False,derived,GHSA 2026
+James,Cannon,GA,Perry,190,4A,7,2,2,False,derived,GHSA 2026
+NOLAN,BLOOM,GA,North Oconee,190,4A,8,2,2,False,derived,GHSA 2026
+Camden,Gates,GA,New Hampstead HS,190,4A,9,1,2,False,derived,GHSA 2026
+Liam,Cauley,GA,Harris County,190,4A,10,1,2,False,derived,GHSA 2026
+Logan,Crisp,GA,Cass,190,4A,11,1,2,False,derived,GHSA 2026
+Mason,Bender,GA,Walnut Grove,190,4A,12,1,2,False,derived,GHSA 2026
+Andrew,Bentley,GA,Blessed Trinity Catholic,190,4A,13,0,2,False,derived,GHSA 2026
+Denver,Tate,GA,Southeast Whitfield,190,4A,14,0,2,False,derived,GHSA 2026
+Joshua,Barber,GA,Jonesboro,190,4A,15,0,2,False,derived,GHSA 2026
+Justin,Buchanan,GA,North Springs,190,4A,16,0,2,False,derived,GHSA 2026
+Costen,Wright,GA,Creekview,190,5A,1,4,0,False,solid,GHSA 2026
+Joseph,Patrie,GA,McIntosh,190,5A,2,4,1,False,derived,GHSA 2026
+Travis,McCrimmon,GA,Brunswick,190,5A,3,4,2,False,derived,GHSA 2026
+Tyler,Patterson,GA,Sequoyah,190,5A,4,4,2,False,derived,GHSA 2026
+Coen,Weaver,GA,Kennesaw Mountain,190,5A,5,3,1,False,derived,GHSA 2026
+Chandler,Bell,GA,Woodward Academy,190,5A,6,2,2,False,derived,GHSA 2026
+Karson,Cook,GA,Lee County,190,5A,7,2,2,False,derived,GHSA 2026
+Noah,Phillips,GA,Loganville HS,190,5A,8,2,3,False,derived,GHSA 2026
+Carlton,Pye,GA,Lakeside (Evans),190,5A,9,1,2,False,derived,GHSA 2026
+Caysen,Fisher,GA,South Effingham,190,5A,10,1,2,False,derived,GHSA 2026
+Miles,Grossman,GA,Pope,190,5A,11,1,2,False,derived,GHSA 2026
+Noah,Williams,GA,Newnan,190,5A,12,1,2,False,derived,GHSA 2026
+Marcus,North,GA,Lovejoy,190,5A,13,0,2,False,derived,GHSA 2026
+Maurice,Weston,GA,New Manchester,190,5A,14,0,2,False,derived,GHSA 2026
+Xavior,Dobson,GA,Coffee,190,5A,15,0,2,False,derived,GHSA 2026
+Zacariah,Walker,GA,Seckinger ,190,5A,16,0,2,False,derived,GHSA 2026
+Ryder,Wilder,GA,Camden County,190,6A,1,4,0,False,solid,GHSA 2026
+Imhotep,Henderson,GA,Archer,190,6A,2,4,1,False,derived,GHSA 2026
+Peyton,Banks,GA,Peachtree Ridge,190,6A,3,4,2,False,derived,GHSA 2026
+David,Rudd,GA,Harrison,190,6A,4,3,1,False,derived,GHSA 2026
+Miguel,Contreras,GA,Osborne,190,6A,5,3,2,False,derived,GHSA 2026
+Jack,Baizakov,GA,South Forsyth H.S.,190,6A,6,3,3,False,derived,GHSA 2026
+Damonte,Faggin,GA,Chapel Hill,190,6A,7,2,2,False,derived,GHSA 2026
+Landon,Rhie,GA,Mill Creek,190,6A,8,2,2,False,derived,GHSA 2026
+Caiden,Gaeth,GA,Richmond Hill HS,190,6A,9,1,2,False,derived,GHSA 2026
+Logan,Rudolph,GA,North Cobb,190,6A,10,1,2,False,derived,GHSA 2026
+Tyler,Coulter,GA,North Forsyth,190,6A,11,1,2,False,derived,GHSA 2026
+Victor,Folks,GA,Dacula,190,6A,12,1,2,False,derived,GHSA 2026
+Alex,Scott-Flowers,GA,Valdosta,190,6A,13,0,2,False,derived,GHSA 2026
+Charlie,Morton,GA,Forsyth Central,190,6A,14,0,2,False,derived,GHSA 2026
+Jace,Felipe,GA,Brookwood,190,6A,15,0,2,False,derived,GHSA 2026
+John,Bryant,GA,Marietta,190,6A,16,0,2,False,derived,GHSA 2026
+Will,Mealer,GA,Heard County,215,1A,1,4,0,False,solid,GHSA 2026
+LINCOLN,BLACKMON,GA,Elbert County,215,1A,2,4,1,False,derived,GHSA 2026
+Ty,Hughes,GA,Brantley County HS,215,1A,3,4,2,False,derived,GHSA 2026
+Malcolm,Burris,GA,Fitzgerald,215,1A,4,3,1,False,derived,GHSA 2026
+Xzavion,Colclough,GA,Social Circle,215,1A,5,3,2,False,derived,GHSA 2026
+Owen,Griffin,GA,Irwin County,215,1A,6,3,3,False,derived,GHSA 2026
+Milek,Adams,GA,McNair,215,1A,7,2,2,False,derived,GHSA 2026
+Tanner,McKie,GA,Oglethorpe County,215,1A,8,2,2,False,derived,GHSA 2026
+Jagger,Patterson,GA,Bremen,215,1A,9,1,2,False,derived,GHSA 2026
+Joe,Ward,GA,Putnam County,215,1A,10,1,2,False,derived,GHSA 2026
+Micah,Ward,GA,Banks County,215,1A,11,1,2,False,derived,GHSA 2026
+Walker,Ward,GA,Haralson County,215,1A,12,1,2,False,derived,GHSA 2026
+Matt,McDade,GA,Georgia Military College,215,1A,13,0,2,False,derived,GHSA 2026
+Rolan,Brown,GA,Chattahoochee County HS,215,1A,14,0,2,False,derived,GHSA 2026
+Shaw,Branch,GA,Kings Ridge,215,1A,15,0,2,False,derived,GHSA 2026
+Thomas,Peterson,GA,Toombs County,215,1A,16,0,2,False,derived,GHSA 2026
+Ethan,Secoy,GA,Columbus,215,2A,1,4,0,False,solid,GHSA 2026
+Jay`lynn,Everett,GA,Pierce County HS,215,2A,2,5,1,False,derived,GHSA 2026
+Thomas,Dougherty,GA,Holy Innocents Episcopal,215,2A,3,3,1,False,derived,GHSA 2026
+Emer,Jacinto,GA,East Jackson HS,215,2A,4,3,2,False,derived,GHSA 2026
+Noah,Cash,GA,Pike County,215,2A,5,3,2,False,derived,GHSA 2026
+Jit,Ward,GA,Morgan County,215,2A,6,3,3,False,derived,GHSA 2026
+Colson,Fuller,GA,Hebron Christian,215,2A,7,2,2,False,derived,GHSA 2026
+Jackson,Lowery,GA,Coahulla Creek,215,2A,8,2,2,False,derived,GHSA 2026
+Akeem,Bateman,GA,Cook,215,2A,9,1,2,False,derived,GHSA 2026
+Crawford,Hughes,GA,Lovett School,215,2A,10,1,2,False,derived,GHSA 2026
+Derrius,Davis,GA,Callaway,215,2A,11,1,2,False,derived,GHSA 2026
+Edwin,Burt,GA,Appling County,215,2A,12,1,2,False,derived,GHSA 2026
+Chuckie,Lee,GA,Kendrick,215,2A,13,0,2,False,derived,GHSA 2026
+FF-Kaiden,FF-Vaughn,GA,Jackson,215,2A,14,0,2,False,derived,GHSA 2026
+Lincoln,Lessis,GA,Sonoraville,215,2A,15,0,2,False,derived,GHSA 2026
+corde,russell,GA,"Carver, Atlanta",215,2A,16,0,2,False,derived,GHSA 2026
+Clifford,Williford,GA,Jefferson,215,3A,1,4,0,False,solid,GHSA 2026
+Kade,Hawthorne,GA,North Hall,215,3A,2,4,1,False,derived,GHSA 2026
+Hunter,Baker,GA,Heritage-Catoosa,215,3A,3,4,2,False,derived,GHSA 2026
+Jordan,Lassiter,GA,Westover School,215,3A,4,4,2,False,derived,GHSA 2026
+Connor,Armstrong,GA,White County,215,3A,5,3,1,False,derived,GHSA 2026
+Carson,Vaillant,GA,Troup,215,3A,6,2,2,False,derived,GHSA 2026
+Maxx,Chafin,GA,West Laurens,215,3A,7,2,2,False,derived,GHSA 2026
+Erasmo,Rabanales,GA,Calhoun,215,3A,8,2,3,False,derived,GHSA 2026
+Brandon,Gillian,GA,Dawson County,215,3A,9,1,2,False,derived,GHSA 2026
+Cristofer,Martinez,GA,"Mt Zion, Jonesboro",215,3A,10,1,2,False,derived,GHSA 2026
+Nehemiah,(Neo) McLaughlin,GA,LaGrange,215,3A,11,1,2,False,derived,GHSA 2026
+Rory,Balkcom,GA,Baldwin,215,3A,12,1,2,False,derived,GHSA 2026
+Brant,Horst,GA,Southeast Bulloch,215,3A,13,0,2,False,derived,GHSA 2026
+Elijah,Rapier,GA,LaFayette,215,3A,14,0,2,False,derived,GHSA 2026
+Simon,Steckel,GA,Oconee County,215,3A,15,0,2,False,derived,GHSA 2026
+Tusi,Tiapula,GA,Long County,215,3A,16,0,2,False,derived,GHSA 2026
+John,Gill,GA,"Woodland, Cartersville",215,4A,1,4,0,False,solid,GHSA 2026
+Luke,Thompson,GA,Jones County,215,4A,2,4,1,False,derived,GHSA 2026
+Josian,Hernandez,GA,Dalton,215,4A,3,4,2,False,derived,GHSA 2026
+Maverick,Armour,GA,Tucker,215,4A,4,4,2,False,derived,GHSA 2026
+Codey,Dean,GA,Cass,215,4A,5,3,1,False,derived,GHSA 2026
+Gabriel,Nazario,GA,Perry,215,4A,6,2,2,False,derived,GHSA 2026
+SHEA,VERSTRAETE,GA,North Oconee,215,4A,7,2,2,False,derived,GHSA 2026
+Jude,Wiseman,GA,Locust Grove,215,4A,8,2,3,False,derived,GHSA 2026
+Antonio,Ruiz,GA,Harris County,215,4A,9,1,2,False,derived,GHSA 2026
+Emmett,Reeves,GA,Cambridge,215,4A,10,1,2,False,derived,GHSA 2026
+Jack,Brown,GA,Allatoona,215,4A,11,1,2,False,derived,GHSA 2026
+Kaleb,Williamson,GA,Central (Carroll),215,4A,12,1,2,False,derived,GHSA 2026
+Gavin,Prater,GA,Walnut Grove,215,4A,13,0,2,False,derived,GHSA 2026
+Jaderrick,Whitehead,GA,Eastside Hs,215,4A,14,0,2,False,derived,GHSA 2026
+Jalen,Hampton,GA,Ware County,215,4A,15,0,2,False,derived,GHSA 2026
+Jayden,Gardner,GA,Creekside,215,4A,16,0,2,False,derived,GHSA 2026
+Jackson,Waters,GA,Newnan,215,5A,1,4,0,False,solid,GHSA 2026
+Andrew,Turenne,GA,Seckinger ,215,5A,2,5,1,False,derived,GHSA 2026
+Enrique,Perez,GA,River Ridge,215,5A,3,4,2,False,derived,GHSA 2026
+Eitan,Villalba,GA,Woodward Academy,215,5A,4,3,1,False,derived,GHSA 2026
+Cooper,Reiss,GA,Glynn Academy,215,5A,5,3,2,False,derived,GHSA 2026
+Jack,Lavinder,GA,McIntosh,215,5A,6,2,2,False,derived,GHSA 2026
+William,Tate,GA,Chamblee,215,5A,7,2,2,False,derived,GHSA 2026
+Eli,Hawkes,GA,Lanier,215,5A,8,2,3,False,derived,GHSA 2026
+Brayden,Park,GA,South Paulding,215,5A,9,1,2,False,derived,GHSA 2026
+Chad,Trueblood,GA,Winder-Barrow,215,5A,10,1,2,False,derived,GHSA 2026
+Ian,Verrett,GA,South Effingham,215,5A,11,1,2,False,derived,GHSA 2026
+Ryan,Brown,GA,Thomas County Central HS,215,5A,12,1,2,False,derived,GHSA 2026
+Crosby,Alderman,GA,Brunswick,215,5A,13,0,2,False,derived,GHSA 2026
+Damion,Moreno,GA,Creekview,215,5A,14,0,2,False,derived,GHSA 2026
+Erjon,Preniqi,GA,Loganville HS,215,5A,15,0,2,False,derived,GHSA 2026
+Jesus,Camacho,GA,Apalachee,215,5A,16,0,2,False,derived,GHSA 2026
+Ronan,An,GA,North Cobb,215,6A,1,4,0,False,solid,GHSA 2026
+Bryant,Nagel,GA,Mountain View,215,6A,2,5,1,False,derived,GHSA 2026
+Davis,Nicholson,GA,Walton,215,6A,3,4,2,False,derived,GHSA 2026
+Aidan,Buck,GA,Camden County,215,6A,4,3,1,False,derived,GHSA 2026
+Ulyssias,Wondwossen,GA,North Gwinnett,215,6A,5,3,2,False,derived,GHSA 2026
+Adam,Price,GA,Harrison,215,6A,6,2,2,False,derived,GHSA 2026
+Kyle,Fogarty,GA,South Forsyth H.S.,215,6A,7,2,2,False,derived,GHSA 2026
+Cyrus,McCoy,GA,Newton,215,6A,8,2,3,False,derived,GHSA 2026
+Fabien,Royal,GA,Grayson,215,6A,9,1,2,False,derived,GHSA 2026
+Jaylon,Deal,GA,Richmond Hill HS,215,6A,10,1,2,False,derived,GHSA 2026
+Markeith,Linen,GA,Marietta,215,6A,11,1,2,False,derived,GHSA 2026
+Terrin,Jones,GA,Brookwood,215,6A,12,1,2,False,derived,GHSA 2026
+Abdul,Day,GA,Tift County,215,6A,13,0,2,False,derived,GHSA 2026
+Jacqueese,Willis,GA,Archer,215,6A,14,0,2,False,derived,GHSA 2026
+Kanon,Nelson,GA,Buford HS,215,6A,15,0,2,False,derived,GHSA 2026
+MFF-Xavier,MFF-DeRamus,GA,Grovetown,215,6A,16,0,2,False,derived,GHSA 2026
+Faith,Jones,GA,Lumpkin Co.,235,,1,4,0,True,solid,GHSA 2026 Girls
+Payten,Jefferson,GA,Lambert,235,,2,5,1,True,derived,GHSA 2026 Girls
+Jonalisa,Ledoux,GA,Wheeler,235,,3,4,2,True,derived,GHSA 2026 Girls
+Bianca,Pennyman,GA,McEachern,235,,4,3,1,True,derived,GHSA 2026 Girls
+Pamela,Dominguez-Vasquez,GA,Heard County,235,,5,3,2,True,derived,GHSA 2026 Girls
+Alyssa,Barrow,GA,Collins Hill,235,,6,2,2,True,derived,GHSA 2026 Girls
+Jayva,Amos,GA,Hillgrove,235,,7,2,2,True,derived,GHSA 2026 Girls
+Alena,Jones,GA,Marietta,235,,8,2,3,True,derived,GHSA 2026 Girls
+Erika,Tercero,GA,Gilmer County,235,,9,1,2,True,derived,GHSA 2026 Girls
+Kannericka,Nelson,GA,Putnam County,235,,10,1,2,True,derived,GHSA 2026 Girls
+Kennedi,Hill Maine,GA,Morrow,235,,11,1,2,True,derived,GHSA 2026 Girls
+Niah,Hood,GA,Hardaway,235,,12,1,2,True,derived,GHSA 2026 Girls
+Canetria,McKenzie,GA,Jonesboro,235,,13,0,2,True,derived,GHSA 2026 Girls
+Kaysha,Heroch,GA,Chattooga,235,,14,0,2,True,derived,GHSA 2026 Girls
+Maleigha,Lawson,GA,Cook,235,,15,0,2,True,derived,GHSA 2026 Girls
+Savannah,Montgomery,GA,Evans,235,,16,0,2,True,derived,GHSA 2026 Girls
+Domimarkeyo,Walden,GA,Dublin,285,1A,1,4,0,False,solid,GHSA 2026
+Alonzo,Edmerson,GA,Bremen,285,1A,2,5,1,False,derived,GHSA 2026
+Josh,Murtaugh,GA,Gordon Lee,285,1A,3,4,2,False,derived,GHSA 2026
+Jordan,Handsom,GA,Emanuel County Institute,285,1A,4,3,1,False,derived,GHSA 2026
+Robert,Erickson,GA,Lamar County,285,1A,5,3,2,False,derived,GHSA 2026
+Brayden,Patrick,GA,Banks County,285,1A,6,2,2,False,derived,GHSA 2026
+Javonte,Cummings,GA,McIntosh County Academy,285,1A,7,2,2,False,derived,GHSA 2026
+Emmanuel,Almaraz,GA,Model,285,1A,8,2,3,False,derived,GHSA 2026
+Dax,Nobles,GA,Toombs County,285,1A,9,1,2,False,derived,GHSA 2026
+FF-Kewon,FF-Johnson,GA,Southwest,285,1A,10,1,2,False,derived,GHSA 2026
+Nick,Morrell,GA,Social Circle,285,1A,11,1,2,False,derived,GHSA 2026
+Steven,Cook,GA,Brantley County HS,285,1A,12,1,2,False,derived,GHSA 2026
+Cohen,Walker,GA,Haralson County,285,1A,13,0,2,False,derived,GHSA 2026
+Dedrian,Marshall,GA,Irwin County,285,1A,14,0,2,False,derived,GHSA 2026
+Shoo,Moo,GA,Oglethorpe County,285,1A,15,0,2,False,derived,GHSA 2026
+Travion,Heard,GA,McNair,285,1A,16,0,2,False,derived,GHSA 2026
+Chevy,Joyce,GA,Coahulla Creek,285,2A,1,4,0,False,solid,GHSA 2026
+Kyle,Terrell,GA,Cook,285,2A,2,5,1,False,derived,GHSA 2026
+Jamari,Mundy,GA,Morgan County,285,2A,3,4,2,False,derived,GHSA 2026
+Paul,Jenkins,GA,East Jackson HS,285,2A,4,3,1,False,derived,GHSA 2026
+Tevin,Mackfield,GA,Callaway,285,2A,5,3,2,False,derived,GHSA 2026
+Johnvarious,Walker,GA,Burke County,285,2A,6,2,2,False,derived,GHSA 2026
+Lazarius,Feggins,GA,Columbus,285,2A,7,2,2,False,derived,GHSA 2026
+Colton,Chappell,GA,Rockmart,285,2A,8,2,3,False,derived,GHSA 2026
+Carlin,Ervin,GA,Crisp County,285,2A,9,1,2,False,derived,GHSA 2026
+KAEDYN,BOWEN,GA,North Murray,285,2A,10,1,2,False,derived,GHSA 2026
+Larry,Stewart,GA,Redan,285,2A,11,1,2,False,derived,GHSA 2026
+Victor,Arguello,GA,Lovett School,285,2A,12,1,2,False,derived,GHSA 2026
+Larry,Ray,GA,Rutland,285,2A,13,0,2,False,derived,GHSA 2026
+Lee,Brown,GA,North Cobb Christian,285,2A,14,0,2,False,derived,GHSA 2026
+Michael,Springer,GA,"Carver, Atlanta",285,2A,15,0,2,False,derived,GHSA 2026
+Soloman,Ja`Micquel,GA,Sumter County,285,2A,16,0,2,False,derived,GHSA 2026
+Zane,Taliaferro,GA,Troup,285,3A,1,4,0,False,solid,GHSA 2026
+Fred,Toney,GA,Westover School,285,3A,2,4,1,False,derived,GHSA 2026
+Noah,Underwood,GA,Whitewater,285,3A,3,4,2,False,derived,GHSA 2026
+Toriano,Gibson,GA,Baldwin,285,3A,4,3,1,False,derived,GHSA 2026
+Denny,Ramirez,GA,Gilmer County,285,3A,5,3,2,False,derived,GHSA 2026
+Dacian,Davis,GA,Monroe Area,285,3A,6,3,3,False,derived,GHSA 2026
+Brody,Schuette,GA,Dawson County,285,3A,7,2,2,False,derived,GHSA 2026
+Ethan,Calderon,GA,West Hall,285,3A,8,2,2,False,derived,GHSA 2026
+Andy,Blankenship,GA,Oconee County,285,3A,9,1,2,False,derived,GHSA 2026
+Dymear,Williams,GA,Calvary Day School,285,3A,10,1,2,False,derived,GHSA 2026
+Keith,Walker,GA,West Laurens,285,3A,11,1,2,False,derived,GHSA 2026
+Nate,Strain,GA,White County,285,3A,12,1,2,False,derived,GHSA 2026
+Brandon,Lyons,GA,"Westside, Augusta",285,3A,13,0,2,False,derived,GHSA 2026
+Jordan,Fann,GA,Jenkins,285,3A,14,0,2,False,derived,GHSA 2026
+Landen,Kimble,GA,Bainbridge,285,3A,15,0,2,False,derived,GHSA 2026
+Ollie,Batten,GA,Harlem,285,3A,16,0,2,False,derived,GHSA 2026
+JOE,RUBERTE,GA,North Oconee,285,4A,1,4,0,False,solid,GHSA 2026
+Alex,Miller,GA,Allatoona,285,4A,2,4,1,False,derived,GHSA 2026
+Jayden,Thomasson,GA,Central (Carroll),285,4A,3,4,2,False,derived,GHSA 2026
+Wesley,Sappington,GA,Harris County,285,4A,4,3,1,False,derived,GHSA 2026
+Will,Thomas,GA,"Woodland, Cartersville",285,4A,5,3,2,False,derived,GHSA 2026
+MFF-Bradley,MFF-Gallup,GA,Hiram,285,4A,6,3,3,False,derived,GHSA 2026
+AMIR,FERGUSON,GA,Southwest Dekalb,285,4A,7,2,2,False,derived,GHSA 2026
+Jayvon,Perry,GA,Creekside,285,4A,8,2,2,False,derived,GHSA 2026
+Barrett,Rosenberger,GA,Jones County,285,4A,9,1,2,False,derived,GHSA 2026
+Eli,Poole,GA,Flowery Branch,285,4A,10,1,2,False,derived,GHSA 2026
+Luiis,Familia,GA,Southeast Whitfield,285,4A,11,1,2,False,derived,GHSA 2026
+Randall,Foster,GA,Pace Academy,285,4A,12,1,2,False,derived,GHSA 2026
+Antonio,Birch,GA,Ware County,285,4A,13,0,2,False,derived,GHSA 2026
+Decorey,Crumbley,GA,Eastside Hs,285,4A,14,0,2,False,derived,GHSA 2026
+Manny,Brown,GA,Cambridge,285,4A,15,0,2,False,derived,GHSA 2026
+Matthew,Polcyn,GA,Locust Grove,285,4A,16,0,2,False,derived,GHSA 2026
+Kevin,Steptoe,GA,South Effingham,285,5A,1,4,0,False,solid,GHSA 2026
+Jackson,Locke,GA,Creekview,285,5A,2,4,1,False,derived,GHSA 2026
+Jose,Urdaneta Silva,GA,Seckinger ,285,5A,3,4,2,False,derived,GHSA 2026
+Robert,Flores,GA,Glynn Academy,285,5A,4,4,2,False,derived,GHSA 2026
+Javonte,Bowen,GA,Habersham Central Hs,285,5A,5,3,1,False,derived,GHSA 2026
+David,Robinson,GA,Apalachee,285,5A,6,2,2,False,derived,GHSA 2026
+Emory,Hill,GA,Woodward Academy,285,5A,7,2,2,False,derived,GHSA 2026
+Tripp,Rowell,GA,Brunswick,285,5A,8,2,3,False,derived,GHSA 2026
+Bryan,Perez,GA,Loganville HS,285,5A,9,1,2,False,derived,GHSA 2026
+Emmanuel,Isidro,GA,Gainesville,285,5A,10,1,2,False,derived,GHSA 2026
+Kawaski,Brand,GA,Coffee,285,5A,11,1,2,False,derived,GHSA 2026
+Rayon,Sexton,GA,Chattahoochee HS,285,5A,12,1,2,False,derived,GHSA 2026
+Donovan,Arnold,GA,Lithia Springs,285,5A,13,0,2,False,derived,GHSA 2026
+Harrison,Sutton,GA,Milton,285,5A,14,0,2,False,derived,GHSA 2026
+LaJuan,Mitchell,GA,Lovejoy,285,5A,15,0,2,False,derived,GHSA 2026
+Victor,Esclusa,GA,Lassiter H.S.,285,5A,16,0,2,False,derived,GHSA 2026
+Grey,Richardson,GA,Buford HS,285,6A,1,4,0,False,solid,GHSA 2026
+Tim,Hyrbu,GA,West Forsyth,285,6A,2,4,1,False,derived,GHSA 2026
+Madden,Fredenburg,GA,North Cobb,285,6A,3,4,2,False,derived,GHSA 2026
+Wesley,Rakestraw,GA,North Paulding,285,6A,4,3,1,False,derived,GHSA 2026
+Joseph,Schulze,GA,Camden County,285,6A,5,3,2,False,derived,GHSA 2026
+Reader,Warner,GA,Valdosta,285,6A,6,3,3,False,derived,GHSA 2026
+Cameron,Spinks,GA,Grovetown,285,6A,7,2,2,False,derived,GHSA 2026
+William,Bales,GA,North Forsyth,285,6A,8,2,2,False,derived,GHSA 2026
+Colton,Lowe,GA,"Heritage , Conyers",285,6A,9,1,2,False,derived,GHSA 2026
+Edin,Tabora,GA,Norcross,285,6A,10,1,2,False,derived,GHSA 2026
+Ja`Mari-Jasun,Maddox,GA,Marietta,285,6A,11,1,2,False,derived,GHSA 2026
+Mustafa,Lomashvilli,GA,Forsyth Central,285,6A,12,1,2,False,derived,GHSA 2026
+Ben,McKee,GA,South Forsyth H.S.,285,6A,13,0,2,False,derived,GHSA 2026
+Gilbert,Smith,GA,Hillgrove,285,6A,14,0,2,False,derived,GHSA 2026
+Jullian,Garcia Herrera,GA,Osborne,285,6A,15,0,2,False,derived,GHSA 2026
+Samuel,Oluwadare,GA,Mountain View,285,6A,16,0,2,False,derived,GHSA 2026
